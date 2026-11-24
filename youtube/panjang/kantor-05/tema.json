@@ -1,0 +1,42 @@
+{
+ "slug": "kantor-05",
+ "title": "Klien Terbesar Mengamuk di Lobi, Rina Malah Membela Diri | Kantor Tangani: Klien Terbesar Eps 1",
+ "kicker": "Kantor Tangani: Klien Terbesar · Eps 1/4 · animasi 16:9",
+ "kind": "cerita16",
+ "parts": [
+  {
+   "name": "Pembuka & masalah",
+   "chapters": [
+    "Lobi",
+    "Klien terbesar"
+   ]
+  },
+  {
+   "name": "Memburuk",
+   "chapters": [
+    "Intinya apa?",
+    "Telepon kedua"
+   ]
+  },
+  {
+   "name": "Berubah & hasil",
+   "chapters": [
+    "Formulir pesanan",
+    "Pelajaran"
+   ]
+  },
+  {
+   "name": "Episode berikutnya",
+   "chapters": [
+    "Episode berikutnya"
+   ]
+  }
+ ],
+ "lessons": [
+  "Dengarkan sampai tuntas, tanpa membela diri.",
+  "Akui dampaknya, lalu janjikan langkah dan jam yang pasti.",
+  "Fakta tetap penting, tapi sampaikan setelah suasana tenang."
+ ],
+ "duration": 495.0,
+ "voice": "Citra (ElevenLabs)"
+}

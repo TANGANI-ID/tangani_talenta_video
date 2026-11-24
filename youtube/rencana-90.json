@@ -1,0 +1,814 @@
+{
+ "title": "Rencana video panjang",
+ "updated": "2026-11-22",
+ "schedule": "Video panjang 8–9 menit setiap hari 17.00 WIB (Sen & Kam Kantor Tangani bersambung, Sel & Jum tutorial, Rab hak karyawan, Sab skrip percakapan, Min rekap mingguan) · Shorts 2x sehari 11.30 & 19.00 WIB · judul = hook + nama seri + nomor episode",
+ "statuses": [
+  "rencana",
+  "naskah",
+  "produksi",
+  "jadi",
+  "tayang"
+ ],
+ "groups": [
+  {
+   "key": "A",
+   "name": "Kantor Tangani",
+   "note": "8 cerita bersambung × 4 episode · pemeran tetap · Senin & Kamis (1 cerita per 2 minggu)",
+   "items": [
+    {
+     "no": 1,
+     "title": "Paling Rajin di Kantor, Tapi yang Dipromosikan Orang Lain | Kantor Tangani: Tak Terlihat Eps 1",
+     "hook": "Paling Rajin di Kantor, Tapi yang Dipromosikan Orang Lain",
+     "status": "jadi",
+     "part": "Cerita 1 · Tak Terlihat · Rina · Jan–Mei",
+     "cerita": 1,
+     "eps": 1,
+     "insight": "Atasan tidak menilai seberapa sibuk kamu, tapi hasil apa yang kamu bawa. Tanyakan \"Hasil seperti apa yang Ibu harapkan dari saya?\" lalu kerjakan itu dulu.",
+     "asal": "A1"
+    },
+    {
+     "no": 2,
+     "title": "Bilang \"Aman, Bu!\" Padahal Proyeknya Hampir Gagal | Kantor Tangani: Tak Terlihat Eps 2",
+     "hook": "Bilang \"Aman, Bu!\" Padahal Proyeknya Hampir Gagal",
+     "status": "jadi",
+     "part": "Cerita 1 · Tak Terlihat · Rina · Jan–Mei",
+     "cerita": 1,
+     "eps": 2,
+     "insight": "Kabar buruk yang disampaikan lebih awal masih bisa diselamatkan; yang ditutupi sampai H-1 tidak. Laporan 3 baris: sudah selesai apa, sedang apa, butuh bantuan apa.",
+     "asal": "A2"
+    },
+    {
+     "no": 3,
+     "title": "Atasan Kirim Chat Jam 11 Malam Terus. Ternyata Ini Sebabnya | Kantor Tangani: Tak Terlihat Eps 3",
+     "hook": "Atasan Kirim Chat Jam 11 Malam Terus. Ternyata Ini Sebabnya",
+     "status": "jadi",
+     "part": "Cerita 1 · Tak Terlihat · Rina · Jan–Mei",
+     "cerita": 1,
+     "eps": 3,
+     "insight": "Atasan yang galak sering hanya kurang informasi. Kabari lebih dulu, sepakati batas jam kerja dengan sopan, dan kepercayaannya tumbuh.",
+     "asal": "A3"
+    },
+    {
+     "no": 4,
+     "title": "Nilai Kinerja Jelek, 3 Bulan Kemudian Jadi yang Terbaik | Kantor Tangani: Tak Terlihat Eps 4",
+     "hook": "Nilai Kinerja Jelek, 3 Bulan Kemudian Jadi yang Terbaik",
+     "status": "jadi",
+     "part": "Cerita 1 · Tak Terlihat · Rina · Jan–Mei",
+     "cerita": 1,
+     "eps": 4,
+     "insight": "Nilai jelek adalah peta, bukan vonis. Minta contoh konkret, pilih dua hal untuk diperbaiki, lalu minta umpan balik lagi setiap bulan.",
+     "asal": "A10"
+    },
+    {
+     "no": 5,
+     "title": "Klien Terbesar Mengamuk di Lobi, Rina Malah Membela Diri | Kantor Tangani: Klien Terbesar Eps 1",
+     "hook": "Klien Terbesar Mengamuk di Lobi, Rina Malah Membela Diri",
+     "status": "jadi",
+     "part": "Cerita 2 · Klien Terbesar · Rina & Dodi · Jun",
+     "cerita": 2,
+     "eps": 1,
+     "insight": "Dengarkan sampai tuntas, akui masalahnya tanpa membela diri, lalu tawarkan langkah dan jam pastinya. Klien yang ditangani dengan baik saat marah justru jadi paling setia.",
+     "asal": "A4"
+    },
+    {
+     "no": 6,
+     "title": "Orang Gudang Tidak Mau Membantu, Sampai Rina Melakukan Ini | Kantor Tangani: Klien Terbesar Eps 2",
+     "hook": "Orang Gudang Tidak Mau Membantu, Sampai Rina Melakukan Ini",
+     "status": "jadi",
+     "part": "Cerita 2 · Klien Terbesar · Rina & Dodi · Jun",
+     "cerita": 2,
+     "eps": 2,
+     "insight": "Pekerjaan lintas divisi lancar kalau hubungannya dibangun sebelum butuh. Kenali cara kerja divisi lain, bantu mereka dulu, dan ucapkan terima kasih secara terbuka.",
+     "asal": "A9"
+    },
+    {
+     "no": 7,
+     "title": "Klien Terbesar Memberi Waktu 7 Hari Sebelum Pergi | Kantor Tangani: Klien Terbesar Eps 3",
+     "hook": "Klien Terbesar Memberi Waktu 7 Hari Sebelum Pergi",
+     "status": "jadi",
+     "part": "Cerita 2 · Klien Terbesar · Rina & Dodi · Jun",
+     "cerita": 2,
+     "eps": 3,
+     "insight": "Saat krisis, kepercayaan pulih lewat rencana yang jelas dan kabar rutin. Pegang tanggung jawab, bagi tugas harian, dan laporkan kemajuan setiap hari.",
+     "asal": "A21"
+    },
+    {
+     "no": 8,
+     "title": "Gudang Paling Lambat Mau Diserahkan ke Pihak Luar | Kantor Tangani: Klien Terbesar Eps 4",
+     "hook": "Gudang Paling Lambat Mau Diserahkan ke Pihak Luar",
+     "status": "jadi",
+     "part": "Cerita 2 · Klien Terbesar · Rina & Dodi · Jun",
+     "cerita": 2,
+     "eps": 4,
+     "insight": "Masalah yang diukur bisa diperbaiki. Catat di mana waktu paling banyak terbuang, perbaiki hambatan terbesar dulu, lalu ukur lagi.",
+     "asal": "A24"
+    },
+    {
+     "no": 9,
+     "title": "Gaji Sama Besar, Kenapa Rina Bisa Menabung dan Bayu Tidak? | Kantor Tangani: Utang Bayu Eps 1",
+     "hook": "Gaji Sama Besar, Kenapa Rina Bisa Menabung dan Bayu Tidak?",
+     "status": "rencana",
+     "part": "Cerita 3 · Utang Bayu · Bayu · Jul",
+     "cerita": 3,
+     "eps": 1,
+     "insight": "Masalah uang ikut masuk ke meja kerja. Sisihkan tabungan di awal gajian, bukan dari sisa, dan berhenti menambal cicilan dengan cicilan baru.",
+     "asal": "A5"
+    },
+    {
+     "no": 10,
+     "title": "Suara Atasan Minta Transfer 25 Juta. Ternyata Bukan Dia | Kantor Tangani: Utang Bayu Eps 2",
+     "hook": "Suara Atasan Minta Transfer 25 Juta. Ternyata Bukan Dia",
+     "status": "rencana",
+     "part": "Cerita 3 · Utang Bayu · Bayu · Jul",
+     "cerita": 3,
+     "eps": 2,
+     "insight": "Permintaan transfer lewat pesan atau suara, apalagi yang mendesak, wajib dicek ulang lewat jalur lain. Satu telepon konfirmasi bisa menyelamatkan puluhan juta.",
+     "asal": "A17"
+    },
+    {
+     "no": 11,
+     "title": "Penagih Utang Menelepon ke Kantor, Satu Divisi Jadi Tahu | Kantor Tangani: Utang Bayu Eps 3",
+     "hook": "Penagih Utang Menelepon ke Kantor, Satu Divisi Jadi Tahu",
+     "status": "rencana",
+     "part": "Cerita 3 · Utang Bayu · Bayu · Jul",
+     "cerita": 3,
+     "eps": 3,
+     "insight": "Saat utang mulai mengganggu pekerjaan, jangan bersembunyi. Peduli pada rekan berarti berani bicara empat mata tanpa menghakimi, dan membantu mencari jalan keluar, bukan meminjamkan uang untuk menambal.",
+     "asal": "baru"
+    },
+    {
+     "no": 12,
+     "title": "Terjerat 7 Aplikasi Paylater Sampai Gaji Habis. Begini Bayu Bebas | Kantor Tangani: Utang Bayu Eps 4",
+     "hook": "Terjerat 7 Aplikasi Paylater Sampai Gaji Habis. Begini Bayu Bebas",
+     "status": "rencana",
+     "part": "Cerita 3 · Utang Bayu · Bayu · Jul",
+     "cerita": 3,
+     "eps": 4,
+     "insight": "Keluar dari jerat utang dimulai dengan jujur: daftar semua utang, berhenti menambah, lunasi berurutan, minta keringanan, dan cek legalitas pemberi pinjaman di OJK.",
+     "asal": "A22"
+    },
+    {
+     "no": 13,
+     "title": "Anak Baru Dilempar Semua Kerjaan dan Tidak Berani Menolak | Kantor Tangani: Anak Baru Eps 1",
+     "hook": "Anak Baru Dilempar Semua Kerjaan dan Tidak Berani Menolak",
+     "status": "rencana",
+     "part": "Cerita 4 · Anak Baru · Nisa · Agu",
+     "cerita": 4,
+     "eps": 1,
+     "insight": "Anak baru boleh menolak dengan sopan: sebutkan pekerjaan yang sedang dipegang, lalu tanyakan mana yang harus didahulukan. Pembimbing yang baik membantu menyusun urutannya.",
+     "asal": "A7"
+    },
+    {
+     "no": 14,
+     "title": "Semua Bilang URGENT, Anak Baru Menangis di Pantry | Kantor Tangani: Anak Baru Eps 2",
+     "hook": "Semua Bilang URGENT, Anak Baru Menangis di Pantry",
+     "status": "rencana",
+     "part": "Cerita 4 · Anak Baru · Nisa · Agu",
+     "cerita": 4,
+     "eps": 2,
+     "insight": "Kalau semua \"urgent\", tidak ada yang benar-benar urgent. Buat satu pintu masuk permintaan dan aturan prioritas yang disepakati bersama.",
+     "asal": "A23"
+    },
+    {
+     "no": 15,
+     "title": "Satu Detik Lagi, Data Klien Masuk ke AI Publik | Kantor Tangani: Anak Baru Eps 3",
+     "hook": "Satu Detik Lagi, Data Klien Masuk ke AI Publik",
+     "status": "rencana",
+     "part": "Cerita 4 · Anak Baru · Nisa · Agu",
+     "cerita": 4,
+     "eps": 3,
+     "insight": "AI menghemat waktu, tapi data yang ditempel ke AI publik bisa keluar dari kantor. Samarkan nama, angka, dan data pelanggan sebelum memakai AI.",
+     "asal": "A15"
+    },
+    {
+     "no": 16,
+     "title": "Disalahkan di Depan Atasan Atas Kesalahan yang Bukan Salahnya | Kantor Tangani: Anak Baru Eps 4",
+     "hook": "Disalahkan di Depan Atasan Atas Kesalahan yang Bukan Salahnya",
+     "status": "rencana",
+     "part": "Cerita 4 · Anak Baru · Nisa · Agu",
+     "cerita": 4,
+     "eps": 4,
+     "insight": "Jangan ikut saling menyalahkan. Kumpulkan fakta dulu, cari di langkah mana kesalahannya terjadi, lalu perbaiki prosesnya, bukan orangnya.",
+     "asal": "A8"
+    },
+    {
+     "no": 17,
+     "title": "Tidak Ada yang Mau Tugas Ini. Rina Mengangkat Tangan | Kantor Tangani: Panggung Pertama Eps 1",
+     "hook": "Tidak Ada yang Mau Tugas Ini. Rina Mengangkat Tangan",
+     "status": "rencana",
+     "part": "Cerita 5 · Panggung Pertama · Rina · Sep",
+     "cerita": 5,
+     "eps": 1,
+     "insight": "Tugas yang dihindari orang lain adalah panggung paling cepat untuk terlihat. Ajukan diri dengan rencana sederhana, bukan sekadar semangat.",
+     "asal": "A11"
+    },
+    {
+     "no": 18,
+     "title": "Siapkan 100 Kursi, yang Datang Cuma 9 Orang | Kantor Tangani: Panggung Pertama Eps 2",
+     "hook": "Siapkan 100 Kursi, yang Datang Cuma 9 Orang",
+     "status": "rencana",
+     "part": "Cerita 5 · Panggung Pertama · Rina · Sep",
+     "cerita": 5,
+     "eps": 2,
+     "insight": "Gagal pertama itu data. Tanyakan kenapa orang tidak datang, perbaiki satu hal itu, dan muncul lagi, jangan bersembunyi.",
+     "asal": "A12"
+    },
+    {
+     "no": 19,
+     "title": "Lembur Tiap Malam Sampai Nyaris Celaka di Jalan Pulang | Kantor Tangani: Panggung Pertama Eps 3",
+     "hook": "Lembur Tiap Malam Sampai Nyaris Celaka di Jalan Pulang",
+     "status": "rencana",
+     "part": "Cerita 5 · Panggung Pertama · Rina · Sep",
+     "cerita": 5,
+     "eps": 3,
+     "insight": "Lembur setiap malam bukan prestasi, itu tanda prioritas belum jelas. Kerjakan tiga hal terpenting di jam segar, lalu pulang tepat waktu.",
+     "asal": "A13"
+    },
+    {
+     "no": 20,
+     "title": "Atasan Cuti, 30 Keluhan Menumpuk. Siapa yang Memimpin? | Kantor Tangani: Panggung Pertama Eps 4",
+     "hook": "Atasan Cuti, 30 Keluhan Menumpuk. Siapa yang Memimpin?",
+     "status": "rencana",
+     "part": "Cerita 5 · Panggung Pertama · Rina · Sep",
+     "cerita": 5,
+     "eps": 4,
+     "insight": "Memimpin tidak menunggu jabatan. Orang mengikuti yang mau mengambil tanggung jawab, membagi tugas dengan jelas, dan membantu tim menyelesaikan masalah.",
+     "asal": "A18"
+    },
+    {
+     "no": 21,
+     "title": "Rapat 2 Jam Tanpa Keputusan, Sampai Ada yang Berani Usul Ini | Kantor Tangani: Rina & Sinta Eps 1",
+     "hook": "Rapat 2 Jam Tanpa Keputusan, Sampai Ada yang Berani Usul Ini",
+     "status": "rencana",
+     "part": "Cerita 6 · Rina & Sinta · Sinta · Okt",
+     "cerita": 6,
+     "eps": 1,
+     "insight": "Rapat jadi singkat jika ada agenda, batas waktu, satu pengambil keputusan, dan setiap poin ditutup dengan siapa mengerjakan apa sampai kapan.",
+     "asal": "A6"
+    },
+    {
+     "no": 22,
+     "title": "Gosip Menyebar: Dia Naik Jabatan Karena Dekat Atasan | Kantor Tangani: Rina & Sinta Eps 2",
+     "hook": "Gosip Menyebar: Dia Naik Jabatan Karena Dekat Atasan",
+     "status": "rencana",
+     "part": "Cerita 6 · Rina & Sinta · Sinta · Okt",
+     "cerita": 6,
+     "eps": 2,
+     "insight": "Gosip berhenti di orang yang tidak meneruskannya. Jangan ikut menyebarkan, bicara langsung pada orangnya, dan biarkan hasil kerja yang menjawab.",
+     "asal": "A16"
+    },
+    {
+     "no": 23,
+     "title": "Bertengkar dengan Rekan Kerja di Depan Satu Tim | Kantor Tangani: Rina & Sinta Eps 3",
+     "hook": "Bertengkar dengan Rekan Kerja di Depan Satu Tim",
+     "status": "rencana",
+     "part": "Cerita 6 · Rina & Sinta · Sinta · Okt",
+     "cerita": 6,
+     "eps": 3,
+     "insight": "Beda pendapat itu sehat asal yang diperdebatkan idenya, bukan orangnya. Dengarkan alasannya, cari tujuan bersama, lalu putuskan dengan data.",
+     "asal": "A19"
+    },
+    {
+     "no": 24,
+     "title": "Pesan Menjelekkan Klien Terkirim ke Grup Klien Itu Sendiri | Kantor Tangani: Rina & Sinta Eps 4",
+     "hook": "Pesan Menjelekkan Klien Terkirim ke Grup Klien Itu Sendiri",
+     "status": "rencana",
+     "part": "Cerita 6 · Rina & Sinta · Sinta · Okt",
+     "cerita": 6,
+     "eps": 4,
+     "insight": "Minta maaf yang tuntas: akui tanpa \"tapi\", jelaskan dampaknya, perbaiki saat itu juga, dan tunjukkan cara supaya tidak terulang.",
+     "asal": "A20"
+    },
+    {
+     "no": 25,
+     "title": "Si Pendiam Harus Presentasi di Depan Direksi Besok Pagi | Kantor Tangani: Si Pendiam Eps 1",
+     "hook": "Si Pendiam Harus Presentasi di Depan Direksi Besok Pagi",
+     "status": "rencana",
+     "part": "Cerita 7 · Si Pendiam · Yoga · Nov",
+     "cerita": 7,
+     "eps": 1,
+     "insight": "Presentasi yang baik bukan soal pandai bicara. Satu pesan utama, tiga bukti, dan latihan dengan suara keras membuat orang pendiam pun meyakinkan.",
+     "asal": "A14"
+    },
+    {
+     "no": 26,
+     "title": "Datanya Membuktikan Rencana Atasan Keliru. Berani Bilang? | Kantor Tangani: Si Pendiam Eps 2",
+     "hook": "Datanya Membuktikan Rencana Atasan Keliru. Berani Bilang?",
+     "status": "rencana",
+     "part": "Cerita 7 · Si Pendiam · Yoga · Nov",
+     "cerita": 7,
+     "eps": 2,
+     "insight": "Menyampaikan data yang tidak disukai atasan butuh tiga hal: fakta yang bisa dicek, waktu bicara empat mata, dan usulan jalan keluar.",
+     "asal": "baru"
+    },
+    {
+     "no": 27,
+     "title": "Auditor Datang Tanpa Pemberitahuan, Satu Kantor Panik | Kantor Tangani: Si Pendiam Eps 3",
+     "hook": "Auditor Datang Tanpa Pemberitahuan, Satu Kantor Panik",
+     "status": "rencana",
+     "part": "Cerita 7 · Si Pendiam · Yoga · Nov",
+     "cerita": 7,
+     "eps": 3,
+     "insight": "Audit tidak menakutkan bagi yang terbiasa mencatat. Simpan bukti setiap pekerjaan di tempat yang rapi dan pakai checklist yang sama setiap kali.",
+     "asal": "A27"
+    },
+    {
+     "no": 28,
+     "title": "Tenggat Tinggal 9 Hari, Tahun Lalu Semua Begadang Sampai Subuh | Kantor Tangani: Si Pendiam Eps 4",
+     "hook": "Tenggat Tinggal 9 Hari, Tahun Lalu Semua Begadang Sampai Subuh",
+     "status": "rencana",
+     "part": "Cerita 7 · Si Pendiam · Yoga · Nov",
+     "cerita": 7,
+     "eps": 4,
+     "insight": "Tenggat besar diselesaikan dengan rencana mundur dari tanggal akhir, pembagian tugas yang jelas, dan jam istirahat yang dijaga, bukan begadang.",
+     "asal": "A28"
+    },
+    {
+     "no": 29,
+     "title": "Ingin Naik Jabatan Tapi Takut Dibilang Ambisius | Kantor Tangani: Kursi Ketua Eps 1",
+     "hook": "Ingin Naik Jabatan Tapi Takut Dibilang Ambisius",
+     "status": "rencana",
+     "part": "Cerita 8 · Kursi Ketua · Rina · Des–Jan",
+     "cerita": 8,
+     "eps": 1,
+     "insight": "Promosi jarang datang tanpa diminta. Ajak atasan bicara soal karier, tunjukkan hasil yang sudah kamu capai, lalu tanyakan apa yang perlu dibuktikan untuk naik.",
+     "asal": "A25"
+    },
+    {
+     "no": 30,
+     "title": "Ditawari Gaji 30% Lebih Besar oleh Kantor Seberang Jalan | Kantor Tangani: Kursi Ketua Eps 2",
+     "hook": "Ditawari Gaji 30% Lebih Besar oleh Kantor Seberang Jalan",
+     "status": "rencana",
+     "part": "Cerita 8 · Kursi Ketua · Rina · Des–Jan",
+     "cerita": 8,
+     "eps": 2,
+     "insight": "Jangan putuskan hanya dari angka gaji. Bandingkan tanggung jawab, peluang belajar, dan budaya kerjanya, lalu nego dengan data, bukan ancaman.",
+     "asal": "A26"
+    },
+    {
+     "no": 31,
+     "title": "Pengumuman Ketua Tim Baru: Rina atau Kandidat dari Pusat? | Kantor Tangani: Kursi Ketua Eps 3",
+     "hook": "Pengumuman Ketua Tim Baru: Rina atau Kandidat dari Pusat?",
+     "status": "rencana",
+     "part": "Cerita 8 · Kursi Ketua · Rina · Des–Jan",
+     "cerita": 8,
+     "eps": 3,
+     "insight": "Kenaikan jabatan adalah hasil kebiasaan kecil yang konsisten setahun penuh: kabari lebih dulu, bantu tim, dan bawa solusi, bukan hanya masalah.",
+     "asal": "A29"
+    },
+    {
+     "no": 32,
+     "title": "Hari Pertama Jadi Atasan, Sahabatnya Sendiri Membangkang | Kantor Tangani: Kursi Ketua Eps 4",
+     "hook": "Hari Pertama Jadi Atasan, Sahabatnya Sendiri Membangkang",
+     "status": "rencana",
+     "part": "Cerita 8 · Kursi Ketua · Rina · Des–Jan",
+     "cerita": 8,
+     "eps": 4,
+     "insight": "Pemimpin baru berhasil saat mau mendelegasikan. Bicara jujur dengan mantan rekan, sepakati cara kerja baru, dan percayakan pekerjaan sesuai kekuatan masing-masing.",
+     "asal": "A30"
+    }
+   ]
+  },
+  {
+   "key": "B",
+   "name": "Kelas Produktif",
+   "note": "Tutorial · host Yoga / Sinta · Selasa & Jumat",
+   "items": [
+    {
+     "no": 1,
+     "title": "Sibuk Seharian Tapi Tidak Ada yang Selesai? Atur Prioritas Begini | Kelas Produktif Eps 1",
+     "status": "rencana",
+     "insight": "Sibuk belum tentu produktif. Pisahkan pekerjaan penting dari yang sekadar mendesak, dan kerjakan yang penting sebelum membuka chat.",
+     "hook": "Sibuk Seharian Tapi Tidak Ada yang Selesai? Atur Prioritas Begini"
+    },
+    {
+     "no": 2,
+     "title": "Susah Fokus Kerja? Coba Teknik 25 Menit Ini (Pomodoro) | Kelas Produktif Eps 2",
+     "status": "rencana",
+     "insight": "Otak bekerja lebih baik dalam sesi pendek tanpa gangguan: fokus 25 menit pada satu tugas, istirahat 5 menit, ulangi.",
+     "hook": "Susah Fokus Kerja? Coba Teknik 25 Menit Ini (Pomodoro)"
+    },
+    {
+     "no": 3,
+     "title": "To-Do List-mu Tidak Pernah Selesai? Ini Kesalahannya | Kelas Produktif Eps 3",
+     "status": "rencana",
+     "insight": "To-do list gagal karena isinya terlalu banyak dan kabur. Tulis maksimal tiga tugas utama dengan kata kerja yang jelas dan ukurannya.",
+     "hook": "To-Do List-mu Tidak Pernah Selesai? Ini Kesalahannya"
+    },
+    {
+     "no": 4,
+     "title": "15 Menit di Hari Senin yang Menyelamatkan Seminggu | Kelas Produktif Eps 4",
+     "status": "rencana",
+     "insight": "Luangkan 15 menit di Senin pagi untuk memilih target minggu ini dan menaruhnya di kalender, supaya minggumu tidak dikendalikan permintaan orang lain.",
+     "hook": "15 Menit di Hari Senin yang Menyelamatkan Seminggu"
+    },
+    {
+     "no": 5,
+     "title": "Kenapa Kamu Menunda Pekerjaan, dan Cara Berhentinya | Kelas Produktif Eps 5",
+     "status": "rencana",
+     "insight": "Menunda biasanya bukan malas, tapi tugas terasa terlalu besar atau tidak jelas. Pecah jadi langkah 5 menit dan mulai dari yang paling mudah.",
+     "hook": "Kenapa Kamu Menunda Pekerjaan, dan Cara Berhentinya"
+    },
+    {
+     "no": 6,
+     "title": "HP Bunyi Tiap 3 Menit? Cara Mengatur Notifikasi Kerja | Kelas Produktif Eps 6",
+     "status": "rencana",
+     "insight": "Setiap notifikasi memotong fokus. Matikan yang tidak penting, cek chat di jam tertentu, dan beri tahu tim kapan kamu bisa dihubungi.",
+     "hook": "HP Bunyi Tiap 3 Menit? Cara Mengatur Notifikasi Kerja"
+    },
+    {
+     "no": 7,
+     "title": "Email Kerjamu Diabaikan? Perbaiki 5 Bagian Ini (+ Templat) | Kelas Produktif Eps 7",
+     "status": "rencana",
+     "insight": "Email dibaca kalau mudah dipahami: subjek yang jelas, inti di kalimat pertama, satu permintaan, tenggat, dan penutup yang sopan.",
+     "hook": "Email Kerjamu Diabaikan? Perbaiki 5 Bagian Ini (+ Templat)"
+    },
+    {
+     "no": 8,
+     "title": "Atasan Selalu Tanya \"Gimana Progresnya?\" Kirim 3 Baris Ini | Kelas Produktif Eps 8",
+     "status": "rencana",
+     "insight": "Laporan progres terbaik cukup tiga baris: sudah selesai apa, sedang dikerjakan apa, dan butuh bantuan apa. Kirim sebelum atasan bertanya.",
+     "hook": "Atasan Selalu Tanya \"Gimana Progresnya?\" Kirim 3 Baris Ini"
+    },
+    {
+     "no": 9,
+     "title": "Rapat 30 Menit yang Langsung Menghasilkan Keputusan | Kelas Produktif Eps 9",
+     "status": "rencana",
+     "insight": "Rapat menghasilkan keputusan kalau tujuannya ditulis di undangan, pesertanya hanya yang perlu, dan ditutup dengan siapa mengerjakan apa sampai kapan.",
+     "hook": "Rapat 30 Menit yang Langsung Menghasilkan Keputusan"
+    },
+    {
+     "no": 10,
+     "title": "CV yang Dilirik HRD: Contoh dan Templat | Kelas Produktif Eps 10",
+     "status": "rencana",
+     "insight": "HRD hanya melihat CV beberapa detik. Tulis pencapaian dengan angka, sesuaikan dengan lowongan, dan pakai format satu atau dua halaman yang rapi.",
+     "hook": "CV yang Dilirik HRD: Contoh dan Templat"
+    },
+    {
+     "no": 11,
+     "title": "Gugup Presentasi di Depan Atasan? Lakukan Ini 10 Menit Sebelumnya | Kelas Produktif Eps 11",
+     "status": "rencana",
+     "insight": "Gugup itu wajar. Latih kalimat pembuka dengan suara keras, atur napas pelan, dan ingat satu pesan utama yang harus sampai.",
+     "hook": "Gugup Presentasi di Depan Atasan? Lakukan Ini 10 Menit Sebelumnya"
+    },
+    {
+     "no": 12,
+     "title": "Terlihat Bagus di Mata Atasan Tanpa Cari Muka | Kelas Produktif Eps 12",
+     "status": "rencana",
+     "insight": "Terlihat bagus bukan soal cari muka, tapi bisa diandalkan: tepat janji, kabari lebih dulu, dan bawa solusi saat melapor masalah.",
+     "hook": "Terlihat Bagus di Mata Atasan Tanpa Cari Muka"
+    },
+    {
+     "no": 13,
+     "title": "3 Rumus Excel yang Wajib Dikuasai Admin (SUM, IF, XLOOKUP) | Kelas Produktif Eps 13",
+     "status": "rencana",
+     "insight": "Tiga rumus menyelesaikan sebagian besar pekerjaan admin: SUM untuk menjumlah, IF untuk memberi kondisi, XLOOKUP untuk mencari data dari tabel lain.",
+     "hook": "3 Rumus Excel yang Wajib Dikuasai Admin (SUM, IF, XLOOKUP)"
+    },
+    {
+     "no": 14,
+     "title": "Tabel Excel Berantakan Jadi Rapi dalam 5 Menit | Kelas Produktif Eps 14",
+     "status": "rencana",
+     "insight": "Tabel yang rapi membuat data mudah dibaca dan dihitung: satu baris satu data, judul kolom jelas, format seragam, lalu ubah jadi Table dengan filter.",
+     "hook": "Tabel Excel Berantakan Jadi Rapi dalam 5 Menit"
+    },
+    {
+     "no": 15,
+     "title": "Pivot Table: Ribuan Baris Data Jadi Ringkasan dalam 1 Menit | Kelas Produktif Eps 15",
+     "status": "rencana",
+     "insight": "Pivot Table meringkas ribuan baris tanpa rumus: seret kolom ke baris, kolom, dan nilai, dan ringkasanmu langsung jadi.",
+     "hook": "Pivot Table: Ribuan Baris Data Jadi Ringkasan dalam 1 Menit"
+    },
+    {
+     "no": 16,
+     "title": "Grafik Laporanmu Bikin Bingung? Begini Cara Membuat yang Jelas | Kelas Produktif Eps 16",
+     "status": "rencana",
+     "insight": "Grafik yang jelas punya satu pesan. Pilih jenis grafik sesuai tujuan, buang hiasan, dan tulis kesimpulannya di judul grafik.",
+     "hook": "Grafik Laporanmu Bikin Bingung? Begini Cara Membuat yang Jelas"
+    },
+    {
+     "no": 17,
+     "title": "Berhenti Kirim File \"Final_Revisi_3.xlsx\": Kerja Tim di Google Sheets | Kelas Produktif Eps 17",
+     "status": "rencana",
+     "insight": "Satu file yang dikerjakan bersama di Google Sheets lebih aman daripada lima file revisi: pakai komentar, hak akses, dan riwayat versi.",
+     "hook": "Berhenti Kirim File \"Final_Revisi_3.xlsx\": Kerja Tim di Google Sheets"
+    },
+    {
+     "no": 18,
+     "title": "Berhenti Pakai Mouse untuk Ini: Shortcut Keyboard Kerja | Kelas Produktif Eps 18",
+     "status": "rencana",
+     "insight": "Shortcut keyboard menghemat banyak detik yang terkumpul jadi jam. Kuasai 10 shortcut yang paling sering kamu pakai dulu.",
+     "hook": "Berhenti Pakai Mouse untuk Ini: Shortcut Keyboard Kerja"
+    },
+    {
+     "no": 19,
+     "title": "Belum Pernah Pakai AI untuk Kerja? Mulai dari Sini | Kelas Produktif Eps 19",
+     "status": "rencana",
+     "insight": "AI paling membantu untuk draf, ringkasan, dan ide. Mulai dari tugas kecil yang hasilnya mudah kamu cek sendiri.",
+     "hook": "Belum Pernah Pakai AI untuk Kerja? Mulai dari Sini"
+    },
+    {
+     "no": 20,
+     "title": "Jawaban AI-mu Jelek? Masalahnya di Prompt | Kelas Produktif Eps 20",
+     "status": "rencana",
+     "insight": "Jawaban AI sebagus perintahnya. Sebutkan peran, tugas, konteks, dan format hasil yang kamu inginkan.",
+     "hook": "Jawaban AI-mu Jelek? Masalahnya di Prompt"
+    },
+    {
+     "no": 21,
+     "title": "Rapat 1 Jam Jadi Ringkasan 5 Baris dengan AI | Kelas Produktif Eps 21",
+     "status": "rencana",
+     "insight": "AI bisa meringkas rapat jadi keputusan dan tugas, asal kamu memintanya dengan format yang jelas dan mengecek hasilnya sebelum dibagikan.",
+     "hook": "Rapat 1 Jam Jadi Ringkasan 5 Baris dengan AI"
+    },
+    {
+     "no": 22,
+     "title": "Email Ditulis AI? Cek 4 Hal Ini Sebelum Kirim | Kelas Produktif Eps 22",
+     "status": "rencana",
+     "insight": "AI bisa salah dengan sangat yakin. Sebelum mengirim, cek fakta dan angka, nada bahasa, nama penerima, dan data yang tidak boleh ikut.",
+     "hook": "Email Ditulis AI? Cek 4 Hal Ini Sebelum Kirim"
+    },
+    {
+     "no": 23,
+     "title": "Jangan Pernah Masukkan 5 Data Ini ke AI | Kelas Produktif Eps 23",
+     "status": "rencana",
+     "insight": "Data pelanggan, data pribadi karyawan, password, angka keuangan internal, dan dokumen rahasia tidak boleh dimasukkan ke AI publik.",
+     "hook": "Jangan Pernah Masukkan 5 Data Ini ke AI"
+    },
+    {
+     "no": 24,
+     "title": "Jadikan AI Guru Pribadi untuk Belajar Skill Baru | Kelas Produktif Eps 24",
+     "status": "rencana",
+     "insight": "Jadikan AI tutor: minta penjelasan bertahap, contoh, dan kuis untuk menguji pemahamanmu, lalu praktikkan langsung di pekerjaan.",
+     "hook": "Jadikan AI Guru Pribadi untuk Belajar Skill Baru"
+    },
+    {
+     "no": 25,
+     "title": "Laporan Bulananmu Tidak Dibaca Atasan? Ubah Halaman Pertamanya | Kelas Produktif Eps 25",
+     "status": "rencana",
+     "insight": "Atasan membaca halaman pertama. Taruh kesimpulan, angka utama, dan tindakan yang dibutuhkan di sana; detailnya di lampiran.",
+     "hook": "Laporan Bulananmu Tidak Dibaca Atasan? Ubah Halaman Pertamanya"
+    },
+    {
+     "no": 26,
+     "title": "Tugas Membosankan Selesai 2x Lebih Cepat dengan Otomatisasi Sederhana | Kelas Produktif Eps 26",
+     "status": "rencana",
+     "insight": "Pekerjaan yang diulang setiap hari layak diotomatiskan. Mulai dari templat, rumus, dan fitur otomatis yang sudah ada di aplikasi kantormu.",
+     "hook": "Tugas Membosankan Selesai 2x Lebih Cepat dengan Otomatisasi Sederhana"
+    },
+    {
+     "no": 27,
+     "title": "Pertanyaan Wawancara Kerja yang Paling Sering Muncul (dan Cara Menjawabnya) | Kelas Produktif Eps 27",
+     "status": "rencana",
+     "insight": "Pewawancara mencari bukti, bukan jawaban hafalan. Siapkan cerita singkat: situasi, tugas, tindakan, dan hasil.",
+     "hook": "Pertanyaan Wawancara Kerja yang Paling Sering Muncul (dan Cara Menjawabnya)"
+    },
+    {
+     "no": 28,
+     "title": "\"Target Naik\" Itu Bukan Target. Begini Target yang Benar | Kelas Produktif Eps 28",
+     "status": "rencana",
+     "insight": "Target yang baik bisa diukur: apa yang dicapai, berapa angkanya, dan kapan tenggatnya. \"Naik\" saja bukan target.",
+     "hook": "\"Target Naik\" Itu Bukan Target. Begini Target yang Benar"
+    },
+    {
+     "no": 29,
+     "title": "Cari File Kerja Sampai 10 Menit? Rapikan dengan Sistem Ini | Kelas Produktif Eps 29",
+     "status": "rencana",
+     "insight": "File mudah dicari kalau namanya konsisten: tanggal, proyek, isi, versi. Satu sistem folder untuk semua orang di tim.",
+     "hook": "Cari File Kerja Sampai 10 Menit? Rapikan dengan Sistem Ini"
+    },
+    {
+     "no": 30,
+     "title": "Siapkan Ini Sebelum Minta Naik Gaji | Kelas Produktif Eps 30",
+     "status": "rencana",
+     "insight": "Kenaikan gaji dinilai dari nilai kerjamu, bukan kebutuhanmu. Siapkan bukti hasil, tanggung jawab tambahan, dan data gaji pasar sebelum bicara.",
+     "hook": "Siapkan Ini Sebelum Minta Naik Gaji"
+    }
+   ]
+  },
+  {
+   "key": "C1",
+   "name": "Hak Karyawan",
+   "note": "Riset aturan resmi terbaru + catatan bukan nasihat hukum · Rabu",
+   "items": [
+    {
+     "no": 1,
+     "title": "Sudah Kerja Setahun, Berapa Hari Cuti yang Jadi Hakmu? | Hak Karyawan Eps 1",
+     "status": "rencana",
+     "insight": "Setelah bekerja 12 bulan terus-menerus, karyawan berhak cuti tahunan minimal 12 hari kerja dengan upah tetap dibayar. Cek aturan rincinya di perjanjian kerja dan peraturan perusahaan.",
+     "hook": "Sudah Kerja Setahun, Berapa Hari Cuti yang Jadi Hakmu?"
+    },
+    {
+     "no": 2,
+     "title": "Lembur 3 Jam Harusnya Dibayar Berapa? Cara Menghitungnya | Hak Karyawan Eps 2",
+     "status": "rencana",
+     "insight": "Upah lembur per jam dihitung dari 1/173 upah sebulan: jam pertama 1,5 kali, jam berikutnya 2 kali di hari kerja biasa. Lembur juga harus atas persetujuanmu.",
+     "hook": "Lembur 3 Jam Harusnya Dibayar Berapa? Cara Menghitungnya"
+    },
+    {
+     "no": 3,
+     "title": "THR Belum Cair? Ini Aturan dan Batas Waktunya | Hak Karyawan Eps 3",
+     "status": "rencana",
+     "insight": "THR keagamaan wajib dibayar paling lambat 7 hari sebelum hari raya: satu bulan upah untuk masa kerja 12 bulan atau lebih, proporsional untuk masa kerja minimal satu bulan.",
+     "hook": "THR Belum Cair? Ini Aturan dan Batas Waktunya"
+    },
+    {
+     "no": 4,
+     "title": "Potongan BPJS di Slip Gajimu Itu untuk Apa Saja? | Hak Karyawan Eps 4",
+     "status": "rencana",
+     "insight": "Potongan BPJS di slip gaji adalah iuran bagianmu untuk jaminan kesehatan, hari tua, dan pensiun; sisanya ditanggung kantor. Pastikan iurannya benar-benar disetor dengan mengecek aplikasi resminya.",
+     "hook": "Potongan BPJS di Slip Gajimu Itu untuk Apa Saja?"
+    },
+    {
+     "no": 5,
+     "title": "BPJS Kesehatan dari Kantor: Keluargamu Ikut Ditanggung? | Hak Karyawan Eps 5",
+     "status": "rencana",
+     "insight": "BPJS Kesehatan dari kantor menanggung karyawan beserta suami/istri dan anak sesuai batas yang diatur. Anggota keluarga lain bisa ditambahkan dengan iuran tambahan.",
+     "hook": "BPJS Kesehatan dari Kantor: Keluargamu Ikut Ditanggung?"
+    },
+    {
+     "no": 6,
+     "title": "Kontrak Terus, Kapan Jadi Karyawan Tetap? | Hak Karyawan Eps 6",
+     "status": "rencana",
+     "insight": "Kontrak (PKWT) ada batas waktunya dan tidak boleh untuk pekerjaan yang sifatnya tetap. Saat kontrak berakhir, ada uang kompensasi yang menjadi hakmu.",
+     "hook": "Kontrak Terus, Kapan Jadi Karyawan Tetap?"
+    },
+    {
+     "no": 7,
+     "title": "Masa Percobaan Kerja Boleh Berapa Lama? | Hak Karyawan Eps 7",
+     "status": "rencana",
+     "insight": "Masa percobaan paling lama 3 bulan dan hanya untuk karyawan tetap (PKWTT), bukan karyawan kontrak. Selama masa percobaan, upah tetap tidak boleh di bawah upah minimum.",
+     "hook": "Masa Percobaan Kerja Boleh Berapa Lama?"
+    },
+    {
+     "no": 8,
+     "title": "Cuti Melahirkan Berapa Bulan? Plus Cuti yang Jarang Diketahui | Hak Karyawan Eps 8",
+     "status": "rencana",
+     "insight": "Karyawan perempuan berhak cuti melahirkan dengan upah dibayar; ada juga hak cuti keguguran, cuti suami saat istri melahirkan, dan waktu menyusui yang sering terlupa.",
+     "hook": "Cuti Melahirkan Berapa Bulan? Plus Cuti yang Jarang Diketahui"
+    },
+    {
+     "no": 9,
+     "title": "Mau Resign? Jangan Sampai Kehilangan Hak Ini | Hak Karyawan Eps 9",
+     "status": "rencana",
+     "insight": "Resign yang aman: ajukan tertulis sesuai jangka waktu pemberitahuan, selesaikan serah terima, lalu pastikan hak seperti sisa cuti, uang penggantian hak, dan JHT kamu terima.",
+     "hook": "Mau Resign? Jangan Sampai Kehilangan Hak Ini"
+    },
+    {
+     "no": 10,
+     "title": "Kena PHK: Pesangonmu Seharusnya Berapa? | Hak Karyawan Eps 10",
+     "status": "rencana",
+     "insight": "Besar pesangon tergantung masa kerja dan alasan PHK, dengan rumus pesangon, uang penghargaan masa kerja, dan uang penggantian hak. Minta rinciannya tertulis.",
+     "hook": "Kena PHK: Pesangonmu Seharusnya Berapa?"
+    },
+    {
+     "no": 11,
+     "title": "Gaji Pokok, Tunjangan, Potongan: Cara Membaca Slip Gaji | Hak Karyawan Eps 11",
+     "status": "rencana",
+     "insight": "Slip gaji terdiri dari penghasilan (gaji pokok dan tunjangan) dikurangi potongan (BPJS, pajak, lainnya). Cocokkan setiap bulan supaya selisih cepat ketahuan.",
+     "hook": "Gaji Pokok, Tunjangan, Potongan: Cara Membaca Slip Gaji"
+    },
+    {
+     "no": 12,
+     "title": "Kenapa Gajimu Dipotong Pajak? PPh 21 Versi Gampang | Hak Karyawan Eps 12",
+     "status": "rencana",
+     "insight": "PPh 21 adalah pajak atas penghasilanmu yang dipotong kantor setiap bulan dengan tarif efektif, lalu dihitung ulang di akhir tahun. Bukti potongnya dipakai untuk lapor SPT.",
+     "hook": "Kenapa Gajimu Dipotong Pajak? PPh 21 Versi Gampang"
+    },
+    {
+     "no": 13,
+     "title": "Kerja 10 Jam Sehari, Normal Tidak Menurut Aturan? | Hak Karyawan Eps 13",
+     "status": "rencana",
+     "insight": "Jam kerja normal 40 jam seminggu: 7 jam sehari untuk 6 hari kerja atau 8 jam sehari untuk 5 hari kerja. Lebih dari itu terhitung lembur yang wajib dibayar.",
+     "hook": "Kerja 10 Jam Sehari, Normal Tidak Menurut Aturan?"
+    },
+    {
+     "no": 14,
+     "title": "Sakit Tidak Masuk Kerja, Gaji Dipotong atau Tidak? | Hak Karyawan Eps 14",
+     "status": "rencana",
+     "insight": "Karyawan yang sakit dan tidak bisa bekerja dengan bukti surat dokter tetap berhak atas upahnya. Kabari atasan lebih awal dan simpan suratnya.",
+     "hook": "Sakit Tidak Masuk Kerja, Gaji Dipotong atau Tidak?"
+    },
+    {
+     "no": 15,
+     "title": "Hakmu Tidak Dibayar Kantor? Ini Langkah yang Aman | Hak Karyawan Eps 15",
+     "status": "rencana",
+     "insight": "Kalau hak tidak dibayar: kumpulkan bukti, bicarakan dulu secara bipartit, lalu bisa minta mediasi ke Dinas Tenaga Kerja sebelum ke pengadilan hubungan industrial.",
+     "hook": "Hakmu Tidak Dibayar Kantor? Ini Langkah yang Aman"
+    }
+   ]
+  },
+  {
+   "key": "C2",
+   "name": "Skrip Percakapan Sulit",
+   "note": "Role-play pemeran tetap, kalimat siap pakai · Sabtu",
+   "items": [
+    {
+     "no": 1,
+     "title": "Jangan Bilang \"Saya Butuh Uang\" Saat Minta Naik Gaji. Katakan Ini | Skrip Percakapan Eps 1",
+     "status": "rencana",
+     "insight": "Atasan menaikkan gaji karena nilai kerjamu, bukan kebutuhanmu. Buka dengan hasil yang sudah kamu berikan, lalu minta angka yang jelas.",
+     "hook": "Jangan Bilang \"Saya Butuh Uang\" Saat Minta Naik Gaji. Katakan Ini"
+    },
+    {
+     "no": 2,
+     "title": "Sudah Kewalahan, Atasan Kasih Tugas Lagi. Jawab Begini | Skrip Percakapan Eps 2",
+     "status": "rencana",
+     "insight": "Jangan langsung \"ya\" atau \"tidak\". Sebutkan yang sedang kamu kerjakan, lalu minta atasan memilih: \"Mana yang perlu saya dahulukan?\"",
+     "hook": "Sudah Kewalahan, Atasan Kasih Tugas Lagi. Jawab Begini"
+    },
+    {
+     "no": 3,
+     "title": "Proyekmu Gagal. Cara Menyampaikannya ke Atasan | Skrip Percakapan Eps 3",
+     "status": "rencana",
+     "insight": "Sampaikan kegagalan lebih awal dengan urutan: apa yang terjadi, dampaknya, penyebabnya, dan rencana perbaikanmu.",
+     "hook": "Proyekmu Gagal. Cara Menyampaikannya ke Atasan"
+    },
+    {
+     "no": 4,
+     "title": "Rekan Telat Terus, Kamu yang Kena Imbasnya. Tegur Begini | Skrip Percakapan Eps 4",
+     "status": "rencana",
+     "insight": "Tegur rekan secara empat mata dengan fakta dan dampaknya, bukan label: \"Tiga kali minggu ini datanya masuk setelah jam 10, laporanku jadi terlambat.\"",
+     "hook": "Rekan Telat Terus, Kamu yang Kena Imbasnya. Tegur Begini"
+    },
+    {
+     "no": 5,
+     "title": "Atasan Marah di Depan Semua Orang. Apa yang Harus Dikatakan? | Skrip Percakapan Eps 5",
+     "status": "rencana",
+     "insight": "Tetap tenang, jangan membalas di depan umum. Akui yang perlu diakui, lalu minta waktu bicara berdua: \"Boleh kita bahas setelah ini, Pak?\"",
+     "hook": "Atasan Marah di Depan Semua Orang. Apa yang Harus Dikatakan?"
+    },
+    {
+     "no": 6,
+     "title": "Kalimat Minta Maaf yang Memulihkan Kepercayaan | Skrip Percakapan Eps 6",
+     "status": "rencana",
+     "insight": "Minta maaf yang memulihkan kepercayaan punya empat bagian: akui, sebut dampaknya, perbaiki, dan janjikan langkah supaya tidak terulang.",
+     "hook": "Kalimat Minta Maaf yang Memulihkan Kepercayaan"
+    },
+    {
+     "no": 7,
+     "title": "\"Kenapa Mau Resign?\" Jawaban yang Tidak Membakar Jembatan | Skrip Percakapan Eps 7",
+     "status": "rencana",
+     "insight": "Jawab alasan resign dengan fokus ke depan: peluang yang kamu kejar, bukan keluhan soal kantor lama. Tutup dengan terima kasih yang tulus.",
+     "hook": "\"Kenapa Mau Resign?\" Jawaban yang Tidak Membakar Jembatan"
+    },
+    {
+     "no": 8,
+     "title": "Ditawari Kerja Baru: Cara Nego Gaji yang Sopan tapi Berani | Skrip Percakapan Eps 8",
+     "status": "rencana",
+     "insight": "Ucapkan terima kasih atas tawarannya, sebutkan nilai yang kamu bawa, lalu ajukan angka berdasarkan data pasar. Diam sejenak setelah menyebut angka.",
+     "hook": "Ditawari Kerja Baru: Cara Nego Gaji yang Sopan tapi Berani"
+    },
+    {
+     "no": 9,
+     "title": "Atasan Pilih Kasih? Cara Membicarakannya Tanpa Terlihat Iri | Skrip Percakapan Eps 9",
+     "status": "rencana",
+     "insight": "Bicarakan kesempatan, bukan perasaan iri: \"Saya ingin dapat kesempatan seperti proyek X. Apa yang perlu saya tunjukkan?\"",
+     "hook": "Atasan Pilih Kasih? Cara Membicarakannya Tanpa Terlihat Iri"
+    },
+    {
+     "no": 10,
+     "title": "Ditanya Hal yang Tidak Kamu Tahu di Rapat. Jawab Begini | Skrip Percakapan Eps 10",
+     "status": "rencana",
+     "insight": "Tidak tahu itu wajar; mengarang yang berbahaya. Jawab: \"Saya cek dulu datanya dan kabari Bapak sebelum jam 3 hari ini.\"",
+     "hook": "Ditanya Hal yang Tidak Kamu Tahu di Rapat. Jawab Begini"
+    },
+    {
+     "no": 11,
+     "title": "Pelanggan Marah di Telepon: 3 Kalimat Pertama yang Menenangkan | Skrip Percakapan Eps 11",
+     "status": "rencana",
+     "insight": "Tiga kalimat pertama menentukan arah telepon: sebut nama dan tawarkan bantuan, akui perasaannya, lalu tanyakan inti masalahnya.",
+     "hook": "Pelanggan Marah di Telepon: 3 Kalimat Pertama yang Menenangkan"
+    },
+    {
+     "no": 12,
+     "title": "Kerjaan Rekan Telat, Kamu yang Kena. Cara Menagih Tanpa Ribut | Skrip Percakapan Eps 12",
+     "status": "rencana",
+     "insight": "Tagih dengan tenggat, bukan sindiran: tanyakan kendalanya, sebutkan dampaknya ke pekerjaanmu, lalu sepakati jam yang pasti.",
+     "hook": "Kerjaan Rekan Telat, Kamu yang Kena. Cara Menagih Tanpa Ribut"
+    },
+    {
+     "no": 13,
+     "title": "Cara Minta Bantuan Tanpa Terlihat Tidak Mampu | Skrip Percakapan Eps 13",
+     "status": "rencana",
+     "insight": "Minta bantuan dengan spesifik: tunjukkan yang sudah kamu coba, sebutkan bagian yang macet, dan berapa lama waktu yang kamu butuhkan dari mereka.",
+     "hook": "Cara Minta Bantuan Tanpa Terlihat Tidak Mampu"
+    },
+    {
+     "no": 14,
+     "title": "Rekan Mau Pinjam Uang Lagi. Cara Menolak Tanpa Merusak Pertemanan | Skrip Percakapan Eps 14",
+     "status": "rencana",
+     "insight": "Tolak dengan hangat tapi tegas, tanpa alasan panjang: \"Aku tidak bisa meminjamkan uang, tapi aku mau bantu cari jalan lain.\"",
+     "hook": "Rekan Mau Pinjam Uang Lagi. Cara Menolak Tanpa Merusak Pertemanan"
+    },
+    {
+     "no": 15,
+     "title": "Mau Naik Jabatan? Mulai dengan Satu Pesan Ini ke Atasan | Skrip Percakapan Eps 15",
+     "status": "rencana",
+     "insight": "Mulai dengan satu pesan: minta waktu 15 menit membahas arah kariermu. Datang dengan pencapaian, tujuan, dan pertanyaan \"apa yang perlu saya tingkatkan?\"",
+     "hook": "Mau Naik Jabatan? Mulai dengan Satu Pesan Ini ke Atasan"
+    }
+   ]
+  }
+ ]
+}

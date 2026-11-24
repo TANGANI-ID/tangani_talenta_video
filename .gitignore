@@ -1,0 +1,11 @@
+*.mp4
+*.mp3
+!youtube/panjang/*/vo/*.mp3
+*.wav
+__pycache__/
+engine/studio-*.html
+!engine/studio.html
+.env
+vo_raw.mp3
+**/work/stills/
+**/work/qc/

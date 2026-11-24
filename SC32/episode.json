@@ -1,0 +1,10 @@
+{
+  "code": "SC32",
+  "series": "SC",
+  "day": 223,
+  "title": "Minta akses kontak? Tolak",
+  "insight": "Aplikasi pinjaman yang meminta akses kontak dan galeri patut dicurigai.",
+  "action": "Buka pengaturan ponselmu, cek aplikasi mana yang bisa mengakses kontak dan galeri, lalu cabut izin yang tidak perlu.",
+  "caption": "Aplikasi pinjaman yang minta akses kontak dan galeri patut dicurigai. Patokan umum OJK: pinjaman daring berizin hanya boleh mengakses camilan, yaitu kamera, mikrofon, dan lokasi. Aksi hari ini: buka pengaturan ponselmu, cek aplikasi mana yang bisa mengakses kontak dan galeri, lalu cabut izin yang tidak perlu.",
+  "video": "SC32-tangani-talenta-9x16.mp4"
+}

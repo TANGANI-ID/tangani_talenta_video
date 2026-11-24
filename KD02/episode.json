@@ -1,0 +1,10 @@
+{
+  "code": "KD02",
+  "series": "KD",
+  "day": 11,
+  "title": "Verifikasi dua langkah",
+  "insight": "Lapisan kedua melindungi akun meski password bocor.",
+  "action": "Aktifkan verifikasi dua langkah di satu akun penting (email atau WhatsApp) lewat menu pengaturan keamanan, dan simpan kode cadangannya.",
+  "caption": "Password bisa bocor, tapi akunmu tetap bisa aman. Aksi hari ini: aktifkan verifikasi dua langkah di email atau WhatsApp, dan jangan pernah bagikan kodenya ke siapa pun.",
+  "video": "KD02-tangani-talenta-9x16.mp4"
+}

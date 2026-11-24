@@ -1,0 +1,42 @@
+{
+ "slug": "kantor-01",
+ "title": "Paling Rajin di Kantor, Tapi yang Dipromosikan Orang Lain | Kantor Tangani: Tak Terlihat Eps 1",
+ "kicker": "Kantor Tangani: Tak Terlihat · Eps 1/4 · animasi 16:9",
+ "kind": "cerita16",
+ "parts": [
+  {
+   "name": "Pembuka & masalah",
+   "chapters": [
+    "Pengumuman",
+    "Rina"
+   ]
+  },
+  {
+   "name": "Memburuk",
+   "chapters": [
+    "Bu Sari",
+    "Grafik Yoga"
+   ]
+  },
+  {
+   "name": "Berubah & hasil",
+   "chapters": [
+    "Satu pertanyaan",
+    "Hasilnya"
+   ]
+  },
+  {
+   "name": "Episode berikutnya",
+   "chapters": [
+    "Episode berikutnya"
+   ]
+  }
+ ],
+ "lessons": [
+  "Tanyakan hasil seperti apa yang diharapkan darimu.",
+  "Sibuk tidak sama dengan berhasil.",
+  "Kerjakan dulu hal yang diukur."
+ ],
+ "duration": 501.258,
+ "voice": "Citra (ElevenLabs)"
+}
