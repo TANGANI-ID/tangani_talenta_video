@@ -7,7 +7,7 @@ from PIL import Image, ImageDraw, ImageFont
 sys.path.insert(0, str(Path("engine").resolve()))
 from render_explainer import deps, font_file
 C = json.loads(Path("youtube/tokoh/tokoh.json").read_text()); ids = list(C)
-base = json.loads(Path("SB23/project.json").read_text())
+base = json.loads(Path("assets/base/project_dasar.json").read_text())
 poses = [("wave", "happy"), ("hips", "proud"), ("talk", "neutral"), ("pointUp", "happy")]
 scenes = []
 for i, k in enumerate(ids):

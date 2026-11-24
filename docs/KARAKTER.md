@@ -6,20 +6,18 @@ Semua video harus tampak seperti satu keluarga. Hal-hal di bawah **tidak boleh b
 - Nama: **Tangani Talenta** (PT Tangani Digital Automasi). Logo: `assets/brand/logo.png` (sudah juga tertanam di `brand.logo` tiap `project.json`).
 - Aksen: **#C2691F** (oranye talenta.tangani.id), nada krem hangat. Bukan warna per series.
 - Header video: hanya logo + "Tangani Talenta" tengah atas. Footer: `talenta.tangani.id` (jangan ubah footer ikon-link).
-- Label layar: `<SERIES> · 1 MENIT 1 INSIGHT` (mis. "SENIN BERTUMBUH · 1 MENIT 1 INSIGHT") hanya di data `brand.label`; baris label sudah disembunyikan di header.
 - Font: Plus Jakarta Sans / Inter / Poppins (di-install otomatis dari npm @fontsource saat render pertama).
 - Perusahaan dalam cerita (video panjang) = PT Tangani Digital Automasi, penyedia aplikasi + perangkat kasir untuk UMKM. Wajib catatan "cerita fiksi"; Tangani tidak pernah digambarkan membocorkan data/menipu.
 
 ## Suara
 - **Citra** – "The Warmth in Every Word", ElevenLabs `voice_id = RbNgJzKAV7jpYJNtCBpj`. Satu-satunya suara; narator juga membacakan dialog.
-- Endpoint TTS: `POST /v1/text-to-speech/RbNgJzKAV7jpYJNtCBpj?output_format=mp3_44100_128` (lihat `tools/tts.sh`). Kunci hanya butuh izin TTS.
-- Episode pendek harus **tepat 60 dtk**: naskah ±113–125 kata (Citra ±2,05 kata/dtk), lalu `engine/fit_vo.py` (VO 59,2 dtk + ekor 0,8).
+- Kunci ElevenLabs hanya butuh izin TTS.
+- Video panjang: ±980–1000 kata narasi per episode ≈ 7:45 VO, total ≥ 8 menit. Endpoint dipakai lewat `tools/panjang/vo16.py` (with-timestamps, model `eleven_v4`, bahasa `id`).
 
 ## Aturan wajib
 1. **Semua tokoh wanita berhijab** (termasuk figuran, penonton, host CTA).
-2. Adegan harus sesuai cerita episodenya dan **berbeda** dari adegan episode/paket lain (grep `engine/packs/*.js` sebelum membuat adegan baru).
-3. Tiap series (hari) punya gaya video tetap (`STYLES` / `STYLES_Q2` di `engine/motion-tangani.js`) — jangan diacak.
-4. Pemeran video panjang = 8 tokoh di `youtube/tokoh/tokoh.json` (tampilan baku `TT.toon`); pakai persis, jangan diubah warnanya.
+2. Adegan harus sesuai cerita episodenya dan berbeda dari episode lain (lihat README tiap `youtube/panjang/kantor-NN/`).
+3. Pemeran video panjang = 8 tokoh di `youtube/tokoh/tokoh.json` (tampilan baku `TT.toon`); pakai persis, jangan diubah warnanya.
 
 ## Pemeran tetap (youtube/tokoh/tokoh.json, lembar: assets/brand/lembar_tokoh.jpg)
 | Tokoh | Peran | Ciri |
