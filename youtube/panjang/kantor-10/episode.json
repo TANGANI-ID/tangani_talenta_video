@@ -1,0 +1,2963 @@
+{
+ "slug": "kantor-10",
+ "title": "Suara Atasan Minta Transfer 25 Juta. Ternyata Bukan Dia | Kantor Tangani: Utang Bayu Eps 2",
+ "series": "Kantor Tangani",
+ "story": "Utang Bayu",
+ "eps": "2/4",
+ "month": "JULI",
+ "naskah": "youtube/serial/ep10-naskah.md",
+ "minDur": 495,
+ "chapters": [
+  [
+   1,
+   "Sebelumnya"
+  ],
+  [
+   2,
+   "Tombol kirim"
+  ],
+  [
+   4,
+   "Pujian"
+  ],
+  [
+   7,
+   "Telepon dulu"
+  ],
+  [
+   8,
+   "Bukan suaranya"
+  ],
+  [
+   10,
+   "Dua orang"
+  ],
+  [
+   12,
+   "Pelajaran"
+  ],
+  [
+   13,
+   "Episode berikutnya"
+  ]
+ ],
+ "parts": [
+  [
+   "Pembuka & masalah",
+   0,
+   3
+  ],
+  [
+   "Memburuk",
+   3,
+   5
+  ],
+  [
+   "Berubah",
+   5,
+   7
+  ],
+  [
+   "Episode berikutnya",
+   7,
+   8
+  ]
+ ],
+ "lessons": [
+  "Permintaan uang yang mendadak: cek lewat saluran lain, telepon nomor yang sudah tersimpan.",
+  "Transfer besar: satu orang mengisi, orang lain menyetujui.",
+  "Takut kelihatan tidak mampu itu manusiawi, tapi bukan alasan untuk tidak bertanya."
+ ],
+ "youtube": {
+  "desc": "Pesan suara dengan suara persis atasan meminta transfer Rp25 juta ke rekening vendor yang belum pernah ada. Bayu hampir menekan kirim. Episode kedua Kantor Tangani: Utang Bayu. Cerita fiksi, bukan nasihat hukum atau keuangan.",
+  "ask": "Kalau kamu yang mendengar suara itu, kamu menekan kirim atau menelepon dulu? Tulis di kolom komentar.",
+  "next": "Utang Bayu Eps 3: Penagih Utang Menelepon ke Kantor, Satu Divisi Jadi Tahu.",
+  "tags": "kantor tangani, utang bayu, cerita kantor, animasi kantor, penipuan suara, suara tiruan AI, penipuan transfer, Satgas PASTI, keamanan transfer, dunia kerja, Tangani Talenta",
+  "hashtags": "#KantorTangani #UtangBayu #duniakerja",
+  "adAfter": 7
+ },
+ "thumb": {
+  "kind": "utang2",
+  "lines": [
+   "SUARA ATASAN",
+   "MINTA 25 JUTA,"
+  ],
+  "hl": "BUKAN DIA",
+  "lineSize": 78,
+  "hlSize": 100,
+  "badge": "EPS 2/4",
+  "tag": "KANTOR TANGANI · UTANG BAYU"
+ },
+ "extras": {
+  "resepsionis": {
+   "nama": "Mbak Wulan (resepsionis)",
+   "look": {
+    "hair": "hijab",
+    "hijab": "#C2691F",
+    "shirt": "#FFFDF8",
+    "jacket": "#13223D",
+    "pants": "#2C2433",
+    "skin": "d",
+    "idcard": "#C2691F"
+   }
+  }
+ },
+ "adegan": [
+  {
+   "n": 1,
+   "name": "Sebelumnya (kilas Eps 1)",
+   "vo": true,
+   "music": "sad",
+   "pre": 0.5,
+   "post": 0.5,
+   "trans": "cut",
+   "shots": [
+    {
+     "at": 0,
+     "fx": [
+      {
+       "type": "payslips",
+       "at": 0,
+       "rowsAt": 1.6,
+       "per": 0.5,
+       "eqAt": {
+        "cue": "hampir sama",
+        "d": 0.2
+       }
+      },
+      {
+       "type": "recap",
+       "label": "SEBELUMNYA DI UTANG BAYU"
+      }
+     ],
+     "actors": [],
+     "useLoc": false
+    },
+    {
+     "cue": "Rina menyisihkan tabungan",
+     "d": -0.2,
+     "trans": "whip",
+     "actors": [],
+     "useLoc": false,
+     "fx": [
+      {
+       "type": "envelopes",
+       "firstAt": {
+        "cue": "di awal gajian",
+        "d": 0.0
+       },
+       "restAt": {
+        "cue": "Bayu menutup cicilan",
+        "d": -0.4
+       }
+      },
+      {
+       "type": "recap",
+       "label": "SEBELUMNYA DI UTANG BAYU"
+      }
+     ]
+    },
+    {
+     "cue": "Bayu menutup cicilan",
+     "d": -0.2,
+     "trans": "whip",
+     "actors": [],
+     "useLoc": false,
+     "fx": [
+      {
+       "type": "lockAlert",
+       "mode": "paid",
+       "rowsAt": 0.3,
+       "per": 0.5,
+       "bannerAt": 99,
+       "clock": "12.43"
+      },
+      {
+       "type": "recap",
+       "label": "SEBELUMNYA DI UTANG BAYU"
+      }
+     ]
+    },
+    {
+     "cue": "Siang itu ia bilang beres",
+     "d": -0.2,
+     "trans": "cut",
+     "actors": [],
+     "useLoc": false,
+     "fx": [
+      {
+       "type": "lockAlert",
+       "mode": "sent",
+       "amount": "Rp300.000",
+       "memo": "Catatan: untuk makan",
+       "bannerAt": 0.6
+      },
+      {
+       "type": "recap",
+       "label": "SEBELUMNYA DI UTANG BAYU"
+      }
+     ]
+    },
+    {
+     "cue": "Malamnya, di parkiran",
+     "d": -0.2,
+     "trans": "whip",
+     "actors": [],
+     "useLoc": false,
+     "fx": [
+      {
+       "type": "lockAlert",
+       "mode": "due",
+       "bannerAt": 0.6,
+       "clock": "20.12",
+       "date": "Sabtu, 5 Juli"
+      },
+      {
+       "type": "recap",
+       "label": "SEBELUMNYA DI UTANG BAYU"
+      }
+     ]
+    },
+    {
+     "cue": "Jatuh tempo hari ini",
+     "d": -0.1,
+     "trans": "cut",
+     "actors": [],
+     "useLoc": false,
+     "fx": [
+      {
+       "type": "lockAlert",
+       "mode": "paid",
+       "rowsAt": -30,
+       "bannerAt": 0.2,
+       "amount": "Denda berlaku",
+       "chip": "DENDA BERLAKU",
+       "chipAt": 0.5,
+       "chipBg": "#D9483B"
+      },
+      {
+       "type": "recap",
+       "label": "SEBELUMNYA DI UTANG BAYU"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "name": "Jari di atas tombol kirim",
+   "loc": "kerja",
+   "music": "tense",
+   "trans": "flash",
+   "pre": 0.5,
+   "locOpt": {
+    "time": "sore",
+    "clock": "16:45"
+   },
+   "props": [
+    {
+     "type": "chair16",
+     "x": 830,
+     "y": 1000
+    },
+    {
+     "type": "deskR",
+     "x": 1210,
+     "y": 1000,
+     "papers": 1,
+     "laptop": 1
+    }
+   ],
+   "shots": [
+    {
+     "at": 0,
+     "actors": [
+      {
+       "who": "bayu",
+       "x": 850,
+       "face": 1,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "phone",
+         "expr": "scared",
+         "look": "down"
+        }
+       ],
+       "item": "phone"
+      }
+     ],
+     "cam": [
+      {
+       "x": 1000,
+       "y": 560,
+       "zoom": 1.1
+      },
+      {
+       "at": 0,
+       "x": 960,
+       "y": 580,
+       "zoom": 1.25,
+       "dur": 7
+      }
+     ],
+     "fx": [
+      {
+       "type": "chip",
+       "text": "JUMAT, 11 JULI · 16.45",
+       "x": 560,
+       "y": 170,
+       "bg": "#13223D",
+       "col": "#F6C343",
+       "at": 0.4
+      }
+     ]
+    },
+    {
+     "cue": "Jari Bayu sudah di atas",
+     "d": -0.3,
+     "trans": "zoom",
+     "actors": [],
+     "useLoc": false,
+     "fx": [
+      {
+       "type": "transferApp",
+       "typeAt": 0.2,
+       "badgeAt": {
+        "cue": "Di ponselnya, pesan suara",
+        "d": -0.4
+       }
+      }
+     ]
+    },
+    {
+     "cue": "Di ponselnya, pesan suara",
+     "d": -0.2,
+     "trans": "whip",
+     "actors": [],
+     "useLoc": false,
+     "fx": [
+      {
+       "type": "voiceMsg",
+       "plays": [
+        0.6
+       ],
+       "labelAt": {
+        "cue": "persis Pak Hendra",
+        "d": -0.6
+       },
+       "chip": "PESAN SUARA · NOMOR TIDAK DIKENAL",
+       "chipAt": 2.4,
+       "caption": "\"Transfer 25 juta ke vendor baru. Urgent.\"",
+       "captionAt": {
+        "cue": "Transfer dua puluh lima juta ke vendor baru",
+        "d": 0.0
+       }
+      }
+     ]
+    },
+    {
+     "cue": "Dua puluh lima juta. Rekening",
+     "d": -0.2,
+     "trans": "cut",
+     "actors": [],
+     "useLoc": false,
+     "fx": [
+      {
+       "type": "transferApp",
+       "typeAt": 0.0,
+       "badgeAt": 0.6,
+       "chip": "TIDAK ADA DI DAFTAR VENDOR",
+       "chipAt": {
+        "cue": "belum pernah Bayu lihat",
+        "d": 0.0
+       }
+      }
+     ]
+    },
+    {
+     "cue": "Dan jarinya tinggal",
+     "d": -0.2,
+     "trans": "cut",
+     "actors": [
+      {
+       "who": "bayu",
+       "x": 850,
+       "face": 1,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "phone",
+         "expr": "scared",
+         "look": "down"
+        }
+       ],
+       "item": "phone"
+      },
+      {
+       "who": "rina",
+       "x": 2150,
+       "face": -1,
+       "keys": [
+        {
+         "at": 0,
+         "x": 2150
+        },
+        {
+         "x": 1700,
+         "dur": 1.6,
+         "expr": "neutral",
+         "cue": "Dan jarinya tinggal",
+         "d": 0.2
+        }
+       ],
+       "item": "cup"
+      }
+     ],
+     "cam": [
+      {
+       "x": 1100,
+       "y": 560,
+       "zoom": 1.1
+      },
+      {
+       "x": 1160,
+       "y": 560,
+       "zoom": 1.25,
+       "dur": 5,
+       "cue": "Dan jarinya tinggal",
+       "d": -0.2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "name": "Kartu judul",
+   "vo": false,
+   "dur": 8.2,
+   "noHeader": true,
+   "noCaption": true,
+   "music": "none",
+   "trans": "flash",
+   "shots": [
+    {
+     "at": 0,
+     "useLoc": false,
+     "actors": [],
+     "fx": [
+      {
+       "type": "title",
+       "at": 0,
+       "disc": 2.2,
+       "eps": "UTANG BAYU · EPS 2/4",
+       "hook": "Suara Atasan Minta Transfer 25 Juta. Ternyata Bukan Dia",
+       "day": "11",
+       "month": "JULI",
+       "marker": "JUMAT · 16.45",
+       "markerAt": 2.9
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "name": "Pujian yang canggung",
+   "loc": "kerja",
+   "music": "light",
+   "trans": "iris",
+   "locOpt": {
+    "time": "pagi",
+    "clock": "08:50"
+   },
+   "props": [
+    {
+     "type": "chair16",
+     "x": 830,
+     "y": 1000
+    },
+    {
+     "type": "deskR",
+     "x": 1210,
+     "y": 1000,
+     "papers": 1,
+     "laptop": 1
+    }
+   ],
+   "lines": [
+    {
+     "who": "hendra",
+     "from": "Pembayaran ke vendor bulan ini",
+     "to": "Rapi",
+     "text": "Bayu yang pegang pembayaran vendor. Rapi.",
+     "maxW": 520,
+     "size": 40
+    },
+    {
+     "who": "bayu",
+     "from": "Bayu menjawab",
+     "to": "Siap, Pak",
+     "text": "Siap, Pak.",
+     "label": "Bayu",
+     "maxW": 400,
+     "size": 44,
+     "min": 1.6
+    }
+   ],
+   "shots": [
+    {
+     "at": 0,
+     "actors": [
+      {
+       "who": "bayu",
+       "x": 850,
+       "face": 1,
+       "item": "phone",
+       "keys": [
+        {
+         "at": 0,
+         "pose": "idle",
+         "expr": "neutral",
+         "look": "down"
+        }
+       ]
+      },
+      {
+       "who": "hendra",
+       "x": 2250,
+       "face": -1,
+       "keys": [
+        {
+         "at": 0,
+         "x": 2250
+        },
+        {
+         "at": 0.2,
+         "x": 1560,
+         "dur": 2.4
+        },
+        {
+         "cue": "Pembayaran ke vendor bulan ini",
+         "d": 0.0,
+         "pose": "pointUp",
+         "expr": "happy"
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "x": 1100,
+       "y": 560,
+       "zoom": 1.1
+      },
+      {
+       "at": 0,
+       "x": 1200,
+       "y": 560,
+       "zoom": 1.2,
+       "dur": 8
+      }
+     ]
+    },
+    {
+     "cue": "Beberapa orang bertepuk",
+     "d": -0.2,
+     "trans": "cut",
+     "actors": [
+      {
+       "who": "bayu",
+       "x": 850,
+       "face": 1,
+       "item": "phone",
+       "keys": [
+        {
+         "at": 0,
+         "pose": "idle",
+         "expr": "neutral",
+         "look": [
+          1,
+          0
+         ]
+        }
+       ]
+      },
+      {
+       "who": "hendra",
+       "x": 1560,
+       "face": -1,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "hips",
+         "expr": "happy"
+        }
+       ]
+      },
+      {
+       "who": "sinta",
+       "x": 260,
+       "face": 1,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "idle",
+         "expr": "happy",
+         "look": [
+          1,
+          0
+         ]
+        }
+       ],
+       "y": 930,
+       "layer": "back",
+       "size": 520
+      },
+      {
+       "who": "yoga",
+       "x": 1850,
+       "face": -1,
+       "neckphones": true,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "idle",
+         "expr": "neutral"
+        }
+       ],
+       "y": 930,
+       "layer": "back",
+       "size": 520
+      }
+     ],
+     "cam": [
+      {
+       "x": 1000,
+       "y": 540,
+       "zoom": 1.0
+      },
+      {
+       "x": 1040,
+       "y": 540,
+       "zoom": 1.08,
+       "dur": 6,
+       "cue": "Beberapa orang bertepuk",
+       "d": -0.2
+      }
+     ]
+    },
+    {
+     "cue": "Bayu menjawab",
+     "d": -0.2,
+     "trans": "cut",
+     "actors": [
+      {
+       "who": "bayu",
+       "x": 850,
+       "face": 1,
+       "item": "phone",
+       "keys": [
+        {
+         "at": 0,
+         "pose": "idle",
+         "expr": "happy",
+         "look": [
+          1,
+          0
+         ]
+        },
+        {
+         "cue": "dan tersenyum seperti",
+         "d": 0.0,
+         "expr": "neutral",
+         "look": "cam"
+        }
+       ]
+      },
+      {
+       "who": "hendra",
+       "x": 1560,
+       "face": -1,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "hips",
+         "expr": "happy"
+        },
+        {
+         "cue": "Begitu Pak Hendra berlalu",
+         "d": -0.3,
+         "x": 2300,
+         "dur": 2.0,
+         "face": 1
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "on": "bayu",
+       "fit": 0.25,
+       "sx": 800
+      },
+      {
+       "on": "bayu",
+       "fit": 0.3,
+       "sx": 800,
+       "dur": 7,
+       "cue": "Bayu menjawab",
+       "d": -0.2
+      }
+     ],
+     "fx": [
+      {
+       "type": "chip",
+       "text": "SENYUM SEPERTI ORANG YANG DIUJI",
+       "x": 1450,
+       "y": 190,
+       "bg": "#13223D",
+       "col": "#F6C343",
+       "size": 30,
+       "cue": "dan tersenyum seperti",
+       "d": 0.0
+      }
+     ]
+    },
+    {
+     "cue": "Begitu Pak Hendra berlalu",
+     "d": -0.2,
+     "trans": "cut",
+     "actors": [
+      {
+       "who": "bayu",
+       "x": 850,
+       "face": 1,
+       "item": "phone",
+       "keys": [
+        {
+         "at": 0,
+         "pose": "phone",
+         "expr": "neutral",
+         "look": "down"
+        },
+        {
+         "cue": "Ada notifikasi",
+         "d": 0.0,
+         "expr": "scared",
+         "emote": "sweat"
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "x": 940,
+       "y": 600,
+       "zoom": 1.3
+      },
+      {
+       "x": 920,
+       "y": 620,
+       "zoom": 1.45,
+       "dur": 4,
+       "cue": "Begitu Pak Hendra berlalu",
+       "d": -0.2
+      }
+     ]
+    },
+    {
+     "cue": "Ada notifikasi",
+     "d": -0.2,
+     "trans": "zoom",
+     "actors": [],
+     "useLoc": false,
+     "fx": [
+      {
+       "type": "lockAlert",
+       "mode": "due",
+       "bannerAt": 0.5,
+       "clock": "08.52",
+       "date": "Jumat, 11 Juli",
+       "chip": "TAGIHAN LAIN · JATUH TEMPO",
+       "chipAt": 1.8
+      }
+     ]
+    },
+    {
+     "cue": "Pujian hari itu",
+     "d": -0.2,
+     "trans": "cut",
+     "actors": [
+      {
+       "who": "bayu",
+       "x": 850,
+       "face": 1,
+       "item": "phone",
+       "keys": [
+        {
+         "at": 0,
+         "pose": "phone",
+         "expr": "sad",
+         "look": "down"
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "on": "bayu",
+       "fit": 0.27,
+       "sx": 800
+      },
+      {
+       "on": "bayu",
+       "fit": 0.32,
+       "sx": 800,
+       "dur": 8,
+       "cue": "Pujian hari itu",
+       "d": -0.2
+      }
+     ],
+     "fx": [
+      {
+       "type": "chip",
+       "text": "BISA DICABUT KALAU SALAH SEKALI",
+       "x": 1450,
+       "y": 190,
+       "bg": "#6E2430",
+       "size": 30,
+       "cue": "Terasa seperti sesuatu",
+       "d": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "name": "Pesan suara 16.45",
+   "loc": "kerja",
+   "music": "tense",
+   "trans": "whip",
+   "locOpt": {
+    "time": "sore",
+    "clock": "16:45"
+   },
+   "props": [
+    {
+     "type": "chair16",
+     "x": 830,
+     "y": 1000
+    },
+    {
+     "type": "deskR",
+     "x": 1210,
+     "y": 1000,
+     "papers": 1,
+     "laptop": 1
+    }
+   ],
+   "sfx": [
+    {
+     "cue": "ponselnya berbunyi",
+     "d": 0.0,
+     "type": "buzz",
+     "vol": 0.8,
+     "dur": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "at": 0,
+     "actors": [
+      {
+       "who": "bayu",
+       "x": 850,
+       "face": 1,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "idle",
+         "expr": "neutral",
+         "look": "down"
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "x": 1000,
+       "y": 560,
+       "zoom": 1.15
+      },
+      {
+       "at": 0,
+       "x": 1040,
+       "y": 560,
+       "zoom": 1.28,
+       "dur": 7
+      }
+     ],
+     "fx": [
+      {
+       "type": "chip",
+       "text": "BAYAR VENDOR · DARI REKENING KANTOR",
+       "x": 560,
+       "y": 170,
+       "bg": "#13223D",
+       "col": "#F6C343",
+       "at": 0.4
+      }
+     ]
+    },
+    {
+     "cue": "ponselnya berbunyi",
+     "d": -0.3,
+     "trans": "cut",
+     "actors": [
+      {
+       "who": "bayu",
+       "x": 850,
+       "face": 1,
+       "item": "phone",
+       "keys": [
+        {
+         "at": 0,
+         "pose": "phone",
+         "expr": "confused",
+         "look": "down"
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "x": 940,
+       "y": 620,
+       "zoom": 1.5
+      },
+      {
+       "x": 920,
+       "y": 630,
+       "zoom": 1.65,
+       "dur": 4,
+       "cue": "ponselnya berbunyi",
+       "d": -0.3
+      }
+     ],
+     "fx": [
+      {
+       "type": "chip",
+       "text": "BUKAN NOMOR TERSIMPAN",
+       "x": 1450,
+       "y": 190,
+       "bg": "#D9483B",
+       "size": 32,
+       "cue": "Bukan nomor yang tersimpan",
+       "d": 0.0
+      }
+     ]
+    },
+    {
+     "cue": "Tapi suaranya, ia kenal",
+     "d": -0.2,
+     "trans": "zoom",
+     "actors": [],
+     "useLoc": false,
+     "fx": [
+      {
+       "type": "voiceMsg",
+       "plays": [
+        {
+         "cue": "Bay. Transfer dua puluh lima juta",
+         "d": -0.3
+        }
+       ],
+       "labelAt": {
+        "cue": "Nanti saya jelaskan",
+        "d": 0.4
+       },
+       "chip": "LABEL DARI BAYU SENDIRI",
+       "chipAt": {
+        "cue": "Nanti saya jelaskan",
+        "d": 0.8
+       }
+      }
+     ]
+    },
+    {
+     "cue": "Bayu mendengarnya dua kali",
+     "d": -0.2,
+     "trans": "cut",
+     "actors": [
+      {
+       "who": "bayu",
+       "x": 850,
+       "face": 1,
+       "item": "phone",
+       "keys": [
+        {
+         "at": 0,
+         "pose": "phone",
+         "expr": "neutral",
+         "look": "down"
+        },
+        {
+         "cue": "Kali kedua ia tutup mata",
+         "d": 0.0,
+         "expr": "tired"
+        },
+        {
+         "cue": "Makin didengar",
+         "d": 0.0,
+         "expr": "scared"
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "on": "bayu",
+       "fit": 0.25,
+       "sx": 800
+      },
+      {
+       "on": "bayu",
+       "fit": 0.31,
+       "sx": 800,
+       "dur": 8,
+       "cue": "Bayu mendengarnya dua kali",
+       "d": -0.2
+      }
+     ]
+    },
+    {
+     "cue": "Di meja, daftar vendor",
+     "d": -0.2,
+     "trans": "cut",
+     "actors": [
+      {
+       "who": "bayu",
+       "x": 850,
+       "face": 1,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "idle",
+         "expr": "confused",
+         "look": [
+          1,
+          0.3
+         ]
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "x": 1200,
+       "y": 640,
+       "zoom": 1.3
+      },
+      {
+       "x": 1260,
+       "y": 660,
+       "zoom": 1.45,
+       "dur": 5,
+       "cue": "Di meja, daftar vendor",
+       "d": -0.2
+      }
+     ],
+     "fx": [
+      {
+       "type": "chip",
+       "text": "NAMA ITU TIDAK ADA DI DAFTAR",
+       "x": 1500,
+       "y": 190,
+       "bg": "#D9483B",
+       "size": 32,
+       "cue": "Nama di pesan itu",
+       "d": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "name": "Alasan untuk menurut",
+   "loc": "kerja",
+   "music": "sad",
+   "trans": "iris",
+   "locOpt": {
+    "time": "sore",
+    "clock": "16:48"
+   },
+   "props": [
+    {
+     "type": "chair16",
+     "x": 830,
+     "y": 1000
+    },
+    {
+     "type": "deskR",
+     "x": 1210,
+     "y": 1000,
+     "papers": 1,
+     "laptop": 1
+    }
+   ],
+   "lines": [
+    {
+     "who": "bayu",
+     "from": "kalau aku bertanya",
+     "to": "kelihatan lambat",
+     "text": "Kalau aku bertanya, aku kelihatan lambat.",
+     "label": "Bayu",
+     "maxW": 520,
+     "size": 40,
+     "min": 3.0
+    }
+   ],
+   "shots": [
+    {
+     "at": 0,
+     "actors": [
+      {
+       "who": "bayu",
+       "x": 850,
+       "face": 1,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "idle",
+         "expr": "neutral",
+         "look": [
+          1,
+          0.3
+         ]
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "x": 1000,
+       "y": 560,
+       "zoom": 1.15
+      },
+      {
+       "at": 0,
+       "x": 1060,
+       "y": 560,
+       "zoom": 1.28,
+       "dur": 5
+      }
+     ]
+    },
+    {
+     "cue": "Dua puluh lima juta. Nama penerima",
+     "d": -0.3,
+     "trans": "zoom",
+     "actors": [],
+     "useLoc": false,
+     "fx": [
+      {
+       "type": "transferApp",
+       "typeAt": 0.0,
+       "badgeAt": 0.4,
+       "chip": "BUKAN VENDOR YANG IA HAFAL",
+       "chipAt": {
+        "cue": "Seharusnya itu cukup",
+        "d": 0.0
+       }
+      }
+     ]
+    },
+    {
+     "cue": "Tapi kepalanya sedang penuh",
+     "d": -0.2,
+     "trans": "cut",
+     "actors": [
+      {
+       "who": "bayu",
+       "x": 850,
+       "face": 1,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "idle",
+         "expr": "scared",
+         "look": "down"
+        },
+        {
+         "cue": "Tujuh tagihan",
+         "d": 0.0,
+         "emote": "sweat"
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "on": "bayu",
+       "fit": 0.25,
+       "sx": 800
+      },
+      {
+       "on": "bayu",
+       "fit": 0.31,
+       "sx": 800,
+       "dur": 4,
+       "cue": "Tapi kepalanya sedang penuh",
+       "d": -0.2
+      }
+     ]
+    },
+    {
+     "cue": "Tujuh tagihan",
+     "d": -0.2,
+     "trans": "cut",
+     "actors": [],
+     "useLoc": false,
+     "fx": [
+      {
+       "type": "lockAlert",
+       "mode": "paid",
+       "rowsAt": 0.2,
+       "per": 0.25,
+       "bannerAt": 99,
+       "clock": "16.48"
+      }
+     ]
+    },
+    {
+     "cue": "Dan kalimat yang ia ulang",
+     "d": -0.2,
+     "trans": "cut",
+     "actors": [
+      {
+       "who": "bayu",
+       "x": 850,
+       "face": 1,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "idle",
+         "expr": "sad",
+         "look": "down"
+        },
+        {
+         "cue": "Orang yang lambat",
+         "d": 0.0,
+         "expr": "scared"
+        },
+        {
+         "cue": "Apalagi kalau utangnya",
+         "d": 0.0,
+         "expr": "sad",
+         "emote": "sweat"
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "on": "bayu",
+       "fit": 0.24,
+       "sx": 800
+      },
+      {
+       "on": "bayu",
+       "fit": 0.31,
+       "sx": 800,
+       "dur": 9,
+       "cue": "Dan kalimat yang ia ulang",
+       "d": -0.2
+      }
+     ],
+     "fx": [
+      {
+       "type": "chip",
+       "text": "ORANG LAMBAT MUDAH DIGANTI",
+       "x": 1450,
+       "y": 190,
+       "bg": "#6E2430",
+       "size": 32,
+       "cue": "Orang yang lambat",
+       "d": 0.0
+      }
+     ]
+    },
+    {
+     "cue": "Ia menarik layar itu lebih dekat",
+     "d": -0.1,
+     "trans": "zoom",
+     "actors": [],
+     "useLoc": false,
+     "fx": [
+      {
+       "type": "transferApp",
+       "typeAt": -30,
+       "badgeAt": -30,
+       "scale": 1.12
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "name": "Rina menahan",
+   "loc": "kerja",
+   "music": "tense",
+   "musicCut": 2.0,
+   "trans": "cut",
+   "post": 0.4,
+   "hold": 1.6,
+   "locOpt": {
+    "time": "sore",
+    "clock": "16:49"
+   },
+   "props": [
+    {
+     "type": "chair16",
+     "x": 830,
+     "y": 1000
+    },
+    {
+     "type": "deskR",
+     "x": 1210,
+     "y": 1000,
+     "papers": 1,
+     "laptop": 1
+    }
+   ],
+   "lines": [
+    {
+     "who": "rina",
+     "from": "Telepon dulu, Bay",
+     "to": "Telepon dulu, Bay",
+     "text": "Telepon dulu, Bay.",
+     "maxW": 460,
+     "size": 46,
+     "min": 2.0
+    },
+    {
+     "who": "bayu",
+     "from": "Ini suara Pak Hendra",
+     "to": "Ini suara Pak Hendra",
+     "text": "Ini suara Pak Hendra.",
+     "label": "Bayu",
+     "maxW": 480,
+     "size": 42,
+     "min": 2.0
+    },
+    {
+     "who": "rina",
+     "from": "Justru karena urgent",
+     "to": "pesan yang sama",
+     "text": "Justru karena urgent. Telepon dulu.",
+     "maxW": 560,
+     "size": 40
+    }
+   ],
+   "shots": [
+    {
+     "at": 0,
+     "actors": [
+      {
+       "who": "bayu",
+       "x": 850,
+       "face": 1,
+       "item": "phone",
+       "keys": [
+        {
+         "at": 0,
+         "pose": "phone",
+         "expr": "scared",
+         "look": "down"
+        }
+       ]
+      },
+      {
+       "who": "rina",
+       "x": 2200,
+       "face": -1,
+       "item": "cup",
+       "keys": [
+        {
+         "at": 0,
+         "x": 2200
+        },
+        {
+         "at": 0.2,
+         "x": 1560,
+         "dur": 1.8,
+         "expr": "neutral"
+        },
+        {
+         "cue": "Ia melihat angkanya",
+         "d": 0.0,
+         "look": [
+          -1,
+          0.2
+         ]
+        },
+        {
+         "cue": "Telepon dulu, Bay",
+         "d": 0.0,
+         "expr": "confused"
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "x": 1100,
+       "y": 560,
+       "zoom": 1.1
+      },
+      {
+       "at": 0,
+       "x": 1200,
+       "y": 560,
+       "zoom": 1.2,
+       "dur": 8
+      }
+     ]
+    },
+    {
+     "cue": "Bayu tidak menoleh",
+     "d": -0.2,
+     "trans": "cut",
+     "actors": [
+      {
+       "who": "bayu",
+       "x": 850,
+       "face": 1,
+       "item": "phone",
+       "keys": [
+        {
+         "at": 0,
+         "pose": "phone",
+         "expr": "scared",
+         "look": "down"
+        }
+       ]
+      },
+      {
+       "who": "rina",
+       "x": 1560,
+       "face": -1,
+       "item": "cup",
+       "keys": [
+        {
+         "at": 0,
+         "pose": "hold",
+         "expr": "confused",
+         "look": [
+          -1,
+          0.2
+         ]
+        },
+        {
+         "cue": "Rina menepuk meja",
+         "d": 0.0,
+         "pose": "pointDown",
+         "item": null,
+         "expr": "serious"
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "x": 1150,
+       "y": 560,
+       "zoom": 1.2
+      },
+      {
+       "x": 1190,
+       "y": 560,
+       "zoom": 1.32,
+       "dur": 8,
+       "cue": "Bayu tidak menoleh",
+       "d": -0.2
+      }
+     ]
+    },
+    {
+     "cue": "Jari Bayu tidak turun",
+     "d": -0.3,
+     "trans": "zoom",
+     "actors": [],
+     "useLoc": false,
+     "fx": [
+      {
+       "type": "transferApp",
+       "typeAt": -30,
+       "badgeAt": -30,
+       "scale": 1.12
+      }
+     ]
+    },
+    {
+     "cue": "Rina tidak merebut",
+     "d": -0.2,
+     "trans": "cut",
+     "actors": [
+      {
+       "who": "bayu",
+       "x": 850,
+       "face": 1,
+       "item": "phone",
+       "keys": [
+        {
+         "at": 0,
+         "pose": "phone",
+         "expr": "scared",
+         "look": "down"
+        }
+       ]
+      },
+      {
+       "who": "rina",
+       "x": 1560,
+       "face": -1,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "idle",
+         "expr": "neutral",
+         "look": [
+          -1,
+          0.2
+         ]
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "x": 1150,
+       "y": 560,
+       "zoom": 1.25
+      },
+      {
+       "x": 1190,
+       "y": 560,
+       "zoom": 1.38,
+       "dur": 6,
+       "cue": "Rina tidak merebut",
+       "d": -0.2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "name": "Nomor yang sudah tersimpan",
+   "music": "tense",
+   "trans": "cut",
+   "pre": 0.3,
+   "lines": [
+    {
+     "who": "hendra",
+     "from": "Bay? Saya sedang rapat",
+     "to": "Ada apa",
+     "text": "Bay? Saya sedang rapat. Ada apa?",
+     "maxW": 520,
+     "size": 40
+    },
+    {
+     "who": "hendra",
+     "from": "Saya tidak mengirim apa pun",
+     "to": "Jangan dikirim",
+     "text": "Saya tidak mengirim apa pun.",
+     "maxW": 520,
+     "size": 42
+    },
+    {
+     "who": "rina",
+     "from": "Suara bisa ditiru",
+     "to": "Suara bisa ditiru",
+     "text": "Suara bisa ditiru.",
+     "maxW": 460,
+     "size": 44,
+     "min": 2.0
+    }
+   ],
+   "shots": [
+    {
+     "at": 0,
+     "fx": [
+      {
+       "type": "callScreen",
+       "at": 0,
+       "name": "Pak Hendra",
+       "sub": "kontak tersimpan sejak lama",
+       "ch": "H",
+       "col": "#C2691F",
+       "rings": [
+        0.6,
+        2.2
+       ],
+       "chip": "BUKAN MEMBALAS PESAN TADI",
+       "chipAt": {
+        "cue": "Bukan membalas pesan tadi",
+        "d": 0.0
+       },
+       "chipBg": "#3BA36B"
+      }
+     ],
+     "actors": [],
+     "useLoc": false
+    },
+    {
+     "cue": "Di ruang rapat Melati",
+     "d": -0.2,
+     "trans": "whip",
+     "split": [
+      {
+       "loc": "kerja",
+       "locOpt": {
+        "time": "sore",
+        "clock": "16:50"
+       },
+       "props": [
+        {
+         "type": "chair16",
+         "x": 830,
+         "y": 1000
+        },
+        {
+         "type": "deskR",
+         "x": 1210,
+         "y": 1000,
+         "papers": 1,
+         "laptop": 1
+        }
+       ],
+       "actors": [
+        {
+         "who": "bayu",
+         "x": 850,
+         "face": 1,
+         "item": "phone",
+         "keys": [
+          {
+           "at": 0,
+           "pose": "phone",
+           "expr": "scared",
+           "look": "down"
+          },
+          {
+           "cue": "Bayu menelan ludah",
+           "d": 0.0,
+           "expr": "sad"
+          },
+          {
+           "cue": "Tombol kirim itu",
+           "d": -0.2,
+           "expr": "neutral"
+          }
+         ]
+        },
+        {
+         "who": "rina",
+         "x": 2200,
+         "face": -1,
+         "keys": [
+          {
+           "at": 0,
+           "x": 2200
+          },
+          {
+           "cue": "Rina, di samping Bayu",
+           "d": 0.0,
+           "x": 1500,
+           "dur": 1.4,
+           "expr": "neutral"
+          }
+         ]
+        }
+       ],
+       "cam": [
+        {
+         "x": 1000,
+         "y": 540,
+         "zoom": 1.15
+        },
+        {
+         "at": 0,
+         "x": 1060,
+         "y": 540,
+         "zoom": 1.3,
+         "dur": 14
+        }
+       ]
+      },
+      {
+       "loc": "rapat",
+       "locOpt": {
+        "clock": "16:50",
+        "slide": "logo",
+        "backChairs": [
+         1300,
+         1520
+        ],
+        "tableX0": 1080,
+        "tableX1": 1960,
+        "tableItems": [
+         [
+          1300,
+          "paper"
+         ],
+         [
+          1560,
+          "cup"
+         ],
+         [
+          1800,
+          "laptop"
+         ]
+        ]
+       },
+       "actors": [
+        {
+         "who": "hendra",
+         "x": 1560,
+         "face": -1,
+         "size": 560,
+         "item": "phone",
+         "keys": [
+          {
+           "at": 0,
+           "pose": "sit",
+           "expr": "neutral"
+          },
+          {
+           "cue": "Ia mengangkat",
+           "d": 0.0,
+           "pose": "phone",
+           "expr": "confused"
+          },
+          {
+           "cue": "Hening sebentar",
+           "d": 0.0,
+           "expr": "shock"
+          },
+          {
+           "cue": "Saya tidak mengirim apa pun",
+           "d": 0.0,
+           "expr": "angry"
+          }
+         ]
+        }
+       ],
+       "cam": [
+        {
+         "x": 1480,
+         "y": 520,
+         "zoom": 1.1
+        },
+        {
+         "at": 0,
+         "x": 1500,
+         "y": 520,
+         "zoom": 1.2,
+         "dur": 14
+        }
+       ]
+      }
+     ],
+     "fx": [
+      {
+       "type": "chip",
+       "text": "KIRI · MEJA BAYU",
+       "x": 560,
+       "y": 170,
+       "bg": "#13223D",
+       "col": "#F6C343",
+       "size": 26,
+       "cue": "Di ruang rapat Melati",
+       "d": 0.2
+      },
+      {
+       "type": "chip",
+       "text": "KANAN · RUANG RAPAT MELATI",
+       "x": 1400,
+       "y": 170,
+       "bg": "#13223D",
+       "col": "#F6C343",
+       "size": 26,
+       "cue": "Di ruang rapat Melati",
+       "d": 0.2
+      }
+     ]
+    },
+    {
+     "cue": "Tombol kirim itu",
+     "d": -0.3,
+     "trans": "zoom",
+     "actors": [],
+     "useLoc": false,
+     "fx": [
+      {
+       "type": "transferApp",
+       "typeAt": -30,
+       "badgeAt": -30,
+       "stampAt": 0.9,
+       "fingerOut": 0.5,
+       "chip": "TIDAK DISENTUH",
+       "chipAt": 1.8,
+       "chipBg": "#3BA36B"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "name": "Kenapa ia tergesa",
+   "loc": "lobi",
+   "music": "sad",
+   "trans": "fade",
+   "pre": 0.6,
+   "locOpt": {
+    "time": "sore",
+    "deskX": 1100,
+    "deskFront": true,
+    "stairs": 1600,
+    "slamX": -230,
+    "slam": 0
+   },
+   "lines": [
+    {
+     "who": "bayu",
+     "from": "Aku hampir menekan kirim",
+     "to": "habis semuanya",
+     "text": "Aku takut kelihatan tidak bisa diandalkan.",
+     "label": "Bayu",
+     "maxW": 560,
+     "size": 38,
+     "min": 3.0
+    }
+   ],
+   "shots": [
+    {
+     "at": 0,
+     "actors": [
+      {
+       "who": "bayu",
+       "x": 1705,
+       "face": -1,
+       "y": 900,
+       "item": "phone",
+       "keys": [
+        {
+         "at": 0,
+         "pose": "sit",
+         "expr": "sad",
+         "look": "down"
+        }
+       ]
+      },
+      {
+       "who": "rina",
+       "x": 1845,
+       "face": -1,
+       "y": 800,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "sit",
+         "expr": "neutral",
+         "look": [
+          1,
+          -0.2
+         ]
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "x": 1500,
+       "y": 640,
+       "zoom": 1.1
+      },
+      {
+       "at": 0,
+       "x": 1560,
+       "y": 640,
+       "zoom": 1.2,
+       "dur": 6
+      }
+     ]
+    },
+    {
+     "cue": "Bayu tidak langsung bercanda",
+     "d": -0.2,
+     "trans": "cut",
+     "actors": [
+      {
+       "who": "bayu",
+       "x": 1705,
+       "face": -1,
+       "y": 900,
+       "item": "phone",
+       "keys": [
+        {
+         "at": 0,
+         "pose": "sit",
+         "expr": "sad",
+         "look": "down"
+        }
+       ]
+      },
+      {
+       "who": "rina",
+       "x": 1845,
+       "face": -1,
+       "y": 800,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "sit",
+         "expr": "neutral",
+         "look": [
+          1,
+          -0.2
+         ]
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "on": "bayu",
+       "fit": 0.3,
+       "sx": 800
+      },
+      {
+       "on": "bayu",
+       "fit": 0.36,
+       "sx": 800,
+       "dur": 12,
+       "cue": "Bayu tidak langsung bercanda",
+       "d": -0.2
+      }
+     ]
+    },
+    {
+     "cue": "Rina tidak menyuruhnya",
+     "d": -0.2,
+     "trans": "cut",
+     "actors": [
+      {
+       "who": "bayu",
+       "x": 1705,
+       "face": -1,
+       "y": 900,
+       "item": "phone",
+       "keys": [
+        {
+         "at": 0,
+         "pose": "sit",
+         "expr": "sad",
+         "look": "down"
+        }
+       ]
+      },
+      {
+       "who": "rina",
+       "x": 1845,
+       "face": -1,
+       "y": 800,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "sit",
+         "expr": "neutral",
+         "look": [
+          1,
+          -0.2
+         ]
+        },
+        {
+         "cue": "Kamu tidak menekan kirim",
+         "d": 0.0,
+         "expr": "proud",
+         "look": [
+          1,
+          -0.4
+         ]
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "x": 1500,
+       "y": 640,
+       "zoom": 1.25
+      },
+      {
+       "x": 1540,
+       "y": 650,
+       "zoom": 1.38,
+       "dur": 8,
+       "cue": "Rina tidak menyuruhnya",
+       "d": -0.2
+      }
+     ],
+     "fx": [
+      {
+       "type": "chip",
+       "text": "HARI INI: TIDAK MENEKAN KIRIM",
+       "x": 540,
+       "y": 190,
+       "bg": "#3BA36B",
+       "size": 32,
+       "cue": "Kamu tidak menekan kirim",
+       "d": 0.0
+      }
+     ]
+    },
+    {
+     "cue": "Bayu mengangguk",
+     "d": -0.2,
+     "trans": "cut",
+     "actors": [
+      {
+       "who": "bayu",
+       "x": 1705,
+       "face": -1,
+       "y": 900,
+       "item": "phone",
+       "keys": [
+        {
+         "at": 0,
+         "pose": "sit",
+         "expr": "sad",
+         "look": "down"
+        }
+       ]
+      },
+      {
+       "who": "rina",
+       "x": 1845,
+       "face": -1,
+       "y": 800,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "sit",
+         "expr": "neutral",
+         "look": [
+          1,
+          -0.2
+         ]
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "x": 1500,
+       "y": 640,
+       "zoom": 1.1
+      },
+      {
+       "x": 1560,
+       "y": 640,
+       "zoom": 1.2,
+       "dur": 4,
+       "cue": "Bayu mengangguk",
+       "d": -0.2
+      }
+     ],
+     "fx": [
+      {
+       "type": "chip",
+       "text": "YANG LAIN, NANTI. KALAU KAMU MAU.",
+       "x": 540,
+       "y": 190,
+       "bg": "#13223D",
+       "col": "#F6C343",
+       "size": 30,
+       "cue": "Yang lain, nanti",
+       "d": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "name": "Aturan dua orang",
+   "loc": "bos",
+   "music": "hope",
+   "trans": "iris",
+   "locOpt": {
+    "time": "sore",
+    "deskX": 1300,
+    "folder": true
+   },
+   "props": [
+    {
+     "type": "officeDoor",
+     "x": 420,
+     "y": 1000,
+     "label": "KEPALA OPERASIONAL"
+    }
+   ],
+   "lines": [
+    {
+     "who": "hendra",
+     "from": "Intinya,",
+     "to": "Bagus",
+     "text": "Intinya, kamu bertanya sebelum mengirim.",
+     "maxW": 560,
+     "size": 38
+    }
+   ],
+   "shots": [
+    {
+     "at": 0,
+     "actors": [
+      {
+       "who": "hendra",
+       "x": 1400,
+       "face": -1,
+       "y": 950,
+       "layer": "back",
+       "size": 600,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "idle",
+         "expr": "neutral"
+        },
+        {
+         "cue": "Pak Hendra mendengar",
+         "d": 0.0,
+         "expr": "neutral"
+        }
+       ]
+      },
+      {
+       "who": "bayu",
+       "x": 700,
+       "face": 1,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "idle",
+         "expr": "sad",
+         "look": [
+          1,
+          0.2
+         ]
+        },
+        {
+         "cue": "Bukan seluruh utangnya",
+         "d": 0.0,
+         "expr": "neutral"
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "x": 900,
+       "y": 520,
+       "zoom": 1.05
+      },
+      {
+       "at": 0,
+       "x": 960,
+       "y": 520,
+       "zoom": 1.15,
+       "dur": 8
+      }
+     ]
+    },
+    {
+     "cue": "Pak Hendra mendengar sampai",
+     "d": -0.2,
+     "trans": "cut",
+     "actors": [
+      {
+       "who": "hendra",
+       "x": 1400,
+       "face": -1,
+       "y": 950,
+       "layer": "back",
+       "size": 600,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "idle",
+         "expr": "neutral"
+        },
+        {
+         "cue": "Bagus",
+         "d": -0.5,
+         "expr": "happy"
+        }
+       ]
+      },
+      {
+       "who": "bayu",
+       "x": 700,
+       "face": 1,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "idle",
+         "expr": "neutral",
+         "look": [
+          1,
+          0.2
+         ]
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "x": 1050,
+       "y": 520,
+       "zoom": 1.15
+      },
+      {
+       "x": 1090,
+       "y": 520,
+       "zoom": 1.28,
+       "dur": 6,
+       "cue": "Pak Hendra mendengar sampai",
+       "d": -0.2
+      }
+     ]
+    },
+    {
+     "cue": "Lalu ia menulis aturan baru",
+     "d": -0.3,
+     "trans": "zoom",
+     "actors": [],
+     "useLoc": false,
+     "fx": [
+      {
+       "type": "twoCol",
+       "titleAt": 0.4,
+       "colsAt": {
+        "cue": "Satu orang mengisi",
+        "d": -0.6
+       },
+       "neqAt": {
+        "cue": "Orang lain menyetujui",
+        "d": 0.2
+       },
+       "ruleAt": {
+        "cue": "Tidak boleh orang yang sama",
+        "d": 0.0
+       },
+       "chip": "YANG MENGISI ≠ YANG MENYETUJUI",
+       "chipAt": {
+        "cue": "Tidak boleh orang yang sama",
+        "d": 1.2
+       }
+      }
+     ]
+    },
+    {
+     "cue": "Rina tidak ikut masuk",
+     "d": -0.2,
+     "trans": "cut",
+     "actors": [
+      {
+       "who": "hendra",
+       "x": 1400,
+       "face": -1,
+       "y": 950,
+       "layer": "back",
+       "size": 600,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "idle",
+         "expr": "neutral"
+        }
+       ]
+      },
+      {
+       "who": "bayu",
+       "x": 700,
+       "face": 1,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "idle",
+         "expr": "proud",
+         "look": [
+          1,
+          0.2
+         ]
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "x": 900,
+       "y": 520,
+       "zoom": 1.05
+      },
+      {
+       "x": 860,
+       "y": 520,
+       "zoom": 1.15,
+       "dur": 5,
+       "cue": "Rina tidak ikut masuk",
+       "d": -0.2
+      }
+     ],
+     "fx": [
+      {
+       "type": "chip",
+       "text": "YANG MELAPOR: BAYU",
+       "x": 560,
+       "y": 170,
+       "bg": "#3BA36B",
+       "size": 32,
+       "cue": "Yang melapor",
+       "d": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "name": "Nomor palsu disimpan",
+   "loc": "kerja",
+   "music": "warm",
+   "trans": "fade",
+   "locOpt": {
+    "time": "sore",
+    "clock": "17:20"
+   },
+   "props": [
+    {
+     "type": "chair16",
+     "x": 830,
+     "y": 1000
+    },
+    {
+     "type": "deskR",
+     "x": 1210,
+     "y": 1000,
+     "papers": 1,
+     "laptop": 1
+    }
+   ],
+   "lines": [
+    {
+     "who": "bayu",
+     "from": "Nyaris. Tidak jadi",
+     "to": "Nyaris. Tidak jadi",
+     "text": "Nyaris. Tidak jadi.",
+     "label": "Bayu",
+     "maxW": 420,
+     "size": 44,
+     "min": 2.0
+    }
+   ],
+   "shots": [
+    {
+     "at": 0,
+     "actors": [
+      {
+       "who": "bayu",
+       "x": 850,
+       "face": 1,
+       "item": "phone",
+       "keys": [
+        {
+         "at": 0,
+         "pose": "phone",
+         "expr": "neutral",
+         "look": "down"
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "x": 1000,
+       "y": 560,
+       "zoom": 1.15
+      },
+      {
+       "at": 0,
+       "x": 960,
+       "y": 580,
+       "zoom": 1.28,
+       "dur": 5
+      }
+     ]
+    },
+    {
+     "cue": "Bukan untuk dibalas",
+     "d": -0.9,
+     "trans": "zoom",
+     "actors": [],
+     "useLoc": false,
+     "fx": [
+      {
+       "type": "voiceMsg",
+       "plays": [
+        -30
+       ],
+       "labelAt": 0.5,
+       "labelText": "JANGAN DIANGGAP PAK HENDRA",
+       "labelSub": "disimpan Bayu · bukan untuk dibalas",
+       "labelCol": "#D9483B",
+       "labelCh": "!",
+       "chip": "UNTUK DIINGAT",
+       "chipAt": {
+        "cue": "Untuk diingat",
+        "d": 0.0
+       },
+       "chipBg": "#D9483B"
+      }
+     ]
+    },
+    {
+     "cue": "Di halaman transfer, cap merah",
+     "d": -0.2,
+     "trans": "cut",
+     "actors": [],
+     "useLoc": false,
+     "fx": [
+      {
+       "type": "transferApp",
+       "typeAt": -30,
+       "badgeAt": -30,
+       "stampAt": 0.5,
+       "fingerOut": 0.0
+      }
+     ]
+    },
+    {
+     "cue": "Ia menunjukkan layar itu",
+     "d": -0.2,
+     "trans": "cut",
+     "actors": [
+      {
+       "who": "bayu",
+       "x": 850,
+       "face": 1,
+       "item": "phone",
+       "keys": [
+        {
+         "at": 0,
+         "pose": "phone",
+         "expr": "neutral",
+         "look": [
+          1,
+          0
+         ]
+        },
+        {
+         "cue": "Nyaris. Tidak jadi",
+         "d": 0.0,
+         "pose": "shrug",
+         "expr": "sad"
+        }
+       ]
+      },
+      {
+       "who": "yoga",
+       "x": 1650,
+       "face": -1,
+       "neckphones": true,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "idle",
+         "expr": "neutral"
+        },
+        {
+         "cue": "Yoga mengangguk",
+         "d": 0.0,
+         "expr": "happy"
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "x": 1200,
+       "y": 560,
+       "zoom": 1.2
+      },
+      {
+       "x": 1240,
+       "y": 560,
+       "zoom": 1.3,
+       "dur": 6,
+       "cue": "Ia menunjukkan layar itu",
+       "d": -0.2
+      }
+     ]
+    },
+    {
+     "cue": "Uang kantor tetap",
+     "d": -0.2,
+     "trans": "cut",
+     "actors": [
+      {
+       "who": "bayu",
+       "x": 850,
+       "face": 1,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "idle",
+         "expr": "tired",
+         "look": "down"
+        },
+        {
+         "cue": "Takutnya tidak hilang",
+         "d": 0.0,
+         "expr": "sad"
+        },
+        {
+         "cue": "Tapi takutnya tidak sampai",
+         "d": 0.0,
+         "expr": "neutral"
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "on": "bayu",
+       "fit": 0.25,
+       "sx": 800
+      },
+      {
+       "on": "bayu",
+       "fit": 0.31,
+       "sx": 800,
+       "dur": 12,
+       "cue": "Uang kantor tetap",
+       "d": -0.2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "name": "Kartu pelajaran",
+   "loc": "kerja",
+   "music": "warm",
+   "trans": "iris",
+   "post": 3.0,
+   "locOpt": {
+    "time": "sore",
+    "clock": "17:20"
+   },
+   "shots": [
+    {
+     "at": 0,
+     "blur": 9,
+     "actors": [
+      {
+       "who": "rina",
+       "x": 300,
+       "face": 1,
+       "size": 600,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "wave",
+         "expr": "happy",
+         "look": "cam"
+        },
+        {
+         "cue": "Satu: kalau ada",
+         "pose": "pointUp"
+        },
+        {
+         "cue": "Dua: transfer besar",
+         "pose": "hips",
+         "expr": "proud"
+        },
+        {
+         "cue": "Tiga: takut",
+         "pose": "pointUp",
+         "expr": "happy",
+         "item": "thumb",
+         "jump": 50
+        },
+        {
+         "cue": "Tiga: takut",
+         "d": 2.8,
+         "pose": "wave",
+         "item": null
+        },
+        {
+         "cue": "Dua puluh lima juta itu tetap",
+         "pose": "hips",
+         "expr": "proud"
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "x": 960,
+       "y": 520,
+       "zoom": 1.0
+      },
+      {
+       "at": 0,
+       "x": 960,
+       "y": 540,
+       "zoom": 1.06,
+       "dur": 14
+      }
+     ],
+     "fx": [
+      {
+       "type": "lesson",
+       "cue": "Jadi, apa",
+       "d": 0.8,
+       "items": [
+        {
+         "cue": "Satu: kalau ada",
+         "text": "Minta uang mendadak: cek lewat saluran lain"
+        },
+        {
+         "cue": "Dua: transfer besar",
+         "text": "Transfer besar: satu mengisi, satu menyetujui"
+        },
+        {
+         "cue": "Tiga: takut",
+         "text": "Takut bukan alasan untuk tidak bertanya"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "name": "Cuplikan Eps 3 + layar akhir",
+   "loc": "lobi",
+   "music": "tense",
+   "trans": "flash",
+   "post": 6.5,
+   "locOpt": {
+    "time": "sore",
+    "deskX": 1100,
+    "deskFront": true,
+    "stairs": 1600,
+    "slamX": -230,
+    "slam": 0
+   },
+   "shots": [
+    {
+     "at": 0,
+     "actors": [
+      {
+       "who": "resepsionis",
+       "x": 1000,
+       "y": 930,
+       "layer": "back",
+       "face": -1,
+       "size": 520,
+       "item": "phone",
+       "keys": [
+        {
+         "at": 0,
+         "pose": "phone",
+         "expr": "neutral"
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "x": 1000,
+       "y": 620,
+       "zoom": 1.15
+      },
+      {
+       "at": 0,
+       "x": 1040,
+       "y": 620,
+       "zoom": 1.28,
+       "dur": 6
+      }
+     ],
+     "fx": [
+      {
+       "type": "chip",
+       "text": "LOBI · HAMPIR 17.00",
+       "x": 560,
+       "y": 170,
+       "bg": "#13223D",
+       "col": "#F6C343",
+       "at": 0.4
+      }
+     ]
+    },
+    {
+     "cue": "Mbak Wulan menyambungkannya",
+     "d": -0.2,
+     "trans": "whip",
+     "loc": "kerja",
+     "locOpt": {
+      "time": "sore",
+      "clock": "16:58"
+     },
+     "props": [
+      {
+       "type": "chair16",
+       "x": 830,
+       "y": 1000
+      },
+      {
+       "type": "deskR",
+       "x": 1210,
+       "y": 1000,
+       "papers": 1,
+       "laptop": 1
+      }
+     ],
+     "actors": [
+      {
+       "who": "bayu",
+       "x": 850,
+       "face": 1,
+       "item": "phone",
+       "keys": [
+        {
+         "at": 0,
+         "pose": "idle",
+         "expr": "neutral",
+         "look": "down"
+        },
+        {
+         "cue": "Beberapa kepala menoleh",
+         "d": 0.0,
+         "look": [
+          1,
+          0
+         ]
+        },
+        {
+         "cue": "Bayu mengangkat",
+         "d": 0.0,
+         "pose": "phone",
+         "expr": "scared",
+         "emote": "sweat"
+        }
+       ]
+      },
+      {
+       "who": "sinta",
+       "x": 260,
+       "face": 1,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "idle",
+         "expr": "neutral"
+        },
+        {
+         "cue": "Beberapa kepala menoleh",
+         "d": 0.0,
+         "look": [
+          1,
+          0
+         ],
+         "expr": "confused"
+        }
+       ],
+       "y": 930,
+       "layer": "back",
+       "size": 520
+      },
+      {
+       "who": "yoga",
+       "x": 1850,
+       "face": -1,
+       "neckphones": true,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "idle",
+         "expr": "neutral"
+        },
+        {
+         "cue": "Beberapa kepala menoleh",
+         "d": 0.0,
+         "look": [
+          -1,
+          0
+         ],
+         "expr": "confused"
+        }
+       ],
+       "y": 930,
+       "layer": "back",
+       "size": 520
+      }
+     ],
+     "cam": [
+      {
+       "x": 1000,
+       "y": 540,
+       "zoom": 1.05
+      },
+      {
+       "x": 1040,
+       "y": 540,
+       "zoom": 1.15,
+       "dur": 8,
+       "cue": "Mbak Wulan menyambungkannya",
+       "d": -0.2
+      }
+     ]
+    },
+    {
+     "cue": "Di ponsel pribadinya",
+     "d": -0.2,
+     "trans": "zoom",
+     "actors": [],
+     "useLoc": false,
+     "fx": [
+      {
+       "type": "lockAlert",
+       "mode": "missed",
+       "bannerAt": 0.5,
+       "clock": "16.58",
+       "date": "Jumat, 11 Juli",
+       "chip": "PINJAMAN G · TAK TERANGKAT",
+       "chipAt": 1.8
+      }
+     ]
+    },
+    {
+     "cue": "Saksikan kelanjutannya",
+     "d": -0.2,
+     "trans": "flash",
+     "blur": 8,
+     "loc": "kerja",
+     "locOpt": {
+      "time": "sore",
+      "clock": "16:59"
+     },
+     "props": [
+      {
+       "type": "chair16",
+       "x": 830,
+       "y": 1000
+      },
+      {
+       "type": "deskR",
+       "x": 1210,
+       "y": 1000,
+       "papers": 1,
+       "laptop": 1
+      }
+     ],
+     "actors": [
+      {
+       "who": "bayu",
+       "x": 850,
+       "face": 1,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "idle",
+         "expr": "scared",
+         "look": "down"
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "x": 960,
+       "y": 600,
+       "zoom": 1.1
+      },
+      {
+       "x": 960,
+       "y": 610,
+       "zoom": 1.16,
+       "dur": 4,
+       "cue": "Saksikan kelanjutannya",
+       "d": -0.2
+      }
+     ],
+     "fx": [
+      {
+       "type": "card",
+       "text": "UTANG BAYU · EPS 3",
+       "tag": "PENAGIH MENELEPON KE KANTOR",
+       "size": 90,
+       "bg": "#6E2430",
+       "cue": "Saksikan kelanjutannya",
+       "d": -0.1
+      }
+     ]
+    },
+    {
+     "cue": "Kalau cerita ini",
+     "d": -0.2,
+     "trans": "fade",
+     "actors": [],
+     "useLoc": false,
+     "noHeader": true,
+     "fx": [
+      {
+       "type": "endscreen",
+       "clickAt": {
+        "cue": "subscribe Tangani"
+       },
+       "askAt": {
+        "cue": "Dan tulis di komentar"
+       },
+       "nextQuote": "\"Mencari Pak Bayu.\"",
+       "nextSub": "satu divisi tahu",
+       "nextTitle": "Utang Bayu · Eps 3",
+       "nextWho": "bayu",
+       "nextKey": {
+        "pose": "sit",
+        "expr": "scared"
+       },
+       "nextThumb": false,
+       "playlist": "Utang Bayu",
+       "playlistEps": "Eps 1 · 2 · 3 · 4",
+       "ask": "Kamu menekan kirim, atau menelepon dulu? Tulis di komentar!"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "slug": "kantor-11",
+ "title": "Penagih Utang Menelepon ke Kantor, Satu Divisi Jadi Tahu | Kantor Tangani: Utang Bayu Eps 3",
+ "kicker": "Kantor Tangani: Utang Bayu · Eps 3/4 · animasi 16:9",
+ "kind": "cerita16",
+ "parts": [
+  {
+   "name": "Pembuka & masalah",
+   "chapters": [
+    "Sebelumnya",
+    "Bisik-bisik",
+    "Makan sendiri"
+   ]
+  },
+  {
+   "name": "Memburuk",
+   "chapters": [
+    "Empat mata",
+    "Dompet ditutup"
+   ]
+  },
+  {
+   "name": "Berubah",
+   "chapters": [
+    "Kotak nasi",
+    "Pelajaran"
+   ]
+  },
+  {
+   "name": "Episode berikutnya",
+   "chapters": [
+    "Episode berikutnya"
+   ]
+  }
+ ],
+ "lessons": [
+  "Kalau utang mulai mengganggu kerja, jangan ditutup dengan lelucon.",
+  "Cerita pada orang yang bisa membantu, empat mata, bukan pada satu ruangan.",
+  "Jangan menutup utang lama dengan pinjaman dari teman."
+ ],
+ "duration": 495.0,
+ "voice": "Citra (ElevenLabs)"
+}

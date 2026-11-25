@@ -1,0 +1,43 @@
+{
+ "slug": "kantor-02",
+ "title": "Bilang \"Aman, Bu!\" Padahal Proyeknya Hampir Gagal | Kantor Tangani: Tak Terlihat Eps 2",
+ "kicker": "Kantor Tangani: Tak Terlihat · Eps 2/4 · animasi 16:9",
+ "kind": "cerita16",
+ "parts": [
+  {
+   "name": "Pembuka & masalah",
+   "chapters": [
+    "Sebelumnya",
+    "H-1",
+    "Proyek besar"
+   ]
+  },
+  {
+   "name": "Memburuk",
+   "chapters": [
+    "Laporan Sinta",
+    "Pengakuan"
+   ]
+  },
+  {
+   "name": "Berubah & hasil",
+   "chapters": [
+    "Atasan bukan peramal",
+    "Hasilnya"
+   ]
+  },
+  {
+   "name": "Episode berikutnya",
+   "chapters": [
+    "Episode berikutnya"
+   ]
+  }
+ ],
+ "lessons": [
+  "Kabar buruk yang disampaikan lebih awal masih bisa diselamatkan.",
+  "Laporkan progres dalam 3 baris: selesai, sedang, butuh bantuan.",
+  "Jangan kosongkan baris ketiga: bantuan apa yang kamu butuhkan."
+ ],
+ "duration": 498.783,
+ "voice": "Citra (ElevenLabs)"
+}

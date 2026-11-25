@@ -1,0 +1,41 @@
+{
+ "slug": "kantor-09",
+ "title": "Gaji Sama Besar, Kenapa Rina Bisa Menabung dan Bayu Tidak? | Kantor Tangani: Utang Bayu Eps 1",
+ "kicker": "Kantor Tangani: Utang Bayu · Eps 1/4 · animasi 16:9",
+ "kind": "cerita16",
+ "parts": [
+  {
+   "name": "Pembuka & masalah",
+   "chapters": [
+    "Pantry",
+    "Hari gajian",
+    "Catatan 30 hari"
+   ]
+  },
+  {
+   "name": "Memburuk",
+   "chapters": [
+    "Ponsel tertinggal",
+    "Amplop Dimas"
+   ]
+  },
+  {
+   "name": "Berubah",
+   "chapters": [
+    "Pelajaran",
+    "Episode berikutnya"
+   ]
+  },
+  {
+   "name": "Episode berikutnya",
+   "chapters": []
+  }
+ ],
+ "lessons": [
+  "Begitu gajian, sisihkan tabungan dulu; jangan menunggu sisa di akhir bulan.",
+  "Catat pengeluaran supaya bocornya kelihatan.",
+  "Jangan menutup cicilan dengan cicilan baru."
+ ],
+ "duration": 497.682,
+ "voice": "Citra (ElevenLabs)"
+}

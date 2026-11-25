@@ -1,0 +1,43 @@
+{
+ "slug": "kantor-10",
+ "title": "Suara Atasan Minta Transfer 25 Juta. Ternyata Bukan Dia | Kantor Tangani: Utang Bayu Eps 2",
+ "kicker": "Kantor Tangani: Utang Bayu · Eps 2/4 · animasi 16:9",
+ "kind": "cerita16",
+ "parts": [
+  {
+   "name": "Pembuka & masalah",
+   "chapters": [
+    "Sebelumnya",
+    "Tombol kirim",
+    "Pujian"
+   ]
+  },
+  {
+   "name": "Memburuk",
+   "chapters": [
+    "Telepon dulu",
+    "Bukan suaranya"
+   ]
+  },
+  {
+   "name": "Berubah",
+   "chapters": [
+    "Dua orang",
+    "Pelajaran"
+   ]
+  },
+  {
+   "name": "Episode berikutnya",
+   "chapters": [
+    "Episode berikutnya"
+   ]
+  }
+ ],
+ "lessons": [
+  "Permintaan uang yang mendadak: cek lewat saluran lain, telepon nomor yang sudah tersimpan.",
+  "Transfer besar: satu orang mengisi, orang lain menyetujui.",
+  "Takut kelihatan tidak mampu itu manusiawi, tapi bukan alasan untuk tidak bertanya."
+ ],
+ "duration": 495.0,
+ "voice": "Citra (ElevenLabs)"
+}

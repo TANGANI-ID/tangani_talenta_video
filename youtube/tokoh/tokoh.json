@@ -1,0 +1,18 @@
+{
+ "rina":   {"nama": "Rina", "peran": "Tokoh utama · staf layanan pelanggan, 26 th", "watak": "rajin, pekerja keras, awalnya kurang terlihat",
+            "look": {"hair": "hijab", "hijab": "#D9483B", "shirt": "#5B7DB1", "pants": "#3B2418", "skin": "c", "idcard": "#C2691F"}},
+ "bayu":   {"nama": "Bayu", "peran": "Sahabat Rina · staf operasional, 27 th", "watak": "ceria, spontan, kadang ceroboh",
+            "look": {"hair": "spiky", "hairColor": "#2B1A12", "shirt": "#E8A55B", "sleeve": "short", "pants": "#2C2433", "skin": "d", "idcard": "#2F6F73"}},
+ "ratna":  {"nama": "Bu Ratna", "peran": "Atasan langsung · supervisor, 40 th", "watak": "tegas tapi hangat, suka membimbing",
+            "look": {"hair": "hijab", "hijab": "#6E2430", "glasses": true, "shirt": "#F3D9B5", "jacket": "#3B4A6B", "pants": "#2C2433", "skin": "b"}},
+ "hendra": {"nama": "Pak Hendra", "peran": "Kepala divisi · manajer senior, 52 th", "watak": "berwibawa, menilai dari hasil",
+            "look": {"hair": "side", "hairColor": "#9A9A9A", "glasses": true, "mustache": true, "shirt": "#FFFDF8", "tie": "#C2691F", "jacket": "#3B2418", "pants": "#3B2418", "skin": "c"}},
+ "sinta":  {"nama": "Sinta", "peran": "Rekan berprestasi · koordinator tim, 29 th", "watak": "rapi, komunikatif, jadi teladan",
+            "look": {"hair": "hijab", "hijab": "#2F6F73", "shirt": "#FFFDF8", "jacket": "#C2691F", "pants": "#3B2418", "skin": "e", "idcard": "#F6C343"}},
+ "yoga":   {"nama": "Yoga", "peran": "Analis data, 30 th", "watak": "pendiam, teliti, jago angka",
+            "look": {"hair": "side", "hairColor": "#2B1A12", "glasses": true, "shirt": "#7FA563", "pants": "#3B2418", "skin": "d", "idcard": "#C2691F"}},
+ "nisa":   {"nama": "Nisa", "peran": "Karyawan baru, 22 th", "watak": "antusias, banyak bertanya",
+            "look": {"hair": "hijab", "hijab": "#E07A9B", "shirt": "#F6C343", "pants": "#5B7DB1", "skin": "a", "collar": false, "idcard": "#2F6F73"}},
+ "dodi":   {"nama": "Dodi", "peran": "Staf gudang & lapangan, 35 th", "watak": "humoris, praktis, bisa diandalkan",
+            "look": {"hat": "cap", "hatColor": "#C2691F", "beard": "goatee", "shirt": "#3F6FB5", "sleeve": "short", "pants": "#3B4A6B", "skin": "a"}}
+}

@@ -1,0 +1,1183 @@
+{
+ "slug": "kelas-01b",
+ "title": "Sibuk Seharian Tapi Tidak Ada yang Selesai? Atur Prioritas Begini | Kelas Produktif Eps 1",
+ "series": "Kelas Produktif",
+ "story": "Waktu & Prioritas",
+ "eps": "1",
+ "naskah": "youtube/kelas/kp01b-naskah.md",
+ "minDur": 480,
+ "chapters": [
+  [
+   1,
+   "Capek tapi tidak ke mana-mana"
+  ],
+  [
+   3,
+   "Sibuk bukan berarti produktif"
+  ],
+  [
+   4,
+   "Poin 1: Tulis semua dulu"
+  ],
+  [
+   5,
+   "Poin 2: Tanya dua hal"
+  ],
+  [
+   6,
+   "Poin 3: Empat kotak"
+  ],
+  [
+   7,
+   "Poin 4: Beri jam"
+  ],
+  [
+   8,
+   "Poin 5: Serahkan atau bilang tidak"
+  ],
+  [
+   9,
+   "Poin 6: Satu tugas penting dulu"
+  ],
+  [
+   10,
+   "Rangkuman"
+  ],
+  [
+   11,
+   "Coba besok pagi"
+  ],
+  [
+   12,
+   "Episode berikutnya"
+  ]
+ ],
+ "parts": [
+  [
+   "Masalah",
+   0,
+   2
+  ],
+  [
+   "6 Langkah",
+   2,
+   8
+  ],
+  [
+   "Penutup",
+   8,
+   11
+  ]
+ ],
+ "lessons": [
+  "Tulis semua tugasmu, lalu masukkan ke empat kotak: penting dan mendesak, penting tidak mendesak, mendesak tidak penting, tidak penting.",
+  "Yang penting tapi tidak mendesak: beri jam, jangan cuma \"nanti\".",
+  "Kerjakan satu tugas penting sebelum membuka chat."
+ ],
+ "youtube": {
+  "lessonHead": "Coba besok pagi:",
+  "about": "Kelas Produktif adalah serial belajar kerja dari Tangani Talenta: penjelasan singkat, cara praktis yang bisa dicoba besok.",
+  "desc": "Sibuk seharian, ponsel penuh balasan, tapi pekerjaan terpenting belum ada yang selesai? Di video ini ada enam langkah mengatur prioritas kerja harian: tulis semua dulu, tanya dua hal, masukkan ke empat kotak (matriks penting-mendesak), beri jam, serahkan atau berani bilang tidak, dan kerjakan satu tugas penting sebelum membuka chat.",
+  "ask": "Dari enam langkah tadi, mana yang paling sulit buatmu? Tulis di kolom komentar.",
+  "next": "Kelas Produktif Eps 2: Susah Fokus Kerja? Coba Teknik 25 Menit Ini (Pomodoro).",
+  "tags": "kelas produktif, prioritas kerja, matriks eisenhower, penting mendesak, produktivitas kerja, manajemen waktu, sibuk tapi tidak produktif, tips kerja, dunia kerja, Tangani Talenta",
+  "hashtags": "#KelasProduktif #produktivitas #duniakerja",
+  "adAfter": 6
+ },
+ "thumb": {
+  "kind": "kp1b",
+  "lines": [
+   "SIBUK TAPI",
+   "TAK SELESAI?"
+  ],
+  "hl": "ATUR PRIORITAS",
+  "lineSize": 90,
+  "hlSize": 72,
+  "badge": "6 LANGKAH",
+  "tag": "KELAS PRODUKTIF · EPS 1"
+ },
+ "extras": {},
+ "adegan": [
+  {
+   "n": 1,
+   "name": "Capek tapi tidak ke mana-mana",
+   "loc": "kerja",
+   "music": "light",
+   "trans": "fade",
+   "noHeader": true,
+   "shots": [
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "fade",
+     "fx": [
+      {
+       "type": "nightList",
+       "at": 0,
+       "chipAt": 9.0
+      }
+     ],
+     "at": 0
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "treadmill",
+       "at": 0,
+       "chip": "Capek, tapi tidak ke mana-mana.",
+       "chipAt": 1.0
+      }
+     ],
+     "cue": "Rasanya seperti berlari di atas treadmill",
+     "d": -0.3
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "zoom",
+     "fx": [
+      {
+       "type": "pointCard",
+       "at": 0,
+       "n": 2,
+       "num": "6",
+       "label": "YANG AKAN KAMU DAPAT",
+       "lines": [
+        "LANGKAH",
+        "ATUR PRIORITAS"
+       ],
+       "sub": "Cukup kertas, pulpen, dan keberanian memilih.",
+       "noDots": true
+      }
+     ],
+     "cue": "Kalau kamu pernah merasa begitu",
+     "d": -0.3
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "name": "Kartu judul",
+   "vo": false,
+   "dur": 8.2,
+   "noHeader": true,
+   "noCaption": true,
+   "music": "none",
+   "trans": "flash",
+   "loc": "kerja",
+   "shots": [
+    {
+     "at": 0,
+     "useLoc": false,
+     "actors": [],
+     "fx": [
+      {
+       "type": "titleKP",
+       "at": 0,
+       "disc": 0,
+       "eps": "EPS 1",
+       "topic": "WAKTU & PRIORITAS",
+       "hook": "Sibuk Seharian Tapi Tidak Ada yang Selesai? Atur Prioritas Begini"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "name": "Sibuk bukan berarti produktif",
+   "loc": "kerja",
+   "music": "light",
+   "trans": "flash",
+   "noHeader": true,
+   "shots": [
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "flash",
+     "fx": [
+      {
+       "type": "timeBars",
+       "at": 0,
+       "mode": "pie",
+       "labAt": {
+        "cue": "Padahal kamu punya dua puluh empat jam",
+        "d": 3.0
+       }
+      }
+     ],
+     "at": 0
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "zoom",
+     "fx": [
+      {
+       "type": "timeBars",
+       "at": 0,
+       "mode": "bars",
+       "chipA": "SIBUK: APA SAJA YANG DATANG",
+       "chipB": "MAJU: YANG PALING BERDAMPAK"
+      }
+     ],
+     "cue": "Yang membedakan adalah urutan",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "zoom",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 4,
+       "top": "SIBUK ITU TERASA",
+       "big": "HASIL?",
+       "size": 240,
+       "lines": [
+        "Tapi tidak otomatis",
+        "ada hasilnya."
+       ]
+      }
+     ],
+     "cue": "Sibuk itu terasa",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 1,
+       "top": "SIBUK  ≠  PRODUKTIF",
+       "big": "PILIH",
+       "size": 320,
+       "lines": [
+        "Yang penting dulu,",
+        "bukan yang banyak."
+       ]
+      }
+     ],
+     "cue": "Jadi tujuan kita bukan mengerjakan semuanya",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "zoom",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 0,
+       "top": "HARIMU SEPERTI PIRING",
+       "big": "PILIH",
+       "size": 300,
+       "lines": [
+        "Semua diambil = piring penuh,",
+        "yang paling penting malah jatuh."
+       ]
+      }
+     ],
+     "cue": "Coba bayangkan harimu seperti piring",
+     "d": -0.2
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "name": "Poin 1: Tulis semua dulu",
+   "loc": "kerja",
+   "music": "light",
+   "trans": "whip",
+   "noHeader": true,
+   "shots": [
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "pointCard",
+       "at": 0,
+       "n": 1,
+       "lines": [
+        "TULIS",
+        "SEMUA DULU"
+       ],
+       "sub": "Kepala untuk berpikir, bukan untuk menyimpan."
+      }
+     ],
+     "at": 0
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "brainDump",
+       "at": 0,
+       "flyAt": {
+        "cue": "Rapat, laporan, balasan pesan",
+        "d": -0.2
+       },
+       "per": 0.8,
+       "chip": "KELUARKAN DARI KEPALA",
+       "chipAt": 1.0
+      }
+     ],
+     "cue": "Semua yang ada di kepalamu",
+     "d": -0.3
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "zoom",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 0,
+       "top": "SAAT SEMUA DITULIS",
+       "big": "20–30",
+       "size": 330,
+       "lines": [
+        "hal saja,",
+        "bukan seratus."
+       ]
+      }
+     ],
+     "cue": "Biasanya, saat aku tulis semua",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "cut",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 0,
+       "top": "LANGKAH INI",
+       "big": "TULIS",
+       "size": 320,
+       "lines": [
+        "Jangan menilai dulu,",
+        "termasuk yang bikin malu."
+       ]
+      }
+     ],
+     "cue": "Jangan menilai apa pun dulu",
+     "d": -0.2
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "name": "Poin 2: Tanya dua hal",
+   "loc": "kerja",
+   "music": "tense",
+   "trans": "whip",
+   "noHeader": true,
+   "shots": [
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "pointCard",
+       "at": 0,
+       "n": 2,
+       "lines": [
+        "TANYA",
+        "DUA HAL"
+       ],
+       "sub": "Penting itu soal dampak. Mendesak itu soal waktu."
+      }
+     ],
+     "at": 0
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "twoLamps",
+       "at": 0,
+       "start": {
+        "cue": "Pertama, kalau tugas ini tidak dikerjakan",
+        "d": 0.0
+       },
+       "per": 3.6,
+       "q1At": {
+        "cue": "Pertama, kalau tugas ini tidak dikerjakan",
+        "d": 0.2
+       },
+       "q2At": {
+        "cue": "Kedua, kalau tidak dikerjakan hari ini",
+        "d": 0.2
+       }
+      }
+     ],
+     "cue": "Pertama, kalau tugas ini tidak dikerjakan",
+     "d": -0.3
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "zoom",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 1,
+       "top": "SERING TERTUKAR",
+       "big": "≠",
+       "size": 380,
+       "lines": [
+        "PENTING = dampak",
+        "MENDESAK = waktu"
+       ]
+      }
+     ],
+     "cue": "Dua hal ini berbeda",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 1,
+       "top": "YANG PENTING BIASANYA",
+       "big": "SEPI",
+       "size": 330,
+       "lines": [
+        "Tidak ada notifikasi yang menagihnya,",
+        "mudah tergeser oleh yang ramai."
+       ]
+      }
+     ],
+     "cue": "Dan tugas yang paling penting biasanya",
+     "d": -0.2
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "name": "Poin 3: Masukkan ke 4 kotak",
+   "loc": "kerja",
+   "music": "warm",
+   "trans": "whip",
+   "noHeader": true,
+   "shots": [
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "pointCard",
+       "at": 0,
+       "n": 3,
+       "lines": [
+        "MASUKKAN",
+        "KE 4 KOTAK"
+       ],
+       "sub": "Matriks penting–mendesak."
+      }
+     ],
+     "at": 0
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "zoom",
+     "fx": [
+      {
+       "type": "matrix4",
+       "at": 0,
+       "mode": "card",
+       "title": "MATRIKS PENTING–MENDESAK",
+       "titleAt": 0.1,
+       "items": [
+        {
+         "at": {
+          "cue": "Kotak pertama",
+          "d": 0.0
+         },
+         "q": 0,
+         "ex": "Sistem klien mati"
+        },
+        {
+         "at": {
+          "cue": "Kotak kedua",
+          "d": 0.0
+         },
+         "q": 1,
+         "ex": "Rencana kerja bulan depan"
+        },
+        {
+         "at": {
+          "cue": "Kotak ketiga",
+          "d": 0.0
+         },
+         "q": 2,
+         "ex": "Minta foto kardus"
+        },
+        {
+         "at": {
+          "cue": "Kotak keempat",
+          "d": 0.0
+         },
+         "q": 3,
+         "ex": "Stiker grup alumni"
+        }
+       ]
+      }
+     ],
+     "cue": "Kotak pertama, penting dan mendesak",
+     "d": -0.3
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 2,
+       "top": "KOTAK PALING BERHARGA",
+       "big": "KOTAK 2",
+       "size": 280,
+       "lines": [
+        "Tempat pekerjaan yang membuatmu maju.",
+        "Pindahkan hidupmu pelan-pelan dari kotak 1 ke kotak 2."
+       ]
+      }
+     ],
+     "cue": "Kalau kamu lakukan ini jujur",
+     "d": -0.2
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "name": "Poin 4: Beri jam",
+   "loc": "kerja",
+   "music": "warm",
+   "trans": "whip",
+   "noHeader": true,
+   "shots": [
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "pointCard",
+       "at": 0,
+       "n": 4,
+       "lines": [
+        "BERI",
+        "JAM"
+       ],
+       "sub": "Bukan \"nanti\", tapi \"Rabu jam 2\"."
+      }
+     ],
+     "at": 0
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "weekPlan",
+       "at": 0,
+       "crossAt": 2.4,
+       "flyAt": 3.6,
+       "alarmAt": 5.6,
+       "chip": "Bukan 'nanti', tapi 'Rabu jam 2'.",
+       "chipAt": 1.2
+      }
+     ],
+     "cue": "Bukan",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "zoom",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 3,
+       "top": "YANG TIDAK MENDESAK",
+       "big": "DARURAT",
+       "size": 260,
+       "lines": [
+        "Ditunda terus, suatu hari",
+        "ia berubah jadi darurat."
+       ]
+      }
+     ],
+     "cue": "Kalau kamu tunda terus",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 1,
+       "top": "TULIS JAMNYA, PASANG PENGINGATNYA",
+       "big": "JANJI",
+       "size": 330,
+       "lines": [
+        "Anggap seperti rapat dengan atasan,",
+        "tidak dibatalkan sembarangan."
+       ]
+      }
+     ],
+     "cue": "Jadi ia harus punya tempat di kalender",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "zoom",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 3,
+       "top": "KALAU ADA YANG MENGAJAK DI JAM ITU",
+       "big": "JAM INI?",
+       "size": 260,
+       "lines": [
+        "Jam segitu aku sudah ada janji,",
+        "bisa jam berikutnya?"
+       ]
+      }
+     ],
+     "cue": "Kalau tiba-tiba ada yang mengajak",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 3,
+       "top": "UKURANNYA KECIL",
+       "big": "45",
+       "size": 400,
+       "lines": [
+        "menit yang pasti",
+        "lebih berguna dari tiga jam niat."
+       ]
+      }
+     ],
+     "cue": "Ukurannya juga kecil",
+     "d": -0.2
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "name": "Poin 5: Serahkan atau bilang tidak",
+   "loc": "kerja",
+   "music": "tense",
+   "trans": "whip",
+   "noHeader": true,
+   "shots": [
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "pointCard",
+       "at": 0,
+       "n": 5,
+       "lines": [
+        "SERAHKAN ATAU",
+        "BILANG TIDAK"
+       ],
+       "sub": "Tidak itu bukan egois."
+      }
+     ],
+     "at": 0
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "passCard",
+       "at": 0,
+       "mode": "pass",
+       "moveAt": 1.6,
+       "card": "Pesan minta foto"
+      }
+     ],
+     "cue": "Kalau tugas itu mendesak tapi bukan bagianmu",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "passCard",
+       "at": 0,
+       "mode": "no",
+       "ask": "Data stok sudah dikirim belum?",
+       "reply": "Sudah, kukirim ya.",
+       "replyAt": 1.8,
+       "noStamp": true
+      }
+     ],
+     "cue": "Kalau cuma perlu satu kalimat",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "passCard",
+       "at": 0,
+       "mode": "bin",
+       "dropAt": 1.8,
+       "card": "Stiker grup alumni"
+      }
+     ],
+     "cue": "Dan kalau tugas itu tidak penting",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "passCard",
+       "at": 0,
+       "mode": "no",
+       "replyAt": {
+        "cue": "Cukup bilang",
+        "d": 0.2
+       },
+       "stampAt": {
+        "cue": "Orang biasanya mengerti",
+        "d": 0.1
+       },
+       "reply": "Aku lagi pegang ini sampai jam 10, ya."
+      }
+     ],
+     "cue": "Mengatakan tidak itu bukan egois",
+     "d": -0.3
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "zoom",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 4,
+       "top": "YANG MEMBUAT KECEWA",
+       "big": "IYA",
+       "size": 360,
+       "lines": [
+        "Bukan kata tidak,",
+        "tapi iya yang tidak pernah ditepati."
+       ]
+      }
+     ],
+     "cue": "Yang membuat orang kecewa",
+     "d": -0.2
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "name": "Poin 6: Satu tugas penting dulu",
+   "loc": "kerja",
+   "music": "warm",
+   "trans": "whip",
+   "noHeader": true,
+   "shots": [
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "pointCard",
+       "at": 0,
+       "n": 6,
+       "lines": [
+        "SATU TUGAS",
+        "PENTING DULU"
+       ],
+       "sub": "Baru buka chat."
+      }
+     ],
+     "at": 0
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "morningRule",
+       "at": 0,
+       "reachAt": {
+        "cue": "langsung meraih ponsel",
+        "d": -1.0
+       },
+       "flipAt": {
+        "cue": "balik ponselmu menghadap meja",
+        "d": 0.3
+       },
+       "checkAt": {
+        "cue": "buka tugas yang tadi sudah kamu beri jam",
+        "d": 0.2
+       },
+       "openAt": 100000.0,
+       "chip": "SATU TUGAS DULU, BARU CHAT",
+       "chipAt": 1.0
+      }
+     ],
+     "cue": "Pagi hari, tanganmu pasti langsung",
+     "d": -0.3
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "zoom",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 5,
+       "top": "ITU ENAM LANGKAHNYA",
+       "big": "6",
+       "size": 420,
+       "lines": [
+        "Bisa dilakukan hari ini juga,",
+        "di kantor mana pun."
+       ]
+      }
+     ],
+     "cue": "Itu enam langkahnya",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "morningRule",
+       "at": 0,
+       "sunOff": 6,
+       "reachAt": -50,
+       "flipAt": -49,
+       "checkAt": -48,
+       "openAt": {
+        "cue": "Dua puluh tiga pesan menunggu",
+        "d": -0.2
+       },
+       "chip": "23 PESAN MENUNGGU",
+       "chipAt": 0.5
+      }
+     ],
+     "cue": "Aku sudah mencobanya",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "zoom",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 5,
+       "top": "SEBELUM JAM SEMBILAN",
+       "big": "MENANG",
+       "size": 300,
+       "lines": [
+        "Kamu bekerja dari posisi sudah menang,",
+        "bukan dari posisi mengejar."
+       ]
+      }
+     ],
+     "cue": "Kalau satu tugas penting sudah selesai",
+     "d": -0.2
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "name": "Rangkuman enam poin",
+   "loc": "kerja",
+   "music": "warm",
+   "trans": "fade",
+   "noHeader": true,
+   "shots": [
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "fade",
+     "fx": [
+      {
+       "type": "recapList",
+       "at": 0,
+       "rows": [
+        {
+         "text": "Tulis semua dulu",
+         "icon": "paper",
+         "at": {
+          "cue": "Satu, tulis semua dulu",
+          "d": -0.1
+         }
+        },
+        {
+         "text": "Tanya dua hal: penting & mendesak",
+         "icon": "star",
+         "at": {
+          "cue": "Dua, tanya dua hal",
+          "d": -0.1
+         }
+        },
+        {
+         "text": "Masukkan ke 4 kotak",
+         "icon": "boxes",
+         "at": {
+          "cue": "Tiga, masukkan ke empat kotak",
+          "d": -0.1
+         }
+        },
+        {
+         "text": "Yang penting tapi tidak mendesak: beri jam",
+         "icon": "cal",
+         "at": {
+          "cue": "Empat, yang penting tapi tidak mendesak",
+          "d": -0.1
+         }
+        },
+        {
+         "text": "Serahkan atau berani bilang tidak",
+         "icon": "hand",
+         "at": {
+          "cue": "Lima, serahkan atau berani bilang tidak",
+          "d": -0.1
+         }
+        },
+        {
+         "text": "Satu tugas penting dulu, baru buka chat",
+         "icon": "flip",
+         "at": {
+          "cue": "Dan enam, satu tugas penting dulu",
+          "d": -0.1
+         }
+        }
+       ]
+      }
+     ],
+     "at": 0
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "name": "Coba besok pagi",
+   "loc": "kerja",
+   "music": "warm",
+   "trans": "iris",
+   "post": 3.0,
+   "noHeader": true,
+   "locOpt": {
+    "time": "pagi",
+    "clock": "08:00"
+   },
+   "props": [
+    {
+     "type": "chair16",
+     "x": 830,
+     "y": 1000
+    },
+    {
+     "type": "deskR",
+     "x": 1210,
+     "y": 1000,
+     "photo": false,
+     "laptop": 1
+    }
+   ],
+   "shots": [
+    {
+     "at": 0,
+     "blur": 9,
+     "actors": [],
+     "cam": [
+      {
+       "x": 960,
+       "y": 520,
+       "zoom": 1.0
+      },
+      {
+       "at": 0,
+       "x": 960,
+       "y": 540,
+       "zoom": 1.06,
+       "dur": 18
+      }
+     ],
+     "fx": [
+      {
+       "type": "matrixMini",
+       "at": 0.6,
+       "x": 250,
+       "y": 190,
+       "s": 0.8
+      },
+      {
+       "type": "lesson",
+       "cue": "Satu, tulis semua tugasmu",
+       "d": -0.6,
+       "tag": "COBA BESOK PAGI",
+       "items": [
+        {
+         "cue": "Satu, tulis semua tugasmu",
+         "text": "Tulis semua tugasmu, masukkan ke 4 kotak"
+        },
+        {
+         "cue": "Dua, yang penting tapi tidak mendesak",
+         "text": "Yang penting tapi tidak mendesak: beri jam"
+        },
+        {
+         "cue": "Tiga, kerjakan satu tugas",
+         "text": "Kerjakan satu tugas penting sebelum membuka chat"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "name": "Cuplikan Eps 2 + layar akhir",
+   "loc": "kerja",
+   "music": "tense",
+   "trans": "flash",
+   "noHeader": true,
+   "shots": [
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "flash",
+     "fx": [
+      {
+       "type": "tabsLaptop",
+       "at": 0,
+       "from": 540,
+       "to": 720,
+       "dur": 7.0,
+       "pct": 0.2,
+       "chip": "3 JAM · BARU 20%",
+       "chipAt": {
+        "cue": "dua puluh persen",
+        "d": -0.6
+       }
+      }
+     ],
+     "at": 0
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "tomatoBig",
+       "at": 0,
+       "runAt": 1.4,
+       "chip": "25 MENIT · SATU TUGAS",
+       "chipAt": 0.8
+      }
+     ],
+     "cue": "Di episode berikutnya",
+     "d": -0.2
+    },
+    {
+     "cue": "Kalau video ini bermanfaat",
+     "d": -0.2,
+     "trans": "fade",
+     "actors": [],
+     "useLoc": false,
+     "noHeader": true,
+     "fx": [
+      {
+       "type": "endscreen",
+       "clickAt": {
+        "cue": "subscribe Tangani"
+       },
+       "askAt": {
+        "cue": "Dan tulis di kolom komentar"
+       },
+       "nextQuote": "\"Dua puluh lima menit.\"",
+       "nextSub": "Satu tugas.",
+       "nextTitle": "Kelas Produktif · Eps 2",
+       "nextWho": "yoga",
+       "nextKey": {
+        "pose": "pointUp",
+        "expr": "happy"
+       },
+       "nextThumb": false,
+       "playlistHead": "Kelas Produktif:",
+       "playlist": "Waktu & Prioritas",
+       "playlistEps": "Eps 1 · 2 · 3",
+       "ask": "Dari enam langkah tadi, mana yang paling sulit buatmu? Tulis di komentar!"
+      }
+     ]
+    }
+   ],
+   "post": 6.5
+  }
+ ]
+}

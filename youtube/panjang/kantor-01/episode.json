@@ -1,0 +1,403 @@
+{
+ "slug": "kantor-01",
+ "title": "Paling Rajin di Kantor, Tapi yang Dipromosikan Orang Lain | Kantor Tangani: Tak Terlihat Eps 1",
+ "series": "Kantor Tangani", "story": "Tak Terlihat", "eps": "1/4", "month": "JANUARI",
+ "naskah": "youtube/serial/ep01-naskah.md",
+ "minDur": 495,
+ "chapters": [[1, "Pengumuman"], [3, "Rina"], [6, "Bu Sari"], [8, "Grafik Yoga"], [10, "Satu pertanyaan"], [13, "Hasilnya"], [16, "Episode berikutnya"]],
+ "lessons": ["Tanyakan hasil seperti apa yang diharapkan darimu.", "Sibuk tidak sama dengan berhasil.", "Kerjakan dulu hal yang diukur."],
+ "extras": {
+  "dewi": {"nama": "Dewi (rekan tim)", "look": {"hair": "hijab", "hijab": "#3E7D4F", "shirt": "#F3D9B5", "pants": "#3B2418", "skin": "e", "idcard": "#C2691F"}},
+  "fajar": {"nama": "Fajar (rekan tim)", "look": {"hair": "short", "hairColor": "#2B1A12", "shirt": "#9FC6D0", "pants": "#2C2433", "skin": "a", "idcard": "#2F6F73"}},
+  "sari": {"nama": "Bu Sari (pemilik toko)", "look": {"hair": "hijab", "hijab": "#8E5BA6", "shirt": "#F4A85C", "pants": "#5A3A2A", "skin": "b"}},
+  "p1": {"look": {"hair": "hijab", "hijab": "#E8A55B", "shirt": "#5B7DB1", "pants": "#3B2418", "skin": "c"}},
+  "p2": {"look": {"hair": "hijab", "hijab": "#2F4F8F", "shirt": "#F3D9B5", "pants": "#5A3A2A", "skin": "a"}},
+  "p3": {"look": {"hair": "short", "hairColor": "#2B1A12", "shirt": "#7FA563", "sleeve": "short", "pants": "#2C2433", "skin": "d"}},
+  "p4": {"look": {"hair": "hijab", "hijab": "#B0763A", "shirt": "#FFFDF8", "pants": "#3B4A6B", "skin": "b"}},
+  "p5": {"look": {"hair": "hijab", "hijab": "#5E8A44", "shirt": "#E8C07A", "pants": "#3B2418", "skin": "e"}},
+  "p6": {"look": {"hair": "short", "hat": "kopiah", "shirt": "#FFFDF8", "pants": "#2C2433", "skin": "c", "mustache": true}}
+ },
+ "adegan": [
+  {"n": 1, "name": "Ruang rapat Melati, Senin pagi", "loc": "rapat", "music": "sad", "pre": 0.6, "post": 0.8, "trans": "cut",
+   "locOpt": {"slide": "cover", "clock": "08:05", "backChairs": [800, 1110, 1850]},
+   "actors": [
+    {"who": "hendra", "x": 270, "size": 610, "face": 1, "keys": [{"at": 0, "expr": "happy"}, {"cue": "tersenyum lebar", "pose": "wave", "expr": "laugh"}, {"cue": "Mulai bulan ini", "pose": "talk", "expr": "happy"}, {"cue": "Sinta!", "pose": "point", "expr": "laugh"}, {"cue": "Semua orang", "pose": "clap", "expr": "happy"}, {"cue": "Tiga tahun", "pose": "idle"}]},
+    {"who": "sinta", "x": 640, "size": 540, "face": -1, "keys": [{"at": 0, "pose": "sit"}, {"cue": "koordinator tim", "expr": "scared"}, {"cue": "Sinta!", "pose": "idle", "expr": "shock", "jump": 80}, {"cue": "Tepuk tangan", "pose": "cheer", "expr": "laugh", "face": 1}, {"cue": "Kecuali", "pose": "wave", "expr": "happy"}, {"cue": "Tiga tahun", "pose": "idle", "face": -1}]},
+    {"who": "bayu", "x": 950, "size": 540, "face": -1, "keys": [{"at": 0, "pose": "sit", "expr": "happy"}, {"cue": "adalah", "expr": "confused"}, {"cue": "Sinta!", "expr": "shock"}, {"cue": "Tepuk tangan", "pose": "clap", "expr": "happy"}, {"cue": "Semua orang", "pose": "cheer", "expr": "laugh", "jump": 70}, {"cue": "Kecuali", "pose": "clap", "expr": "happy"}, {"cue": "Tiga tahun", "pose": "sit", "expr": "neutral"}]},
+    {"who": "dewi", "x": 1260, "size": 540, "face": -1, "keys": [{"at": 0, "pose": "sit"}, {"cue": "Sinta!", "expr": "shock"}, {"cue": "Tepuk tangan", "d": 0.2, "pose": "clap", "expr": "happy"}, {"cue": "Semua orang", "d": 0.15, "pose": "cheer", "expr": "laugh"}, {"cue": "Kecuali", "d": 0.2, "pose": "clap"}, {"cue": "Tiga tahun", "pose": "sit", "expr": "neutral"}]},
+    {"who": "yoga", "x": 1570, "size": 540, "face": -1, "keys": [{"at": 0, "pose": "sit"}, {"cue": "Tepuk tangan", "d": 0.35, "pose": "clap", "expr": "happy"}, {"cue": "Tiga tahun", "pose": "sit", "expr": "neutral"}]},
+    {"who": "fajar", "x": 800, "y": 880, "depth": 0.8, "size": 470, "face": -1, "keys": [{"at": 0, "pose": "sit"}, {"cue": "Tepuk tangan", "d": 0.1, "pose": "clap", "expr": "happy"}, {"cue": "Tiga tahun", "pose": "sit", "expr": "neutral"}]},
+    {"who": "ratna", "x": 1110, "y": 880, "depth": 0.8, "size": 480, "face": -1, "keys": [{"at": 0, "pose": "sit"}, {"cue": "Tepuk tangan", "d": 0.25, "pose": "clap", "expr": "happy"}, {"cue": "Tiga tahun", "pose": "sit", "expr": "neutral"}]},
+    {"who": "rina", "x": 1850, "y": 880, "depth": 0.8, "size": 470, "face": -1, "keys": [{"at": 0, "pose": "sit", "expr": "neutral"}, {"cue": "koordinator tim", "expr": "happy"}, {"cue": "Sinta!", "expr": "shock"}, {"cue": "Tepuk tangan", "d": 0.6, "expr": "sad", "look": "down"}, {"cue": "baru sadar", "look": null}, {"cue": "tidak cukup", "expr": "sad"}, {"cue": "Tapi kenapa", "expr": "confused", "look": "cam", "emote": "?"}]}
+   ],
+   "lines": [
+    {"who": "hendra", "from": "Mulai bulan ini", "to": "kita adalah", "text": "Koordinator tim layanan pelanggan kita adalah…", "label": "Pak Hendra"},
+    {"who": "hendra", "from": "Sinta!", "to": "Sinta!", "text": "Sinta!", "kind": "shout", "min": 2.0}
+   ],
+   "sfx": [{"cue": "Tepuk tangan", "type": "applause", "dur": 6.5, "vol": 1}, {"cue": "Semua orang", "type": "cheer", "dur": 1.8, "vol": 0.9}, {"cue": "Kecuali", "d": 1.2, "type": "tick", "dur": 18, "vol": 0.8}],
+   "shots": [
+    {"at": 0, "cam": [{"x": 960, "y": 520, "zoom": 1.0}, {"at": 0.5, "on": "hendra", "fit": 0.2, "sx": 760, "dur": 6}],
+     "fx": [{"type": "nameTag", "cue": "Pak Hendra", "name": "Pak Hendra", "role": "Kepala Divisi", "x": 1150, "y": 760}]},
+    {"cue": "Mulai bulan ini", "d": -0.1, "cam": [{"x": 1480, "y": 600, "zoom": 1.55}, {"cue": "Mulai bulan ini", "d": 0.1, "x": 800, "y": 610, "zoom": 1.65, "dur": 5.5, "ease": "lin"}], "push": 0.01},
+    {"cue": "Sinta!", "d": -0.05, "trans": "flash", "locOpt": {"slide": "sinta", "clock": "08:06", "backChairs": [800, 1110, 1850]},
+     "cam": [{"x": 900, "y": 520, "zoom": 1.12, "shake": 16}, {"cue": "Semua orang", "x": 1000, "y": 510, "zoom": 1.2, "dur": 1.4}, {"cue": "Kecuali", "on": "rina", "fit": 0.16, "sx": 1250, "dur": 3.2}],
+     "fx": [{"type": "confetti", "cue": "Sinta!", "x": 640, "y": 260}, {"type": "confetti", "cue": "Semua orang", "x": 1250, "y": 200, "count": 70}]},
+    {"cue": "Tiga tahun", "d": -0.1, "actors": [], "useLoc": false, "noHeader": false,
+     "fx": [{"type": "clockClose", "cue": "Tiga tahun", "time": "08:06", "label": ["DATANG PALING PAGI", "PULANG PALING MALAM"], "labelEvery": 1.7, "x": 700}]},
+    {"cue": "Dan pagi ini", "d": -0.1, "locOpt": {"slide": "sinta", "clock": "08:07", "backChairs": [800, 1110, 1850], "table": false},
+     "actors": [{"who": "rina", "x": 1850, "y": 880, "depth": 0.8, "size": 470, "face": -1, "keys": [{"at": 0, "pose": "sit", "expr": "sad", "look": "down"}, {"cue": "baru sadar", "look": null}, {"cue": "tidak cukup", "expr": "sad"}, {"cue": "Tapi kenapa", "expr": "confused", "look": "cam", "emote": "?"}]}],
+     "cam": [{"on": "rina", "fit": 0.24, "sx": 1060}, {"cue": "Dan pagi ini", "d": 0.2, "on": "rina", "fit": 0.31, "sx": 960, "dur": 4.5}, {"cue": "Tapi kenapa", "on": "rina", "fit": 0.34, "sy": 500, "dur": 0.5, "ease": "back", "shake": 6}]}
+   ]},
+
+  {"n": 2, "name": "Kartu judul", "vo": false, "dur": 8, "noHeader": true, "noCaption": true, "music": "none", "trans": "flash",
+   "shots": [{"at": 0, "useLoc": false, "actors": [], "fx": [{"type": "title", "at": 0, "disc": 2.2}]}]},
+
+  {"n": 3, "name": "Meja Rina, pagi", "loc": "kerja", "music": "warm", "pre": 0.8, "trans": "iris",
+   "locOpt": {"time": "pagi", "empty": true, "clock": "06:55", "keys": [{"at": 0, "lights": 0.45}, {"at": 2.4, "lights": 1}]},
+   "fx": [{"type": "month", "at": 0.6, "hold": 4.2}],
+   "actors": [
+    {"who": "rina", "x": -260, "face": 1, "item": "bag", "keys": [{"at": 0.2, "x": 470, "dur": 2.0}, {"at": 2.2, "pose": "point"}, {"at": 2.6, "pose": "idle", "expr": "happy"}, {"cue": "Ini Rina", "pose": "wave", "look": "cam"}, {"cue": "dua puluh enam", "d": 0.6, "pose": "idle", "look": null, "x": 850, "dur": 1.3}, {"cue": "Setiap hari", "pose": "sit", "item": null},
+     {"cue": "Dan Rina membalas", "expr": "happy"}, {"cue": "Ia bangga", "expr": "proud", "emote": "sparkle"}, {"cue": "Ia yakin", "expr": "happy", "look": [-0.8, -0.3]}, {"cue": "ada yang memperhatikan", "look": "cam", "emote": "heart"}, {"cue": "Dan ada alasan", "look": null, "expr": "neutral"}, {"cue": "Naik jabatan", "look": [1, 0.3], "expr": "sad"}, {"cue": "tidak perlu", "expr": "proud", "look": "cam"}]}
+   ],
+   "props": [{"type": "chair16", "x": 830, "y": 1000}, {"type": "deskR", "x": 1210, "y": 1000}, {"type": "switch", "x": 520, "y": 560, "depth": 0.72, "keys": [{"at": 0, "on": false}, {"at": 2.3, "on": true}]}],
+   "lines": [{"who": "rina", "from": "Selamat pagi, Bapak", "to": "lancar selalu", "text": "Selamat pagi, Bapak. Semoga usahanya lancar selalu.", "talk": false, "bubble": "none"}],
+   "sfx": [{"at": 2.3, "type": "click", "vol": 1}, {"cue": "Dan Rina membalas", "type": "typing", "dur": 3, "vol": 0.6}],
+   "shots": [
+    {"at": 0, "props": [{"type": "switch", "x": 520, "y": 560, "depth": 0.72, "keys": [{"at": 0, "on": false}, {"at": 2.3, "on": true}]}, {"type": "chair16", "x": 830, "y": 1000}, {"type": "deskR", "x": 1210, "y": 1000}],
+     "cam": [{"x": 700, "y": 520, "zoom": 1.05}, {"at": 2.6, "x": 950, "y": 540, "zoom": 1.18, "dur": 2.5}, {"cue": "staf layanan", "x": 1000, "y": 560, "zoom": 1.25, "dur": 2}],
+     "fx": [{"type": "nameTag", "cue": "Ini Rina", "name": "Rina", "role": "26 th · Staf Layanan Pelanggan", "x": 1180, "y": 800}]},
+    {"cue": "ratusan pemilik", "d": -0.2, "trans": "zoom", "actors": [], "useLoc": false,
+     "fx": [{"type": "laptop", "mode": "tickets", "countDur": 8},
+            {"type": "panels", "out": {"cue": "Dan Rina membalas"}, "items": [{"cue": "Aplikasi kasir", "kind": "kasir", "label": "Aplikasi kasir macet"}, {"cue": "Printer struk", "kind": "printer", "label": "Printer struk macet"}, {"cue": "Laporan penjualan", "kind": "laporan", "label": "Laporan tidak muncul"}]}]},
+    {"cue": "Dan Rina membalas", "d": -0.1, "props": [{"type": "chair16", "x": 830, "y": 1000}, {"type": "deskR", "x": 1210, "y": 1000}],
+     "cam": [{"on": "rina", "fit": 0.2, "sx": 700}, {"cue": "Dan Rina membalas", "d": 0.2, "on": "rina", "fit": 0.24, "sx": 760, "dur": 3}]},
+    {"cue": "Balasannya panjang", "d": -0.1, "trans": "whip", "actors": [], "useLoc": false,
+     "fx": [{"type": "laptop", "mode": "longReply", "quote": "Selamat pagi, Bapak. Semoga usahanya lancar selalu.", "cps": 30}]},
+    {"cue": "Ia bangga", "d": -0.1, "props": [{"type": "chair16", "x": 830, "y": 1000}, {"type": "deskR", "x": 1210, "y": 1000}],
+     "cam": [{"x": 1000, "y": 560, "zoom": 1.2}, {"cue": "Ia bangga", "d": 0.2, "on": "rina", "fit": 0.26, "sx": 820, "dur": 3}, {"cue": "Dan ada alasan", "on": [1295, 700], "zoom": 2.3, "dur": 2.4}]},
+    {"cue": "Dimas, adiknya", "d": -0.4, "trans": "zoom", "actors": [], "useLoc": false, "fx": [{"type": "photo", "caption": "Dimas · adik Rina, mahasiswa"}]},
+    {"cue": "Naik jabatan", "d": -0.1, "props": [{"type": "chair16", "x": 830, "y": 1000}, {"type": "deskR", "x": 1210, "y": 1000}],
+     "cam": [{"on": "rina", "fit": 0.27, "sx": 820}, {"cue": "Naik jabatan", "d": 0.2, "on": "rina", "fit": 0.33, "sx": 900, "dur": 4}],
+     "fx": [{"type": "chip", "cue": "tidak perlu cuti", "text": "Demi kuliah Dimas", "x": 1400, "y": 200, "bg": "#C2691F"}]}
+   ]},
+
+  {"n": 4, "name": "Halte depan kantor, malam", "loc": "halte", "music": "night", "trans": "fade", "post": 0.8,
+   "locOpt": {"time": "malam", "busAt": {"cue": "Tapi Rina tidak bisa", "d": 0.6}, "busStop": 3.5},
+   "actors": [
+    {"who": "rina", "x": 760, "y": 975, "face": 1, "item": "bag", "keys": [{"at": 0, "pose": "sit", "expr": "sad", "look": [0.6, 0.2]}, {"cue": "Bayu, sahabatnya", "look": [-0.8, 0]}, {"cue": "Cicilan, Rin", "expr": "neutral"}, {"cue": "Lalu ia melihat", "expr": "sad", "look": "down"},
+     {"cue": "mengangguk pelan", "look": "down"}, {"cue": "mengangguk pelan", "d": 0.35, "look": null}, {"cue": "mengangguk pelan", "d": 0.7, "look": "down"}, {"cue": "mengangguk pelan", "d": 1.05, "look": null},
+     {"cue": "Bay, aku datang", "expr": "sad"}, {"cue": "Apa yang kurang", "expr": "sad", "emote": "sweat"}, {"cue": "Tapi Rina tidak bisa", "expr": "neutral", "look": [0.8, 0]}]},
+    {"who": "bayu", "x": -320, "face": 1, "keys": [{"cue": "Bayu, sahabatnya", "d": -0.2, "x": 1260, "dur": 2.6}, {"cue": "duduk di sebelahnya", "pose": "sit", "face": -1, "y": 975, "expr": "happy"}, {"cue": "ponsel baru", "item": "phone", "expr": "proud"},
+     {"cue": "Lalu ia melihat", "item": null, "expr": "neutral"}, {"cue": "Masih kepikiran", "expr": "sad"}, {"cue": "mengangkat bahu", "pose": "shrug", "expr": "happy", "y": 1000}, {"cue": "Yang penting gajian", "pose": "hips", "expr": "laugh"}, {"cue": "Tapi Rina tidak bisa", "pose": "idle", "expr": "neutral"}]}
+   ],
+   "lines": [
+    {"who": "bayu", "from": "Cicilan, Rin", "to": "Murah!", "text": "Cicilan, Rin. Cuma tiga ratus ribu sebulan!", "pos": [1460, 250], "label": "Bayu"},
+    {"who": "bayu", "from": "Masih kepikiran", "to": "soal Sinta?", "text": "Masih kepikiran soal Sinta?"},
+    {"who": "rina", "from": "Bay, aku datang", "to": "kurang dariku?", "text": "Apa yang kurang dariku?", "min": 3},
+    {"who": "bayu", "from": "Cuek aja", "to": "gajian.", "text": "Cuek aja, Rin.", "side": 0.3}
+   ],
+   "sfx": [{"cue": "Bayu, sahabatnya", "type": "boing", "vol": 0.2}],
+   "shots": [
+    {"at": 0, "cam": [{"x": 960, "y": 520, "zoom": 1.0}, {"at": 0.8, "x": 900, "y": 540, "zoom": 1.12, "dur": 7}]},
+    {"cue": "Cicilan, Rin", "d": -0.15, "trans": "whip", "actors": [], "useLoc": false, "fx": [{"type": "phone", "mode": "cicilan", "night": true}]},
+    {"cue": "Lalu ia melihat", "d": -0.1, "cam": [{"x": 1010, "y": 580, "zoom": 1.3}, {"cue": "Masih kepikiran", "x": 1060, "y": 590, "zoom": 1.4, "dur": 2.5}]},
+    {"cue": "mengangguk pelan", "d": -0.4, "cam": [{"on": "rina", "fit": 0.22, "sx": 880}, {"cue": "Bay, aku datang", "on": "rina", "fit": 0.27, "sx": 900, "dur": 4}],
+     "fx": [{"type": "taps", "x": 860, "y": 885, "word": "tok", "times": [{"cue": "mengangguk pelan", "d": 1.3}, {"cue": "mengangguk pelan", "d": 1.65}]}]},
+    {"cue": "Bayu mengangkat bahu", "d": -0.1, "cam": [{"x": 1080, "y": 540, "zoom": 1.25}, {"cue": "Yang penting", "x": 1100, "y": 540, "zoom": 1.32, "dur": 1.5}]},
+    {"cue": "Tapi Rina tidak bisa", "d": -0.1, "cam": [{"x": 900, "y": 560, "zoom": 1.15}, {"at": 0, "on": "rina", "fit": 0.23, "sx": 760}], "trans": "cut"},
+    {"cue": "Di dalam bus", "d": -0.2, "trans": "fade", "actors": [], "useLoc": false, "fx": [{"type": "busWindow", "decideAt": {"cue": "ia akan bekerja", "d": -0.8}}]}
+   ]},
+
+  {"n": 5, "name": "Montase satu minggu", "loc": "kerja", "music": "light", "trans": "whip", "post": 0.6,
+   "actors": [
+    {"who": "rina", "x": 850, "face": 1, "keys": [{"at": 0, "pose": "sit", "expr": "happy"}]}
+   ],
+   "lines": [{"who": "rina", "from": "Nanti saja", "to": "banyak balasan.", "text": "Nanti saja, Bay. Masih banyak balasan."}],
+   "shots": [
+    {"at": 0, "actors": [], "useLoc": false, "fx": [{"type": "clockClose", "h0": 7, "rate": 3.2, "label": ["SENIN", "SELASA", "RABU"], "labelEvery": 0.7, "x": 760}]},
+    {"cue": "datang jam tujuh", "d": -0.3, "trans": "flash", "locOpt": {"time": "pagi", "empty": true, "clock": "07:00"},
+     "actors": [{"who": "rina", "x": -200, "face": 1, "item": "bag", "keys": [{"at": 0, "x": 850, "run": true, "dur": 1.3}, {"cue": "datang jam tujuh", "d": 1.1, "pose": "sit", "item": null, "expr": "happy"}]}],
+     "props": [{"type": "chair16", "x": 830, "y": 1000}, {"type": "deskR", "x": 1210, "y": 1000, "cups": 1}],
+     "cam": [{"x": 900, "y": 540, "zoom": 1.1}], "fx": [{"type": "chip", "text": "07.00", "x": 1600, "y": 160, "bg": "#2F6F73"}]},
+    {"cue": "pulang jam sembilan", "d": -0.2, "trans": "flash", "locOpt": {"time": "malam", "empty": true, "clock": "21:00", "lights": 0.55},
+     "actors": [{"who": "rina", "x": 850, "face": -1, "eyebags": 0.4, "keys": [{"at": 0, "pose": "sit", "expr": "sad"}, {"cue": "pulang jam sembilan", "d": 0.4, "pose": "idle", "item": "bag"}, {"cue": "pulang jam sembilan", "d": 0.7, "x": -300, "dur": 2.4}]}],
+     "props": [{"type": "chair16", "x": 830, "y": 1000}, {"type": "deskR", "x": 1210, "y": 1000, "cups": 3, "laptop": 0}],
+     "cam": [{"x": 900, "y": 540, "zoom": 1.1}], "fx": [{"type": "chip", "text": "21.00", "x": 1600, "y": 160, "bg": "#13223D"}]},
+    {"cue": "Balasannya makin panjang", "d": -0.1, "trans": "zoom", "actors": [], "useLoc": false, "fx": [{"type": "laptop", "mode": "guide", "guideAt": {"cue": "gambar panduan"}, "cps": 40, "clock": "14:20"}]},
+    {"cue": "Bayu mengajaknya", "d": -0.15, "trans": "whip", "locOpt": {"time": "siang", "clock": "12:00"},
+     "actors": [{"who": "rina", "x": 850, "face": 1, "eyebags": 0.6, "keys": [{"at": 0, "pose": "sit", "expr": "neutral"}, {"cue": "Rina menggeleng", "look": [-0.9, 0]}, {"cue": "Rina menggeleng", "d": 0.25, "look": [0.9, 0]}, {"cue": "Rina menggeleng", "d": 0.5, "look": [-0.9, 0]}, {"cue": "Rina menggeleng", "d": 0.75, "look": null, "expr": "happy"}]},
+                {"who": "bayu", "x": 2200, "face": -1, "keys": [{"at": 0, "x": 1640, "dur": 1.2}, {"cue": "Bayu mengajaknya", "d": 1.0, "pose": "wave", "expr": "happy"}, {"cue": "Nanti saja", "pose": "shrug", "expr": "sad"}, {"cue": "banyak balasan", "d": 0.6, "x": 2400, "dur": 1.5, "pose": "idle"}]}],
+     "props": [{"type": "chair16", "x": 830, "y": 1000}, {"type": "deskR", "x": 1210, "y": 1000, "cups": 5}],
+     "cam": [{"x": 1180, "y": 560, "zoom": 1.08}, {"cue": "Nanti saja", "x": 1050, "y": 560, "zoom": 1.2, "dur": 1.5}],
+     "fx": [{"type": "chip", "text": "RABU · makan siang?", "x": 1500, "y": 140, "bg": "#C2691F"}]},
+    {"cue": "Sampai sore", "d": -0.1, "trans": "cut", "locOpt": {"time": "sore", "clock": "16:30"},
+     "actors": [{"who": "rina", "x": 850, "face": 1, "eyebags": 0.8, "keys": [{"at": 0, "pose": "sit", "expr": "neutral"}]}],
+     "props": [{"type": "chair16", "x": 830, "y": 1000}, {"type": "deskR", "x": 1210, "y": 1000, "cups": 7, "nasi": true}],
+     "cam": [{"on": [1270, 730], "zoom": 2.2}, {"at": 0, "on": [1270, 730], "zoom": 2.0}, {"cue": "Ia lelah", "d": -0.6, "on": [1100, 700], "zoom": 1.7, "dur": 0.6}],
+     "fx": [{"type": "fly", "x": 1270, "y": 760}]},
+    {"cue": "Ia lelah", "d": -0.1, "locOpt": {"time": "sore", "clock": "16:45"},
+     "actors": [{"who": "rina", "x": 850, "face": 1, "eyebags": 1, "keys": [{"at": 0, "pose": "sit", "expr": "sad"}, {"cue": "tapi ia puas", "expr": "happy"}, {"cue": "Pasti kali ini", "look": "cam", "expr": "proud", "emote": "sparkle"}]}],
+     "props": [{"type": "chair16", "x": 830, "y": 1000}, {"type": "deskR", "x": 1210, "y": 1000, "cups": 8, "nasi": true}],
+     "cam": [{"on": "rina", "fit": 0.25, "sx": 840}, {"cue": "Pasti kali ini", "on": "rina", "fit": 0.32, "sx": 900, "dur": 2}]}
+   ]},
+
+  {"n": 6, "name": "Telepon dari Bu Sari", "loc": "kerja", "music": "tense", "trans": "iris",
+   "locOpt": {"time": "siang", "clock": "12:58"},
+   "shots": [
+    {"at": 0, "actors": [{"who": "rina", "x": 850, "face": 1, "eyebags": 0.7, "keys": [{"at": 0, "pose": "sit", "expr": "neutral"}, {"cue": "berdering", "expr": "shock", "emote": "!"}]}],
+     "props": [{"type": "chair16", "x": 830, "y": 1000}, {"type": "deskR", "x": 1210, "y": 1000, "cups": 4, "phoneRing": {"cue": "berdering", "d": -0.2}, "ringDur": 3}],
+     "cam": [{"x": 1000, "y": 560, "zoom": 1.15}, {"cue": "berdering", "on": "rina", "fit": 0.22, "sx": 820, "dur": 0.5, "ease": "back", "shake": 10}],
+     "fx": [{"type": "chip", "text": "KAMIS · 13.00", "x": 1520, "y": 150, "bg": "#13223D"}]},
+    {"cue": "Bu Sari, pemilik", "d": -0.2, "trans": "whip",
+     "split": [
+      {"loc": "kerja", "locOpt": {"time": "siang", "clock": "13:00"},
+       "actors": [{"who": "rina", "x": 900, "face": 1, "eyebags": 0.7, "keys": [{"at": 0, "pose": "phone", "expr": "scared"}, {"cue": "Rina melirik", "look": [0.9, 0.4]}]}],
+       "props": [{"type": "deskR", "x": 1320, "y": 1000, "cups": 4}], "cam": [{"x": 1000, "y": 560, "zoom": 1.15}]},
+      {"loc": "toko", "locOpt": {"counterX": 640},
+       "actors": [
+        {"who": "sari", "x": 640, "y": 950, "layer": "back", "face": 1, "keys": [{"at": 0, "pose": "phone", "expr": "angry"}, {"cue": "Pembeli saya antre", "pose": "point", "expr": "angry"}]},
+        {"who": "p1", "id": "q1", "x": 1080, "face": -1, "size": 520, "keys": [{"at": 0, "pose": "hips", "expr": "confused"}]},
+        {"who": "p3", "id": "q2", "x": 1900, "face": -1, "size": 520, "keys": [{"cue": "suaranya tinggi", "x": 1250, "dur": 1.4}, {"cue": "Mbak, saya kirim", "pose": "phone", "expr": "sad"}]},
+        {"who": "p2", "id": "q3", "x": 2000, "face": -1, "size": 520, "keys": [{"cue": "cuma mau tanya", "x": 1420, "dur": 1.4}, {"cue": "Pembeli saya", "expr": "angry", "emote": "anger"}]},
+        {"who": "p4", "id": "q4", "x": 2100, "face": -1, "size": 520, "keys": [{"cue": "Pembeli saya", "d": 0.4, "x": 1590, "dur": 1.4}, {"cue": "Rina melirik", "expr": "sad", "emote": "sweat"}]}
+       ],
+       "cam": [{"x": 1080, "y": 560, "zoom": 0.82}]}
+     ]},
+    {"cue": "Rina melirik layarnya", "d": 0.2, "trans": "zoom", "actors": [], "useLoc": false, "fx": [{"type": "laptop", "mode": "draft", "clock": "13:00"}]},
+    {"cue": "Jam di dinding", "d": -0.1, "trans": "cut", "actors": [], "useLoc": false, "fx": [{"type": "clockClose", "time": "13:00", "sub": "Bu Sari menunggu sejak 09.02", "x": 760}]},
+    {"cue": "Empat jam", "d": -0.2, "trans": "whip",
+     "split": [
+      {"loc": "kerja", "locOpt": {"time": "siang", "clock": "13:01"},
+       "actors": [{"who": "rina", "x": 900, "face": 1, "eyebags": 0.7, "keys": [{"at": 0, "pose": "phone", "expr": "scared"}, {"cue": "cukup satu kalimat", "pose": "facepalm", "expr": "sad"}]}],
+       "props": [{"type": "deskR", "x": 1320, "y": 1000, "cups": 4}], "cam": [{"x": 950, "y": 560, "zoom": 1.25}]},
+      {"loc": "toko", "locOpt": {"counterX": 640},
+       "actors": [
+        {"who": "sari", "x": 640, "y": 950, "layer": "back", "face": 1, "keys": [{"at": 0, "pose": "phone", "expr": "angry"}, {"cue": "cukup satu", "pose": "facepalm", "expr": "sad"}]},
+        {"who": "p1", "id": "q1", "x": 1040, "face": -1, "size": 520, "keys": [{"at": 0, "pose": "hips", "expr": "angry"}]},
+        {"who": "p3", "id": "q2", "x": 1200, "face": -1, "size": 520, "keys": [{"at": 0, "pose": "phone", "expr": "sad"}]},
+        {"who": "p2", "id": "q3", "x": 1360, "face": -1, "size": 520, "keys": [{"at": 0, "pose": "hips", "expr": "angry", "emote": "anger"}]},
+        {"who": "p4", "id": "q4", "x": 1520, "face": -1, "size": 520, "keys": [{"at": 0, "expr": "scared", "emote": "sweat"}]},
+        {"who": "p5", "id": "q5", "x": 2100, "face": -1, "size": 520, "keys": [{"cue": "Empat jam", "d": 0.3, "x": 1680, "dur": 1.3}, {"cue": "jawaban", "expr": "confused"}]},
+        {"who": "p6", "id": "q6", "x": 2300, "face": -1, "size": 520, "keys": [{"cue": "Empat jam", "d": 1.2, "x": 1840, "dur": 1.3}, {"cue": "tekan tombol", "expr": "angry"}]}
+       ],
+       "cam": [{"x": 1200, "y": 560, "zoom": 0.78}]}
+     ],
+     "fx": [{"type": "chip", "cue": "Empat jam", "text": "MENUNGGU 4 JAM", "x": 1440, "y": 130, "bg": "#D9483B"},
+            {"type": "card", "cue": "cukup satu kalimat", "style": "small", "text": "Jawabannya cukup 1 kalimat.", "sub": "Tekan Riwayat → pilih Cetak Ulang", "x": 480, "y": 220, "size": 50, "tag": "SEBENARNYA"}]}
+   ],
+   "lines": [{"who": "sari", "from": "Mbak, saya kirim", "to": "antre, Mbak!", "text": "Pembeli saya antre, Mbak!", "kind": "shout", "label": "Bu Sari"}],
+   "sfx": [{"cue": "berdering", "d": -0.2, "type": "ring", "dur": 3, "vol": 0.9}]},
+
+  {"n": 7, "name": "Ruang kerja, sore", "loc": "kerja", "music": "tense", "trans": "fade",
+   "locOpt": {"time": "sore", "clock": "16:40"},
+   "actors": [{"who": "rina", "x": 850, "face": 1, "eyebags": 0.8, "keys": [{"at": 0, "pose": "sit", "expr": "sad"}, {"cue": "tidak mengerti", "expr": "confused"}, {"cue": "Kenapa pekerjaannya", "emote": "?"}, {"cue": "Lalu di mana", "expr": "confused", "emote": "?!"}, {"cue": "Bagaimana mungkin", "expr": "scared", "look": "cam"}]}],
+   "shots": [
+    {"at": 0, "props": [{"type": "chair16", "x": 830, "y": 1000}, {"type": "deskR", "x": 1210, "y": 1000, "cups": 5}],
+     "fx": [{"type": "tvBoard", "at": 0, "mode": "queue", "depth": 0.72, "x": 980, "y": 110, "w": 600, "h": 360}],
+     "cam": [{"x": 1100, "y": 460, "zoom": 1.1}, {"at": 0.4, "x": 1377, "y": 220, "zoom": 1.75, "dur": 3}, {"cue": "paling panjang", "x": 1380, "y": 215, "zoom": 1.9, "dur": 1.5, "shake": 8}]},
+    {"cue": "Rina tidak mengerti", "d": -0.1, "props": [{"type": "chair16", "x": 830, "y": 1000}, {"type": "deskR", "x": 1210, "y": 1000, "cups": 5}],
+     "fx": [{"type": "tvBoard", "at": 0, "mode": "queue", "depth": 0.72, "x": 980, "y": 110, "w": 600, "h": 360}],
+     "cam": [{"x": 1000, "y": 540, "zoom": 1.1}, {"at": 0, "on": "rina", "fit": 0.22, "sx": 760, "dur": 3}]},
+    {"cue": "Ia membuka lagi", "d": -0.1, "trans": "zoom", "actors": [], "useLoc": false, "fx": [{"type": "laptop", "mode": "review", "per": 1.1, "clock": "16:48"}]},
+    {"cue": "Lalu di mana", "d": -0.1, "props": [{"type": "chair16", "x": 830, "y": 1000}, {"type": "deskR", "x": 1210, "y": 1000, "cups": 5}],
+     "cam": [{"on": "rina", "fit": 0.26, "sx": 900}, {"cue": "Lalu di mana", "d": 0.3, "on": "rina", "fit": 0.3, "dur": 1.5}]},
+    {"cue": "Di seberang ruangan", "d": -0.2, "trans": "whip", "locOpt": {"time": "sore", "clock": "16:59"},
+     "actors": [{"who": "sinta", "x": 640, "face": -1, "keys": [{"at": 0, "pose": "sit", "expr": "happy"}, {"cue": "tepat jam lima", "pose": "idle", "item": "bag", "jump": 30}, {"cue": "dengan antrean kosong", "pose": "wave", "face": 1, "look": "cam", "expr": "happy"}, {"cue": "Bagaimana", "d": -0.4, "x": -400, "dur": 2.2, "pose": "idle"}]}],
+     "props": [{"type": "chair16", "x": 660, "y": 1000, "face": -1}, {"type": "deskR", "x": 270, "y": 1000, "flip": true, "photo": false, "mugX": 0, "keys": [{"at": 0, "laptop": 1}, {"cue": "menutup laptopnya", "d": 0.2, "laptop": 0, "dur": 0.5}]}],
+     "cam": [{"x": 560, "y": 540, "zoom": 1.15}, {"cue": "Sinta menutup", "x": 500, "y": 560, "zoom": 1.3, "dur": 2}],
+     "fx": [{"type": "counter", "cue": "antrean kosong", "d": -0.6, "label": "ANTREAN SINTA", "from": 6, "to": 0, "dur": 0.8, "x": 1450, "y": 200}, {"type": "chip", "cue": "tepat jam lima", "text": "17.00", "x": 1450, "y": 420, "bg": "#2F6F73"}]},
+    {"cue": "Bagaimana mungkin", "d": -0.15, "props": [{"type": "chair16", "x": 830, "y": 1000}, {"type": "deskR", "x": 1210, "y": 1000, "cups": 5}],
+     "cam": [{"on": "rina", "fit": 0.27, "sx": 900}, {"at": 0, "on": "rina", "fit": 0.34, "dur": 1.2, "shake": 6}]}
+   ]},
+
+  {"n": 8, "name": "Pesan dari Yoga", "loc": "kerja", "music": "tense", "musicCut": 2.2, "trans": "fade", "post": 0.4, "hold": 1.6,
+   "locOpt": {"time": "sore", "clock": "17:10"},
+   "shots": [
+    {"at": 0, "actors": [{"who": "rina", "x": 850, "face": 1, "eyebags": 0.8, "keys": [{"at": 0, "pose": "sit", "expr": "sad"}, {"cue": "pesan masuk", "expr": "shock", "emote": "!"}]}],
+     "props": [{"type": "chair16", "x": 830, "y": 1000}, {"type": "deskR", "x": 1210, "y": 1000, "cups": 5}],
+     "cam": [{"x": 1000, "y": 560, "zoom": 1.15}, {"cue": "pesan masuk", "on": "rina", "fit": 0.24, "sx": 800, "dur": 0.6, "ease": "back"}]},
+    {"cue": "analis data", "d": -0.3, "trans": "whip", "loc": "yoga", "locOpt": {"time": "sore"},
+     "actors": [{"who": "yoga", "x": 560, "face": 1, "keys": [{"at": 0, "pose": "sit", "look": [0.9, 0.2]}, {"cue": "pendiam", "look": "cam", "expr": "neutral"}, {"cue": "di pojok ruangan", "look": [0.9, 0.2]}]}],
+     "props": [{"type": "chair16", "x": 540, "y": 1000, "col": "#2F6F73"}],
+     "cam": [{"x": 900, "y": 520, "zoom": 1.0}, {"at": 0.2, "on": "yoga", "fit": 0.2, "sx": 760, "dur": 3}],
+     "fx": [{"type": "neckphones", "who": "yoga"}, {"type": "nameTag", "cue": "analis data", "name": "Yoga", "role": "Analis Data · pendiam", "x": 1180, "y": 780}]},
+    {"cue": "Isinya cuma", "d": -0.1, "trans": "zoom", "actors": [], "useLoc": false, "fx": [{"type": "laptop", "mode": "chat", "msgAt": {"cue": "Rin, kamu harus"}, "imgAt": {"cue": "Di bawahnya"}, "clock": "17:12"}]},
+    {"cue": "Dan nama Rina", "d": -0.3, "trans": "cut", "actors": [], "useLoc": false, "fx": [{"type": "graph", "mode": "rank", "revealAt": {"cue": "paling bawah", "d": -0.5}, "panDur": 5, "push": 0.05}]},
+    {"atE": 1.7, "trans": "cut", "actors": [], "useLoc": false, "loc": "hitam", "noHeader": true}
+   ],
+   "lines": [{"who": "yoga", "from": "Rin, kamu harus", "to": "lihat ini.", "text": "Rin, kamu harus lihat ini.", "talk": false, "bubble": "none"}]},
+
+  {"n": 9, "name": "Meja Yoga (kejutan tengah)", "loc": "yoga", "music": "sad", "trans": "fade", "pre": 0.8,
+   "locOpt": {"time": "sore"},
+   "actors": [
+    {"who": "yoga", "x": 640, "face": 1, "keys": [{"at": 0, "pose": "idle", "look": "cam"}, {"cue": "Yoga menunjuk", "pose": "point", "look": null}, {"cue": "Rina terdiam", "pose": "idle", "face": -1, "expr": "sad"}, {"cue": "Yoga menambahkan", "pose": "talk", "expr": "neutral", "face": -1}, {"cue": "Dipakai untuk penilaian?", "pose": "shrug"}]},
+    {"who": "rina", "x": -300, "face": 1, "eyebags": 0.8, "keys": [{"at": 0.2, "x": 280, "dur": 2.2}, {"cue": "Yoga menunjuk", "expr": "confused", "look": [0.9, -0.3]}, {"cue": "Rina terdiam", "expr": "shock"}, {"cue": "Selama ini", "expr": "sad"}, {"cue": "Dan itu memang benar", "expr": "proud"}, {"cue": "Tapi ia rajin", "expr": "sad"},
+     {"cue": "Yoga menambahkan", "d": -0.3, "x": 170, "dur": 0.6, "face": 1}, {"cue": "Dipakai untuk penilaian?", "expr": "shock", "emote": "?!"}, {"cue": "Rina bahkan tidak tahu", "expr": "confused"}]}
+   ],
+   "props": [{"type": "chair16", "x": 540, "y": 1000, "col": "#2F6F73"}],
+   "lines": [
+    {"who": "yoga", "from": "Rata-rata kamu", "to": "satu jam.", "text": "Rata-rata kamu balas 6 jam. Yang lain 1 jam.", "pos": [1500, 230], "label": "Yoga"},
+    {"who": "yoga", "from": "Tapi jam kerjamu", "to": "di tim.", "text": "Tapi jam kerjamu paling panjang di tim.", "pos": [960, 230], "label": "Yoga"},
+    {"who": "yoga", "from": "Angka ini juga", "to": "lho.", "text": "Angka ini juga dipakai untuk penilaian, lho."}
+   ],
+   "shots": [
+    {"at": 0, "props": [{"type": "chair16", "x": 540, "y": 1000, "col": "#2F6F73"}], "cam": [{"x": 800, "y": 520, "zoom": 1.0}, {"at": 1.0, "x": 760, "y": 540, "zoom": 1.15, "dur": 3}],
+     "fx": [{"type": "neckphones", "who": "yoga"}]},
+    {"cue": "Rata-rata kamu", "d": 0.6, "trans": "zoom", "actors": [], "useLoc": false,
+     "fx": [{"type": "graph", "mode": "dual", "slideAt": {"cue": "Ia menggeser"}, "arrowAt": {"cue": "paling panjang", "d": 0.3}, "downAt": {"cue": "paling panjang", "d": 1.2}}]},
+    {"cue": "Rina terdiam", "d": -0.1, "trans": "cut", "props": [{"type": "chair16", "x": 540, "y": 1000, "col": "#2F6F73"}],
+     "cam": [{"on": "rina", "fit": 0.25, "sx": 760, "shake": 8}, {"cue": "Selama ini", "on": "rina", "fit": 0.3, "sx": 900, "dur": 5}],
+     "fx": [{"type": "neckphones", "who": "yoga"}, {"type": "card", "cue": "Tapi ia rajin", "d": 0.2, "out": {"cue": "Bagi Bu Sari", "d": -0.3}, "text": "Rajin, tapi ke arah yang salah.", "y": 560}]},
+    {"cue": "Bagi Bu Sari", "d": -0.15, "trans": "flash", "loc": "toko", "locOpt": {"counterX": 640},
+     "actors": [{"who": "sari", "x": 640, "y": 950, "layer": "back", "face": 1, "keys": [{"at": 0, "pose": "phone", "expr": "angry"}]},
+                {"who": "p1", "x": 1100, "face": -1, "keys": [{"at": 0, "pose": "hips", "expr": "angry"}]}, {"who": "p3", "x": 1300, "face": -1, "keys": [{"at": 0, "pose": "phone", "expr": "sad"}]},
+                {"who": "p2", "x": 1500, "face": -1, "keys": [{"at": 0, "expr": "angry", "emote": "anger"}]}, {"who": "p4", "x": 1700, "face": -1, "keys": [{"at": 0, "expr": "scared"}]}],
+     "cam": [{"x": 1100, "y": 560, "zoom": 0.95}, {"at": 0, "x": 1000, "y": 540, "zoom": 1.1, "dur": 3}], "fx": [{"type": "flashback"}]},
+    {"cue": "Yoga menambahkan", "d": -0.5, "trans": "flash", "props": [{"type": "chair16", "x": 540, "y": 1000, "col": "#2F6F73"}],
+     "cam": [{"x": 520, "y": 540, "zoom": 1.3}, {"cue": "Angka ini", "on": "yoga", "fit": 0.22, "sx": 1100, "dur": 2.5}], "fx": [{"type": "neckphones", "who": "yoga"}]},
+    {"cue": "Dipakai untuk penilaian?", "d": -0.1, "trans": "cut", "props": [{"type": "chair16", "x": 540, "y": 1000, "col": "#2F6F73"}],
+     "cam": [{"on": "rina", "fit": 0.28, "sx": 960, "shake": 14}, {"at": 0, "on": "rina", "fit": 0.31, "sx": 900, "sy": 500, "dur": 0.4, "ease": "back"}, {"cue": "Rina bahkan", "on": "rina", "fit": 0.27, "sx": 820, "dur": 3}],
+     "fx": [{"type": "neckphones", "who": "yoga"}, {"type": "chip", "cue": "dinilai dengan apa", "d": -0.5, "text": "Dinilai dengan apa?", "x": 1450, "y": 220, "bg": "#C2691F", "size": 50}]}
+   ]},
+
+  {"n": 10, "name": "Ruang kaca Bu Ratna", "loc": "kaca", "music": "hope", "trans": "iris",
+   "shots": [
+    {"at": 0, "locOpt": {"view": "luar", "time": "sore", "deskX": 1350},
+     "actors": [
+      {"who": "ratna", "x": 1300, "y": 950, "layer": "back", "face": -1, "size": 580, "item": "marker", "keys": [{"at": 0, "pose": "sit", "look": "down"}, {"cue": "pintu kaca", "d": 0.5, "look": "cam", "expr": "neutral"}]},
+      {"who": "rina", "x": -250, "face": 1, "eyebags": 0.6, "keys": [{"at": 0.1, "x": 330, "dur": 1.8}, {"at": 2.0, "pose": "pointUp", "expr": "scared"}, {"at": 2.7, "pose": "idle", "expr": "sad"}, {"cue": "Rina mengetuk", "pose": "point", "expr": "neutral"}, {"cue": "atasannya", "pose": "idle"}]}
+     ],
+     "cam": [{"x": 800, "y": 540, "zoom": 1.05}, {"at": 1.5, "x": 640, "y": 560, "zoom": 1.25, "dur": 3}],
+     "fx": [{"type": "taps", "x": 560, "y": 560, "word": "tok", "sound": "knock", "times": [{"cue": "Rina mengetuk", "d": 0.3}, {"cue": "Rina mengetuk", "d": 0.6}]}, {"type": "nameTag", "cue": "atasannya", "d": -0.6, "name": "Bu Ratna", "role": "Supervisor Layanan Pelanggan", "x": 1100, "y": 780}]},
+    {"cue": "Tangannya dingin", "d": -0.1, "trans": "cut", "locOpt": {"view": "dalam", "time": "sore", "deskX": 1240},
+     "actors": [
+      {"who": "ratna", "x": 1330, "y": 950, "layer": "back", "face": -1, "size": 580, "item": "marker", "keys": [{"at": 0, "pose": "sit", "expr": "neutral"}, {"cue": "meletakkan spidolnya", "item": null}, {"cue": "tersenyum tipis", "expr": "happy"}, {"cue": "Dua hal", "pose": "pointUp", "face": 1, "look": [-0.9, 0]}, {"cue": "Dan klien memberi", "pose": "point"}, {"cue": "Itu yang kami ukur", "pose": "idle", "face": -1, "look": null}, {"cue": "Klien yang tokonya", "pose": "talk", "expr": "happy"}]},
+      {"who": "rina", "x": 700, "face": 1, "eyebags": 0.6, "keys": [{"at": 0, "expr": "scared"}, {"cue": "mengetuk meja", "pose": "point"}, {"cue": "kebiasaannya", "pose": "idle"}, {"cue": "Bu, hasil seperti", "pose": "talk", "expr": "neutral"}, {"cue": "Dua hal", "expr": "happy", "look": [0.9, -0.4]}, {"cue": "Bukan panjangnya", "pose": "talk", "expr": "confused"}, {"cue": "jalan keluar", "expr": "happy", "emote": "idea"}]}
+     ],
+     "fx": [{"type": "taps", "x": 860, "y": 712, "word": "tok", "times": [{"cue": "mengetuk meja", "d": 0.2}, {"cue": "mengetuk meja", "d": 0.55}]},
+            {"type": "boardCards", "depth": 0.4, "items": [{"cue": "Keluhan klien selesai", "text": "Selesai hari ini"}, {"cue": "nilai puas", "text": "Klien puas ★"}]}],
+     "cam": [{"x": 1000, "y": 540, "zoom": 1.12}, {"cue": "mengetuk meja", "on": [860, 700], "zoom": 1.7, "dur": 0.6}, {"cue": "Lalu ia bertanya", "x": 900, "y": 540, "zoom": 1.2, "dur": 1.2},
+             {"cue": "Bu, hasil seperti", "on": "rina", "fit": 0.22, "sx": 760, "dur": 1.5}, {"cue": "meletakkan spidolnya", "on": "ratna", "fit": 0.22, "sx": 1100, "dur": 1.2}, {"cue": "Dua hal", "x": 1140, "y": 400, "zoom": 1.15, "dur": 1.2},
+             {"cue": "Bukan panjangnya", "x": 980, "y": 540, "zoom": 1.15, "dur": 1}, {"cue": "Klien yang tokonya", "on": "ratna", "fit": 0.22, "sx": 1150, "dur": 1.5}, {"cue": "jalan keluar", "on": "rina", "fit": 0.25, "sx": 760, "dur": 0.8, "ease": "back"}]}
+   ],
+   "lines": [
+    {"who": "rina", "from": "Bu, hasil seperti", "to": "dari saya?", "text": "Bu, hasil seperti apa yang Ibu harapkan dari saya?"},
+    {"who": "ratna", "from": "Dua hal, Rin", "to": "kami ukur.", "text": "Dua hal, Rin. Itu yang kami ukur.", "side": -0.3},
+    {"who": "rina", "from": "Bukan panjangnya", "to": "balasan, Bu?", "text": "Bukan panjangnya balasan, Bu?", "side": -1, "maxW": 420},
+    {"who": "ratna", "from": "Klien yang tokonya", "to": "jalan keluar.", "text": "Mereka butuh jalan keluar."}
+   ]},
+
+  {"n": 11, "name": "Lorong, berpapasan dengan Sinta", "loc": "lorong", "music": "hope", "trans": "whip",
+   "shots": [
+    {"at": 0, "actors": [
+      {"who": "rina", "x": -250, "face": 1, "keys": [{"at": 0.1, "x": 640, "dur": 2.8}, {"cue": "berpapasan", "d": 0.6, "expr": "happy", "emote": "sweat", "look": [-0.4, 0]}]},
+      {"who": "sinta", "x": 2200, "face": -1, "item": "notebook", "keys": [{"at": 0.1, "x": 1180, "dur": 2.8}, {"cue": "berpapasan", "d": 0.4, "pose": "wave", "expr": "happy", "look": "cam"}, {"cue": "Di buku catatan", "d": -0.5, "pose": "idle"}]}],
+     "cam": [{"x": 960, "y": 520, "zoom": 1.0}, {"at": 1.5, "x": 930, "y": 560, "zoom": 1.25, "dur": 3}]},
+    {"cue": "Di buku catatan", "d": -0.1, "trans": "zoom", "actors": [], "useLoc": false, "fx": [{"type": "notebook", "writeAt": {"cue": "Targetnya apa", "d": -0.4}}]},
+    {"cue": "Rina tersenyum kecut", "d": -0.1, "actors": [
+      {"who": "rina", "x": 640, "face": -1, "keys": [{"at": 0, "expr": "happy", "emote": "sweat"}, {"cue": "Ternyata itulah", "expr": "neutral", "look": [-0.9, 0]}, {"cue": "Ia hanya tahu", "expr": "happy", "emote": "idea", "face": 1, "look": "cam"}]},
+      {"who": "sinta", "x": 300, "face": -1, "item": "notebook", "keys": [{"at": 0.3, "x": -500, "dur": 3.5}]}],
+     "cam": [{"x": 700, "y": 540, "zoom": 1.15}, {"cue": "Sinta tidak bekerja", "on": "rina", "fit": 0.24, "sx": 900, "dur": 2.5}]}
+   ],
+   "lines": [{"who": "sinta", "from": "Targetnya apa", "to": "Targetnya apa", "text": "Targetnya apa?", "talk": false, "bubble": "none"}]},
+
+  {"n": 12, "name": "Cara kerja baru", "loc": "kerja", "music": "warm", "trans": "iris",
+   "locOpt": {"time": "pagi", "clock": "08:00"},
+   "fx": [],
+   "shots": [
+    {"at": 0, "actors": [{"who": "rina", "x": 850, "face": 1, "keys": [{"at": 0, "pose": "sit", "expr": "proud"}, {"cue": "Pertama", "expr": "happy", "emote": "check"}, {"cue": "Kedua", "emote": "check"}, {"cue": "Ketiga", "emote": "check", "expr": "proud"}]}],
+     "props": [{"type": "chair16", "x": 830, "y": 1000}, {"type": "deskR", "x": 1210, "y": 1000, "keys": [{"at": 0, "sticky": 0}, {"cue": "Pertama", "sticky": 1}, {"cue": "Kedua", "sticky": 2}, {"cue": "Ketiga", "sticky": 3}]}],
+     "cam": [{"x": 1000, "y": 540, "zoom": 1.2}, {"at": 0.5, "x": 1280, "y": 540, "zoom": 1.02, "dur": 2.5}],
+     "fx": [{"type": "chip", "at": 0.3, "out": 3.5, "text": "CARA BARU", "x": 520, "y": 150, "bg": "#C2691F"},
+            {"type": "steps", "x": 1330, "y": 250, "w": 1060, "items": [{"cue": "Pertama", "text": "Buka tiket yang paling lama menunggu"}, {"cue": "Kedua", "text": "Kalimat pertama = jawaban"}, {"cue": "Ketiga", "text": "Tidak ada klien menunggu sampai besok"}]}]},
+    {"cue": "Hari pertama", "d": -0.1, "trans": "zoom", "actors": [], "useLoc": false,
+     "fx": [{"type": "laptop", "mode": "shrink", "day": "HARI 1", "shrinkAt": 0.5, "itchAt": {"cue": "Jarinya gatal"}, "sendAt": {"cue": "menekan kirim", "d": 0.3}, "clock": "08:20"}]},
+    {"cue": "Hari ketiga", "d": -0.1, "trans": "whip", "locOpt": {"time": "siang", "clock": "11:30"},
+     "actors": [{"who": "rina", "x": 850, "face": 1, "keys": [{"at": 0, "pose": "sit", "expr": "happy"}, {"cue": "mulai menipis", "expr": "laugh"}]}],
+     "props": [{"type": "chair16", "x": 830, "y": 1000}, {"type": "deskR", "x": 1210, "y": 1000, "sticky": 3}],
+     "cam": [{"x": 1100, "y": 540, "zoom": 1.1}, {"at": 0, "on": "rina", "fit": 0.22, "sx": 700, "dur": 2.5}],
+     "fx": [{"type": "chip", "text": "HARI 3", "x": 520, "y": 150, "bg": "#13223D", "col": "#F6C343"}, {"type": "counter", "cue": "antreannya", "label": "ANTREAN RINA", "from": 48, "to": 12, "dur": 2.2, "x": 1460, "y": 230}]},
+    {"cue": "Bu Sari mengirim", "d": -0.1, "trans": "zoom", "actors": [], "useLoc": false,
+     "fx": [{"type": "laptop", "mode": "sari5", "replyAt": {"cue": "Kali ini"}, "starsAt": {"cue": "lima bintang"}, "clock": "13:02"}]},
+    {"cue": "stiker jempol", "d": 0.1, "trans": "flash", "locOpt": {"time": "siang", "clock": "13:08"},
+     "actors": [{"who": "rina", "x": 850, "face": 1, "keys": [{"at": 0, "pose": "cheer", "expr": "laugh", "jump": 90}]}],
+     "props": [{"type": "chair16", "x": 830, "y": 1000}, {"type": "deskR", "x": 1210, "y": 1000, "sticky": 3}],
+     "cam": [{"on": "rina", "fit": 0.2, "sx": 800}, {"at": 0, "on": "rina", "fit": 0.22, "sx": 820, "dur": 1.5, "shake": 8}],
+     "fx": [{"type": "confetti", "x": 850, "y": 300, "count": 80}]}
+   ]},
+
+  {"n": 13, "name": "Jumat sore", "loc": "kerja", "music": "hope", "trans": "fade",
+   "locOpt": {"time": "sore", "clock": "16:50"},
+   "shots": [
+    {"at": 0, "actors": [], "useLoc": false, "fx": [{"type": "graph", "mode": "rise", "riseAt": {"cue": "naik ke tengah", "d": -0.6}, "title": "Rata-rata waktu balas klien", "sub": "Tim Layanan Pelanggan · Jumat"}, {"type": "chip", "at": 0.3, "out": 3.2, "text": "JUMAT", "x": 1660, "y": 140, "bg": "#C2691F"}]},
+    {"cue": "Bu Ratna lewat", "d": -0.4, "trans": "whip",
+     "actors": [
+      {"who": "rina", "x": 850, "face": 1, "keys": [{"at": 0, "pose": "sit", "expr": "neutral"}, {"cue": "mengangguk kecil", "look": [1, -0.5], "expr": "happy"}, {"cue": "tepuk tangan", "expr": "proud", "emote": "sparkle", "look": "cam"}]},
+      {"who": "ratna", "x": 2100, "y": 930, "layer": "back", "face": -1, "size": 560, "keys": [{"at": 0, "x": 1260, "dur": 1.6}, {"cue": "melirik layar", "look": [-0.6, 0.6]}, {"cue": "mengangguk kecil", "look": "down", "expr": "happy"}, {"cue": "mengangguk kecil", "d": 0.3, "look": null}, {"cue": "mengangguk kecil", "d": 0.6, "look": "down"}, {"cue": "mengangguk kecil", "d": 0.9, "look": null}, {"cue": "Hanya itu", "x": -400, "dur": 3.5}]}],
+     "props": [{"type": "chair16", "x": 830, "y": 1000}, {"type": "deskR", "x": 1210, "y": 1000, "sticky": 3}],
+     "cam": [{"x": 1100, "y": 520, "zoom": 1.1}, {"cue": "mengangguk kecil", "x": 1130, "y": 480, "zoom": 1.35, "dur": 1.2}, {"cue": "tepuk tangan", "on": "rina", "fit": 0.24, "sx": 800, "dur": 1.5}],
+     "fx": [{"type": "tvBoard", "mode": "rise", "riseAt": 0, "depth": 0.72, "x": 980, "y": 110, "w": 600, "h": 360}]},
+    {"cue": "Dan untuk pertama kalinya", "d": -0.1, "trans": "cut", "locOpt": {"time": "sore", "clock": "16:59"},
+     "actors": [{"who": "rina", "x": 850, "face": 1, "keys": [{"at": 0, "pose": "sit", "expr": "happy"}, {"cue": "tepat jam lima", "pose": "idle", "item": "bag", "jump": 40, "look": "cam"}, {"cue": "tepat jam lima", "d": 0.7, "pose": "wave", "expr": "laugh"}]}],
+     "props": [{"type": "chair16", "x": 830, "y": 1000}, {"type": "deskR", "x": 1210, "y": 1000, "sticky": 3, "keys": [{"at": 0, "laptop": 1}, {"cue": "minggu itu", "laptop": 0, "dur": 0.5}]}],
+     "cam": [{"x": 1060, "y": 540, "zoom": 1.15}, {"cue": "tepat jam lima", "on": "rina", "fit": 0.2, "sx": 880, "dur": 1}],
+     "fx": [{"type": "chip", "cue": "pulang tepat", "text": "17.00 · PULANG", "x": 1480, "y": 170, "bg": "#2F6F73"}]},
+    {"cue": "Malamnya", "d": -0.15, "trans": "fade", "loc": "kos",
+     "actors": [{"who": "rina", "x": 720, "face": 1, "keys": [{"at": 0, "pose": "sit", "expr": "happy", "look": [0.9, 0]}, {"cue": "Kakak belajar", "look": [0.9, 0]}, {"cue": "Ternyata, kerja keras", "expr": "proud"}]}],
+     "props": [{"type": "chair16", "x": 700, "y": 1000, "col": "#C2691F"}],
+     "cam": [{"x": 940, "y": 520, "zoom": 1.1}, {"at": 0.3, "x": 980, "y": 540, "zoom": 1.25, "dur": 5}],
+     "fx": [{"type": "videoCall", "x": 1160, "y": 718, "expr": "happy"}]}
+   ],
+   "lines": [
+    {"who": "rina", "from": "Kakak belajar", "to": "minggu ini", "text": "Kakak belajar hal baru minggu ini."},
+    {"who": "rina", "from": "Ternyata, kerja keras", "to": "tahu arahnya.", "text": "Ternyata, kerja keras juga harus tahu arahnya."}
+   ],
+   "sfx": [{"cue": "tepuk tangan", "type": "applause", "dur": 2.5, "vol": 0.35}]},
+
+  {"n": 14, "name": "Halte senja, benih utang Bayu", "loc": "halte", "music": "night", "trans": "fade",
+   "locOpt": {"time": "senja", "busAt": {"cue": "Rina tidak sempat", "d": -0.6}, "busStop": 4},
+   "actors": [
+    {"who": "rina", "x": 700, "face": 1, "keys": [{"at": 0, "expr": "happy", "item": "bag"}, {"cue": "berbunyi", "look": [0.9, 0.3]}, {"cue": "Santai, Rin", "expr": "confused", "emote": "?"}]},
+    {"who": "bayu", "x": 1180, "face": -1, "keys": [{"at": 0, "expr": "happy", "pose": "talk"}, {"cue": "berbunyi", "pose": "phone", "item": "phoneBuzz", "expr": "shock"}, {"cue": "Bayu buru-buru", "pose": "hips", "item": null, "expr": "scared", "emote": "sweat"}, {"cue": "Santai, Rin", "expr": "laugh"}]}
+   ],
+   "lines": [{"who": "bayu", "from": "Santai, Rin", "to": "Santai, Rin", "text": "Santai, Rin!", "kind": "say", "min": 2.4}],
+   "shots": [
+    {"at": 0, "cam": [{"x": 960, "y": 520, "zoom": 1.05}, {"cue": "berbunyi", "x": 1100, "y": 540, "zoom": 1.3, "dur": 0.8, "ease": "back"}]},
+    {"cue": "Sebuah pemberitahuan", "d": -0.1, "trans": "zoom", "actors": [], "useLoc": false, "fx": [{"type": "phone", "mode": "tagihan"}]},
+    {"cue": "Bayu buru-buru", "d": -0.1, "trans": "cut", "cam": [{"x": 950, "y": 540, "zoom": 1.25}, {"cue": "Rina tidak sempat", "on": "rina", "fit": 0.22, "sx": 760, "dur": 1.5}]}
+   ]},
+
+  {"n": 15, "name": "Kartu pelajaran", "loc": "kerja", "music": "warm", "trans": "iris", "post": 3.0, "noCaption": false,
+   "locOpt": {"time": "siang", "clock": "17:00"},
+   "shots": [
+    {"at": 0, "blur": 9, "actors": [{"who": "rina", "x": 300, "size": 600, "face": 1, "keys": [{"at": 0, "pose": "wave", "expr": "happy", "look": "cam"}, {"cue": "Satu", "pose": "pointUp"}, {"cue": "Dua", "pose": "hips", "expr": "proud"}, {"cue": "Tiga", "pose": "pointUp", "expr": "laugh", "item": "thumb", "jump": 50}, {"cue": "Tiga", "d": 2.8, "pose": "wave", "item": null}, {"cue": "Tiga", "d": 4.4, "pose": "hips", "expr": "proud"}]}],
+     "cam": [{"x": 960, "y": 520, "zoom": 1.0}, {"at": 0, "x": 960, "y": 540, "zoom": 1.06, "dur": 14}],
+     "fx": [{"type": "lesson", "cue": "Jadi, apa", "d": 0.8, "items": [{"cue": "Satu", "text": "Tanyakan hasil yang diharapkan darimu"}, {"cue": "Dua", "text": "Sibuk tidak sama dengan berhasil"}, {"cue": "Tiga", "text": "Kerjakan dulu yang diukur"}]}]}
+   ]},
+
+  {"n": 16, "name": "Cuplikan Eps 2 + layar akhir", "loc": "rapat", "music": "tense", "trans": "flash", "post": 6.5,
+   "locOpt": {"slide": "logo", "clock": "09:00", "backChairs": []},
+   "shots": [
+    {"at": 0, "actors": [
+      {"who": "ratna", "x": 1790, "face": -1, "size": 600, "item": "marker", "keys": [{"at": 0, "pose": "point", "expr": "neutral"}, {"cue": "memindahkan", "pose": "pointUp", "expr": "happy"}, {"cue": "Dan setiap kali", "pose": "talk"}]},
+      {"who": "rina", "x": 620, "size": 540, "face": 1, "keys": [{"at": 0, "pose": "sit", "expr": "neutral"}, {"cue": "proyek besar", "expr": "shock"}]},
+      {"who": "sinta", "x": 880, "size": 540, "face": 1, "keys": [{"at": 0, "pose": "sit", "expr": "neutral"}]},
+      {"who": "yoga", "x": 1130, "size": 540, "face": 1, "keys": [{"at": 0, "pose": "sit", "expr": "neutral"}, {"cue": "data klien", "expr": "scared"}]},
+      {"who": "bayu", "x": 380, "size": 540, "face": 1, "keys": [{"at": 0, "pose": "sit", "expr": "happy"}]}],
+     "props": [{"type": "wb", "x": 1380, "y": 1000, "text": "PINDAH DATA KLIEN\n→ SISTEM BARU", "keys": [{"at": 0, "reveal": 0}, {"cue": "memindahkan", "d": -0.3, "reveal": 1, "dur": 2.6, "ease": "lin"}]}],
+     "cam": [{"x": 1100, "y": 520, "zoom": 1.05}, {"at": 0.3, "x": 1330, "y": 430, "zoom": 1.35, "dur": 4}],
+     "fx": [{"type": "chip", "at": 0.2, "out": 3, "text": "MINGGU DEPAN…", "x": 420, "y": 140, "bg": "#13223D", "col": "#F6C343"}],
+     "sfx": []},
+    {"cue": "Aman, Bu", "d": -0.15, "trans": "whip", "loc": "kerja", "locOpt": {"time": "siang", "clock": "10:00"},
+     "actors": [{"who": "rina", "x": 850, "face": 1, "keys": [{"at": 0, "pose": "pointUp", "expr": "laugh", "item": "thumb", "look": "cam", "jump": 40}]}],
+     "props": [{"type": "deskR", "x": 1320, "y": 1000}],
+     "cam": [{"on": "rina", "fit": 0.22, "sx": 900}, {"at": 0, "on": "rina", "fit": 0.27, "sx": 880, "dur": 1.2, "ease": "back"}]},
+    {"cue": "Padahal", "d": -0.1, "trans": "zoom", "actors": [], "useLoc": false, "fx": [{"type": "laptop", "mode": "folder", "clock": "16:40"}]},
+    {"cue": "tidak ada yang aman", "d": 0.3, "trans": "cut", "actors": [], "useLoc": false, "fx": [{"type": "deadline"}]},
+    {"cue": "Saksikan kelanjutannya", "d": -0.2, "trans": "fade", "actors": [], "useLoc": false, "noHeader": true,
+     "fx": [{"type": "endscreen", "clickAt": {"cue": "subscribe Tangani"}, "askAt": {"cue": "Dan tulis"}}]}
+   ],
+   "lines": [{"who": "rina", "from": "Aman, Bu", "to": "Aman, Bu", "text": "Aman, Bu!", "kind": "shout", "min": 1.8}],
+   "sfx": [{"cue": "Padahal", "type": "dun", "vol": 0.6}]}
+ ]
+}

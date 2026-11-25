@@ -1,0 +1,41 @@
+{
+ "slug": "kelas-02",
+ "title": "Susah Fokus Kerja? Coba Teknik 25 Menit Ini (Pomodoro) | Kelas Produktif Eps 2",
+ "kicker": "Kelas Produktif: Waktu & Prioritas · Eps 2 · animasi 16:9",
+ "kind": "cerita16",
+ "parts": [
+  {
+   "name": "Masalah",
+   "chapters": [
+    "Tiga jam, dua puluh persen",
+    "Pindah-pindah itu ada harganya"
+   ]
+  },
+  {
+   "name": "6 Langkah",
+   "chapters": [
+    "Poin 1: Pilih satu tugas",
+    "Poin 2: Timer 25 menit",
+    "Poin 3: Tulis di kertas",
+    "Poin 4: Berhenti 5 menit",
+    "Poin 5: Empat sesi",
+    "Poin 6: Sesuaikan dan latih"
+   ]
+  },
+  {
+   "name": "Penutup",
+   "chapters": [
+    "Rangkuman",
+    "Coba besok pagi",
+    "Episode berikutnya"
+   ]
+  }
+ ],
+ "lessons": [
+  "Pilih satu tugas, fokus 25 menit.",
+  "Ada gangguan? Tulis di kertas, lalu lanjutkan.",
+  "Istirahat 5 menit jauh dari layar, lalu ulangi."
+ ],
+ "duration": 494.035,
+ "voice": "Citra (ElevenLabs)"
+}

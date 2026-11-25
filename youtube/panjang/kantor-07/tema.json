@@ -1,0 +1,44 @@
+{
+ "slug": "kantor-07",
+ "title": "Klien Terbesar Memberi Waktu 7 Hari Sebelum Pergi | Kantor Tangani: Klien Terbesar Eps 3",
+ "kicker": "Kantor Tangani: Klien Terbesar · Eps 3/4 · animasi 16:9",
+ "kind": "cerita16",
+ "parts": [
+  {
+   "name": "Pembuka & masalah",
+   "chapters": [
+    "Sebelumnya",
+    "Tujuh hari",
+    "Tanpa alasan"
+   ]
+  },
+  {
+   "name": "Memburuk",
+   "chapters": [
+    "Canggung tapi efektif",
+    "Kabar buruk"
+   ]
+  },
+  {
+   "name": "Berubah & hasil",
+   "chapters": [
+    "Buku kuning Sinta",
+    "Keputusan Pak Wijaya"
+   ]
+  },
+  {
+   "name": "Episode berikutnya",
+   "chapters": [
+    "Pelajaran",
+    "Episode berikutnya"
+   ]
+  }
+ ],
+ "lessons": [
+  "Pegang tanggung jawab, tanpa sibuk mencari alasan.",
+  "Buat rencana pemulihan yang harian, bukan janji besar.",
+  "Kirim kabar rutin, termasuk kabar buruk, dan sampaikan lebih dulu."
+ ],
+ "duration": 495.0,
+ "voice": "Citra (ElevenLabs)"
+}

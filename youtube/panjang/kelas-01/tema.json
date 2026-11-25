@@ -1,0 +1,43 @@
+{
+ "slug": "kelas-01",
+ "title": "Sibuk Seharian Tapi Tidak Ada yang Selesai? Atur Prioritas Begini | Kelas Produktif Eps 1",
+ "kicker": "Kelas Produktif: Waktu & Prioritas · Eps 1 · animasi 16:9",
+ "kind": "cerita16",
+ "parts": [
+  {
+   "name": "Masalah",
+   "chapters": [
+    "Mesin kasirnya mana?",
+    "Bayu yang selalu menjawab",
+    "Terlambat tiga jam"
+   ]
+  },
+  {
+   "name": "Memburuk",
+   "chapters": [
+    "Empat kotak Sinta"
+   ]
+  },
+  {
+   "name": "Cara yang benar",
+   "chapters": [
+    "Matriks penting–mendesak",
+    "Satu tugas sebelum chat"
+   ]
+  },
+  {
+   "name": "Penutup",
+   "chapters": [
+    "Coba besok pagi",
+    "Episode berikutnya"
+   ]
+  }
+ ],
+ "lessons": [
+  "Tulis semua tugasmu, lalu masukkan ke empat kotak: penting dan mendesak, penting tidak mendesak, mendesak tidak penting, tidak penting.",
+  "Yang penting tapi tidak mendesak: beri jam, jangan cuma \"nanti\".",
+  "Kerjakan satu tugas penting sebelum membuka chat."
+ ],
+ "duration": 501.038,
+ "voice": "Citra (ElevenLabs)"
+}

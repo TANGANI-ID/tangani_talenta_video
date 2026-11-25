@@ -1,0 +1,10 @@
+{
+  "code": "KD28",
+  "series": "KD",
+  "day": 193,
+  "title": "Tiga rumus wajib",
+  "insight": "SUM, AVERAGE, dan COUNT menghemat jam kerja hitung manual.",
+  "action": "Buka satu tabel kerja, lalu coba SUM, AVERAGE, dan COUNT di bawah kolom angkanya.",
+  "caption": "SUM menjumlahkan, AVERAGE mencari rata-rata, COUNT menghitung banyak data, dan namanya sama di Excel maupun Google Sheets. Contoh: =SUM(B2:B10). Aksi hari ini: buka satu tabel kerjamu dan coba ketiga rumus itu di bawah kolom angkanya.",
+  "video": "KD28-tangani-talenta-9x16.mp4"
+}

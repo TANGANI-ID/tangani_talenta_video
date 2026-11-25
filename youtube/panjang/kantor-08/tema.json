@@ -1,0 +1,43 @@
+{
+ "slug": "kantor-08",
+ "title": "Gudang Paling Lambat Mau Diserahkan ke Pihak Luar | Kantor Tangani: Klien Terbesar Eps 4",
+ "kicker": "Kantor Tangani: Klien Terbesar · Eps 4/4 · animasi 16:9",
+ "kind": "cerita16",
+ "parts": [
+  {
+   "name": "Pembuka & masalah",
+   "chapters": [
+    "Sebelumnya",
+    "Gudang sunyi",
+    "Mengukur"
+   ]
+  },
+  {
+   "name": "Memburuk",
+   "chapters": [
+    "Enam puluh dua persen",
+    "Buku saku Dodi"
+   ]
+  },
+  {
+   "name": "Berubah & hasil",
+   "chapters": [
+    "Memindahkan rak",
+    "Pelajaran"
+   ]
+  },
+  {
+   "name": "Cerita baru",
+   "chapters": [
+    "Cerita baru"
+   ]
+  }
+ ],
+ "lessons": [
+  "Masalah yang diukur bisa diperbaiki; masalah yang hanya dirasakan biasanya cuma jadi saling menyalahkan.",
+  "Perbaiki hambatan terbesar dulu, bukan sepuluh hal sekaligus.",
+  "Dengarkan orang lapangan: sering kali jawabannya sudah lama ada, di buku saku seseorang."
+ ],
+ "duration": 495.0,
+ "voice": "Citra (ElevenLabs)"
+}

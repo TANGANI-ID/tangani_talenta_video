@@ -1,0 +1,5617 @@
+{
+ "slug": "kantor-05",
+ "title": "Klien Terbesar Mengamuk di Lobi, Rina Malah Membela Diri | Kantor Tangani: Klien Terbesar Eps 1",
+ "series": "Kantor Tangani",
+ "story": "Klien Terbesar",
+ "eps": "1/4",
+ "month": "JUNI",
+ "naskah": "youtube/serial/ep05-naskah.md",
+ "minDur": 495,
+ "chapters": [
+  [
+   1,
+   "Lobi"
+  ],
+  [
+   3,
+   "Klien terbesar"
+  ],
+  [
+   6,
+   "Intinya apa?"
+  ],
+  [
+   9,
+   "Telepon kedua"
+  ],
+  [
+   10,
+   "Formulir pesanan"
+  ],
+  [
+   13,
+   "Pelajaran"
+  ],
+  [
+   15,
+   "Episode berikutnya"
+  ]
+ ],
+ "parts": [
+  [
+   "Pembuka & masalah",
+   0,
+   2
+  ],
+  [
+   "Memburuk",
+   2,
+   4
+  ],
+  [
+   "Berubah & hasil",
+   4,
+   6
+  ],
+  [
+   "Episode berikutnya",
+   6,
+   7
+  ]
+ ],
+ "lessons": [
+  "Dengarkan sampai tuntas, tanpa membela diri.",
+  "Akui dampaknya, lalu janjikan langkah dan jam yang pasti.",
+  "Fakta tetap penting, tapi sampaikan setelah suasana tenang."
+ ],
+ "youtube": {
+  "desc": "Senin pagi, klien terbesar kantor menggebrak meja resepsionis: mesin kasir untuk toko barunya salah tipe, padahal toko buka Kamis. Kalimat pertama Rina justru \"Maaf, Pak. Itu bukan bagian saya.\" Bisakah Rina menenangkan klien yang sedang marah, dan kapan fakta boleh disampaikan? Episode pertama Kantor Tangani: Klien Terbesar.",
+  "ask": "Pernahkah kamu refleks membela diri saat dimarahi? Tulis di kolom komentar.",
+  "next": "Klien Terbesar Eps 2 tayang berikutnya.",
+  "tags": "kantor tangani, klien terbesar, cerita kantor, animasi kantor, klien marah, menghadapi komplain, layanan pelanggan, customer service, membela diri, komunikasi kerja, dunia kerja, Tangani Talenta",
+  "hashtags": "#KantorTangani #KlienTerbesar #duniakerja",
+  "adAfter": 8
+ },
+ "thumb": {
+  "kind": "lobi",
+  "lines": [
+   "KLIEN",
+   "TERBESAR"
+  ],
+  "hl": "MENGAMUK!",
+  "hlSize": 100,
+  "badge": "EPS 1/4",
+  "tag": "KANTOR TANGANI · KLIEN TERBESAR"
+ },
+ "extras": {
+  "wijaya": {
+   "nama": "Pak Wijaya (klien, 11 toko + 1 baru)",
+   "look": {
+    "hat": "kopiah",
+    "hatColor": "#1E1A18",
+    "mustache": true,
+    "hairColor": "#8A8A8A",
+    "shirt": "#8E4A24",
+    "pants": "#2C2433",
+    "skin": "c"
+   }
+  },
+  "resepsionis": {
+   "nama": "Mbak Wulan (resepsionis)",
+   "look": {
+    "hair": "hijab",
+    "hijab": "#C2691F",
+    "shirt": "#FFFDF8",
+    "jacket": "#13223D",
+    "pants": "#2C2433",
+    "skin": "d",
+    "idcard": "#C2691F"
+   }
+  }
+ },
+ "adegan": [
+  {
+   "n": 1,
+   "name": "Lobi: itu bukan bagian saya",
+   "loc": "lobi",
+   "music": "tense",
+   "pre": 0.5,
+   "post": 1.0,
+   "trans": "cut",
+   "locOpt": {
+    "time": "pagi",
+    "deskX": 1100,
+    "deskFront": true,
+    "stairs": 1600,
+    "slamX": -230,
+    "slam": {
+     "cue": "menggebrak meja",
+     "d": 0.15
+    },
+    "slam2": {
+     "cue": "jauh lebih buruk",
+     "d": 0.0
+    }
+   },
+   "lines": [
+    {
+     "who": "wijaya",
+     "from": "Siapa yang bertanggung",
+     "to": "di sini",
+     "text": "Siapa yang bertanggung jawab di sini?!",
+     "label": "Pak Wijaya",
+     "kind": "shout",
+     "maxW": 700,
+     "size": 44
+    },
+    {
+     "who": "rina",
+     "from": "Maaf, Pak",
+     "to": "bagian saya",
+     "text": "Maaf, Pak. Itu bukan bagian saya.",
+     "maxW": 560,
+     "size": 42
+    }
+   ],
+   "shots": [
+    {
+     "at": 0,
+     "actors": [
+      {
+       "who": "resepsionis",
+       "x": 1000,
+       "y": 930,
+       "layer": "back",
+       "face": -1,
+       "size": 520,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "idle",
+         "expr": "happy",
+         "look": [
+          -1,
+          0.3
+         ]
+        },
+        {
+         "cue": "Pak Wijaya, klien",
+         "expr": "neutral",
+         "look": [
+          -1,
+          0
+         ]
+        },
+        {
+         "cue": "menggebrak meja",
+         "d": 0.1,
+         "x": 1080,
+         "dur": 0.4,
+         "pose": "scared",
+         "expr": "scared",
+         "emote": "!"
+        }
+       ]
+      },
+      {
+       "who": "wijaya",
+       "x": -300,
+       "face": 1,
+       "size": 640,
+       "keys": [
+        {
+         "at": 0,
+         "expr": "angry"
+        },
+        {
+         "at": 2.8,
+         "x": 640,
+         "dur": 2.6
+        },
+        {
+         "cue": "menggebrak meja",
+         "d": -0.35,
+         "pose": "point",
+         "expr": "angry"
+        },
+        {
+         "cue": "menggebrak meja",
+         "d": 0.5,
+         "pose": "hips"
+        },
+        {
+         "cue": "Siapa yang bertanggung",
+         "d": -0.1,
+         "pose": "shrug",
+         "expr": "angry",
+         "emote": "anger"
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "x": 1000,
+       "y": 520,
+       "zoom": 1.02
+      },
+      {
+       "at": 0,
+       "x": 1050,
+       "y": 520,
+       "zoom": 1.08,
+       "dur": 4
+      },
+      {
+       "cue": "Pak Wijaya, klien",
+       "x": 820,
+       "y": 520,
+       "zoom": 1.22,
+       "dur": 1.6
+      },
+      {
+       "cue": "menggebrak meja",
+       "d": 0.15,
+       "shake": 14
+      },
+      {
+       "cue": "Siapa yang bertanggung",
+       "d": -0.2,
+       "on": "wijaya",
+       "fit": 0.25,
+       "sx": 760,
+       "dur": 0.5,
+       "ease": "back",
+       "shake": 8
+      }
+     ],
+     "sfx": [
+      {
+       "cue": "menggebrak meja",
+       "d": 0.15,
+       "type": "thud",
+       "vol": 1.0
+      }
+     ],
+     "fx": [
+      {
+       "type": "chip",
+       "text": "SENIN · 08.10 · LOBI",
+       "x": 1460,
+       "y": 170,
+       "bg": "#13223D",
+       "col": "#F6C343",
+       "at": 0.4,
+       "out": {
+        "cue": "Pak Wijaya, klien",
+        "d": -0.2
+       }
+      },
+      {
+       "type": "nameTag",
+       "cue": "Pak Wijaya, klien",
+       "d": 0.3,
+       "name": "Pak Wijaya",
+       "role": "Klien terbesar · 11 toko",
+       "x": 1180,
+       "y": 800,
+       "out": {
+        "cue": "Siapa yang bertanggung",
+        "d": -0.3
+       }
+      }
+     ]
+    },
+    {
+     "cue": "Rina buru-buru",
+     "d": -0.2,
+     "trans": "cut",
+     "actors": [
+      {
+       "who": "resepsionis",
+       "x": 1080,
+       "y": 930,
+       "layer": "back",
+       "face": -1,
+       "size": 520,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "scared",
+         "expr": "scared",
+         "look": [
+          1,
+          -0.5
+         ]
+        },
+        {
+         "cue": "Itu bukan bagian",
+         "d": 0.3,
+         "expr": "shock",
+         "look": [
+          -1,
+          0
+         ]
+        }
+       ]
+      },
+      {
+       "who": "wijaya",
+       "x": 640,
+       "face": 1,
+       "size": 640,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "hips",
+         "expr": "angry",
+         "look": [
+          1,
+          -0.3
+         ]
+        },
+        {
+         "cue": "Dan kalimat pertama",
+         "pose": "hips",
+         "look": [
+          1,
+          0
+         ]
+        },
+        {
+         "cue": "Itu bukan bagian",
+         "d": 0.6,
+         "expr": "angry",
+         "emote": "anger"
+        }
+       ]
+      },
+      {
+       "who": "rina",
+       "x": 2260,
+       "y": 650,
+       "face": -1,
+       "keys": [
+        {
+         "at": 0,
+         "x": 2260,
+         "y": 650,
+         "face": -1
+        },
+        {
+         "x": 2055,
+         "dur": 0.44,
+         "cue": "Rina buru-buru",
+         "d": -0.1
+        },
+        {
+         "x": 1985,
+         "dur": 0.22,
+         "cue": "Rina buru-buru",
+         "d": 0.34
+        },
+        {
+         "y": 700,
+         "cue": "Rina buru-buru",
+         "d": 0.45
+        },
+        {
+         "x": 1915,
+         "dur": 0.22,
+         "cue": "Rina buru-buru",
+         "d": 0.56
+        },
+        {
+         "y": 750,
+         "cue": "Rina buru-buru",
+         "d": 0.67
+        },
+        {
+         "x": 1845,
+         "dur": 0.22,
+         "cue": "Rina buru-buru",
+         "d": 0.78
+        },
+        {
+         "y": 800,
+         "cue": "Rina buru-buru",
+         "d": 0.89
+        },
+        {
+         "x": 1775,
+         "dur": 0.22,
+         "cue": "Rina buru-buru",
+         "d": 1.0
+        },
+        {
+         "y": 850,
+         "cue": "Rina buru-buru",
+         "d": 1.11
+        },
+        {
+         "x": 1705,
+         "dur": 0.22,
+         "cue": "Rina buru-buru",
+         "d": 1.22
+        },
+        {
+         "y": 900,
+         "cue": "Rina buru-buru",
+         "d": 1.33
+        },
+        {
+         "x": 1635,
+         "dur": 0.22,
+         "cue": "Rina buru-buru",
+         "d": 1.44
+        },
+        {
+         "y": 950,
+         "cue": "Rina buru-buru",
+         "d": 1.55
+        },
+        {
+         "x": 1540,
+         "dur": 0.22,
+         "cue": "Rina buru-buru",
+         "d": 1.66
+        },
+        {
+         "y": 1000,
+         "cue": "Rina buru-buru",
+         "d": 1.77
+        },
+        {
+         "x": 1380,
+         "dur": 0.8,
+         "cue": "Rina buru-buru",
+         "d": 1.88
+        },
+        {
+         "pose": "idle",
+         "expr": "happy",
+         "emote": "sweat",
+         "cue": "Rina buru-buru",
+         "d": 2.78
+        },
+        {
+         "cue": "Maaf, Pak",
+         "pose": "talk",
+         "expr": "happy"
+        },
+        {
+         "cue": "Itu bukan bagian",
+         "pose": "shrug",
+         "expr": "happy"
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "x": 1300,
+       "y": 480,
+       "zoom": 1.12
+      },
+      {
+       "x": 1150,
+       "y": 500,
+       "zoom": 1.12,
+       "dur": 2.2,
+       "cue": "Rina buru-buru",
+       "d": 0.4
+      },
+      {
+       "cue": "Dan kalimat pertama",
+       "x": 1010,
+       "y": 520,
+       "zoom": 1.14,
+       "dur": 1.6
+      }
+     ],
+     "fx": [
+      {
+       "type": "chip",
+       "text": "RINA · LAYANAN PELANGGAN",
+       "x": 1500,
+       "y": 170,
+       "bg": "#5B7DB1",
+       "out": {
+        "cue": "Dan kalimat pertama",
+        "d": 0
+       },
+       "cue": "Rina buru-buru",
+       "d": 0.4
+      }
+     ]
+    },
+    {
+     "cue": "Dalam tiga detik",
+     "d": -0.15,
+     "trans": "cut",
+     "actors": [
+      {
+       "who": "wijaya",
+       "x": 640,
+       "face": 1,
+       "size": 640,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "hips",
+         "expr": "angry",
+         "emote": "anger"
+        },
+        {
+         "cue": "jauh lebih buruk",
+         "d": -0.35,
+         "pose": "point",
+         "expr": "angry"
+        },
+        {
+         "cue": "jauh lebih buruk",
+         "d": 0.4,
+         "pose": "shrug"
+        }
+       ]
+      },
+      {
+       "who": "rina",
+       "x": 1380,
+       "face": -1,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "shrug",
+         "expr": "scared",
+         "emote": "sweat"
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "on": "wijaya",
+       "fit": 0.28,
+       "sx": 820
+      },
+      {
+       "on": "wijaya",
+       "fit": 0.34,
+       "sx": 820,
+       "dur": 2.0,
+       "cue": "Dalam tiga detik",
+       "d": -0.15
+      },
+      {
+       "cue": "jauh lebih buruk",
+       "d": 0.0,
+       "shake": 16
+      }
+     ],
+     "grade": {
+      "tint": "rgba(170,40,24,.10)"
+     },
+     "sfx": [
+      {
+       "cue": "jauh lebih buruk",
+       "d": 0.0,
+       "type": "thud",
+       "vol": 1.0
+      }
+     ],
+     "fx": [
+      {
+       "type": "freeze",
+       "cue": "jauh lebih buruk",
+       "d": 0.35,
+       "text": "3 DETIK. JAUH LEBIH BURUK.",
+       "x": 1300,
+       "y": 880,
+       "size": 42
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "name": "Kartu judul",
+   "vo": false,
+   "dur": 8.2,
+   "noHeader": true,
+   "noCaption": true,
+   "music": "none",
+   "trans": "flash",
+   "shots": [
+    {
+     "at": 0,
+     "useLoc": false,
+     "actors": [],
+     "fx": [
+      {
+       "type": "title",
+       "at": 0,
+       "disc": 2.2,
+       "eps": "KLIEN TERBESAR · EPS 1/4",
+       "hook": "Klien Terbesar Mengamuk di Lobi, Rina Malah Membela Diri",
+       "day": "8",
+       "month": "JUNI",
+       "marker": "SENIN · 08.10",
+       "markerAt": 2.9
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "name": "Klien terbesar",
+   "loc": "kerja",
+   "music": "light",
+   "trans": "iris",
+   "locOpt": {
+    "time": "pagi",
+    "clock": "08:30"
+   },
+   "shots": [
+    {
+     "at": 0,
+     "actors": [
+      {
+       "who": "rina",
+       "x": 850,
+       "face": 1,
+       "item": "folder",
+       "keys": [
+        {
+         "at": 0,
+         "pose": "sit",
+         "expr": "happy",
+         "look": [
+          1,
+          0.3
+         ]
+        },
+        {
+         "cue": "Ini Rina",
+         "expr": "laugh",
+         "look": "cam",
+         "emote": "sparkle"
+        },
+        {
+         "cue": "perusahaan penyedia",
+         "expr": "happy",
+         "look": [
+          1,
+          0.3
+         ]
+        },
+        {
+         "cue": "Rina dipercaya",
+         "expr": "proud"
+        },
+        {
+         "cue": "Pak Wijaya, pemilik",
+         "expr": "laugh",
+         "look": [
+          1,
+          0.4
+         ]
+        }
+       ]
+      }
+     ],
+     "props": [
+      {
+       "type": "chair16",
+       "x": 830,
+       "y": 1000
+      },
+      {
+       "type": "deskR",
+       "x": 1210,
+       "y": 1000,
+       "cups": 1,
+       "laptop": 1
+      }
+     ],
+     "cam": [
+      {
+       "x": 960,
+       "y": 520,
+       "zoom": 1.05
+      },
+      {
+       "at": 0,
+       "on": "rina",
+       "fit": 0.21,
+       "sx": 760,
+       "dur": 3
+      },
+      {
+       "cue": "Bulan ini",
+       "x": 1080,
+       "y": 520,
+       "zoom": 1.12,
+       "dur": 2.2
+      }
+     ],
+     "fx": [
+      {
+       "type": "month",
+       "at": 0.2,
+       "hold": 3.5,
+       "day": "1",
+       "text": "JUNI"
+      },
+      {
+       "type": "chip",
+       "text": "SEMINGGU SEBELUMNYA",
+       "x": 1500,
+       "y": 190,
+       "bg": "#5E5A62",
+       "at": 0.5,
+       "out": {
+        "cue": "Ini Rina",
+        "d": 0.5
+       }
+      },
+      {
+       "type": "nameTag",
+       "cue": "Ini Rina",
+       "d": 0.2,
+       "name": "Rina",
+       "role": "Layanan pelanggan · PT Tangani Digital Automasi",
+       "x": 110,
+       "y": 800,
+       "out": {
+        "cue": "Bulan ini",
+        "d": -0.2
+       }
+      },
+      {
+       "type": "chip",
+       "text": "WIJAYA · 12 TOKO",
+       "x": 1450,
+       "y": 200,
+       "bg": "#6E2430",
+       "cue": "Rina dipercaya",
+       "d": 0.1,
+       "out": {
+        "cue": "Pak Wijaya, pemilik",
+        "d": -0.3
+       }
+      },
+      {
+       "type": "card",
+       "cue": "klien terbesar kantor",
+       "d": 0.0,
+       "style": "small",
+       "text": "Klien terbesar kantor!",
+       "x": 1400,
+       "y": 340,
+       "size": 44,
+       "out": {
+        "cue": "Pak Wijaya, pemilik",
+        "d": -0.3
+       }
+      }
+     ]
+    },
+    {
+     "cue": "Pak Wijaya, pemilik",
+     "d": -0.3,
+     "trans": "zoom",
+     "actors": [],
+     "useLoc": false,
+     "fx": [
+      {
+       "type": "storeMap",
+       "litAt": {
+        "cue": "sebelas toko",
+        "d": 0.0
+       },
+       "per": 0.27,
+       "newAt": {
+        "cue": "Kamis ini",
+        "d": 0.2
+       },
+       "title": "Toko Wijaya",
+       "chip": "SEMUA PAKAI KASIR TANGANI",
+       "chipAt": {
+        "cue": "aplikasi kasir Tangani",
+        "d": 0.0
+       },
+       "chipBg": "#2F6F73"
+      }
+     ]
+    },
+    {
+     "cue": "Rina sudah membayangkan",
+     "d": -0.2,
+     "trans": "whip",
+     "actors": [
+      {
+       "who": "rina",
+       "x": 850,
+       "face": 1,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "think",
+         "expr": "laugh",
+         "emote": "sparkle",
+         "look": [
+          0.4,
+          -0.7
+         ]
+        },
+        {
+         "pose": "sit",
+         "expr": "proud",
+         "look": [
+          1,
+          0.4
+         ],
+         "cue": "Rina sudah membayangkan",
+         "d": 2.4
+        }
+       ]
+      }
+     ],
+     "props": [
+      {
+       "type": "chair16",
+       "x": 830,
+       "y": 1000
+      },
+      {
+       "type": "deskR",
+       "x": 1210,
+       "y": 1000,
+       "cups": 1,
+       "laptop": 1,
+       "sticky": 1
+      }
+     ],
+     "cam": [
+      {
+       "on": "rina",
+       "fit": 0.22,
+       "sx": 800
+      },
+      {
+       "on": "rina",
+       "fit": 0.25,
+       "sx": 800,
+       "dur": 3,
+       "cue": "Rina sudah membayangkan",
+       "d": -0.2
+      },
+      {
+       "cue": "Ia bahkan menempel",
+       "x": 1100,
+       "y": 520,
+       "zoom": 1.2,
+       "dur": 1.4
+      }
+     ],
+     "fx": [
+      {
+       "type": "card",
+       "cue": "Rina sudah membayangkan",
+       "d": 0.2,
+       "style": "small",
+       "text": "Foto peresmian, Kamis!",
+       "x": 1400,
+       "y": 200,
+       "size": 46,
+       "out": {
+        "cue": "Ia bahkan menempel",
+        "d": -0.2
+       }
+      },
+      {
+       "type": "chip",
+       "text": "JADWAL: KAMIS 08.00 · TOKO KE-12",
+       "x": 1450,
+       "y": 200,
+       "bg": "#D9483B",
+       "cue": "Ia bahkan menempel",
+       "d": 0.4,
+       "size": 34
+      }
+     ]
+    },
+    {
+     "cue": "Klien besar, toko baru",
+     "d": -0.2,
+     "trans": "cut",
+     "actors": [
+      {
+       "who": "rina",
+       "x": 850,
+       "face": 1,
+       "item": "folder",
+       "keys": [
+        {
+         "at": 0,
+         "pose": "sit",
+         "expr": "proud",
+         "look": [
+          1,
+          0.4
+         ]
+        },
+        {
+         "expr": "happy",
+         "look": "cam",
+         "cue": "Klien besar, toko baru",
+         "d": 1.4
+        }
+       ]
+      },
+      {
+       "who": "sinta",
+       "x": -320,
+       "face": 1,
+       "item": "notebook",
+       "keys": [
+        {
+         "x": 470,
+         "dur": 1.9,
+         "expr": "neutral",
+         "cue": "Klien besar, toko baru",
+         "d": -0.2
+        },
+        {
+         "pose": "hold",
+         "expr": "neutral",
+         "look": [
+          1,
+          0.5
+         ],
+         "cue": "Klien besar, toko baru",
+         "d": 1.8
+        },
+        {
+         "x": -400,
+         "dur": 2.2,
+         "face": -1,
+         "pose": "idle",
+         "cue": "Klien besar, toko baru",
+         "d": 3.2
+        }
+       ]
+      }
+     ],
+     "props": [
+      {
+       "type": "chair16",
+       "x": 830,
+       "y": 1000
+      },
+      {
+       "type": "deskR",
+       "x": 1210,
+       "y": 1000,
+       "cups": 1,
+       "laptop": 1,
+       "sticky": 1
+      }
+     ],
+     "cam": [
+      {
+       "x": 900,
+       "y": 520,
+       "zoom": 1.08
+      },
+      {
+       "x": 860,
+       "y": 520,
+       "zoom": 1.16,
+       "dur": 4,
+       "cue": "Klien besar, toko baru",
+       "d": -0.2
+      }
+     ],
+     "fx": [
+      {
+       "type": "card",
+       "cue": "Semuanya terdengar",
+       "d": 0.1,
+       "style": "small",
+       "text": "Semuanya terdengar sempurna.",
+       "x": 1400,
+       "y": 200,
+       "size": 46
+      },
+      {
+       "type": "nameTag",
+       "name": "Sinta",
+       "role": "Koordinator tim",
+       "x": 110,
+       "y": 800,
+       "out": {
+        "cue": "Semuanya terdengar",
+        "d": 0.2
+       },
+       "cue": "Klien besar, toko baru",
+       "d": 1.2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "name": "Saya tidak peduli bagian siapa",
+   "loc": "lobi",
+   "music": "tense",
+   "trans": "whip",
+   "locOpt": {
+    "time": "pagi",
+    "deskX": 1100,
+    "deskFront": true,
+    "stairs": 1600,
+    "slamX": -230
+   },
+   "lines": [
+    {
+     "who": "wijaya",
+     "from": "Toko saya buka Kamis",
+     "to": "Toko saya buka Kamis",
+     "text": "Toko saya buka Kamis!",
+     "kind": "shout",
+     "min": 1.6,
+     "shots": [
+      2
+     ]
+    },
+    {
+     "who": "rina",
+     "from": "Pengiriman itu diurus",
+     "to": "layanan pelanggan",
+     "text": "Pengiriman itu urusan gudang, Pak.",
+     "maxW": 560,
+     "size": 42
+    },
+    {
+     "who": "wijaya",
+     "from": "Saya tidak peduli bagian",
+     "to": "buka atau tidak",
+     "text": "Saya tidak peduli bagian siapa!",
+     "kind": "shout",
+     "maxW": 620,
+     "size": 42
+    },
+    {
+     "who": "rina",
+     "from": "Nanti saya cek",
+     "to": "dulu, ya, Pak",
+     "text": "Nanti saya cek dulu, ya, Pak.",
+     "maxW": 560,
+     "size": 42
+    },
+    {
+     "who": "wijaya",
+     "from": "Nanti itu kapan",
+     "to": "Nanti itu kapan",
+     "text": "Nanti itu kapan?!",
+     "kind": "shout",
+     "min": 1.8
+    }
+   ],
+   "shots": [
+    {
+     "at": 0,
+     "actors": [
+      {
+       "who": "resepsionis",
+       "x": 1080,
+       "y": 930,
+       "layer": "back",
+       "face": -1,
+       "size": 520,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "idle",
+         "expr": "scared",
+         "look": [
+          -1,
+          0
+         ]
+        }
+       ]
+      },
+      {
+       "who": "wijaya",
+       "x": 640,
+       "face": 1,
+       "size": 640,
+       "item": "phone",
+       "keys": [
+        {
+         "at": 0,
+         "pose": "hold",
+         "expr": "angry",
+         "look": [
+          1,
+          0
+         ]
+        },
+        {
+         "at": 0.9,
+         "pose": "point",
+         "expr": "angry"
+        }
+       ]
+      },
+      {
+       "who": "rina",
+       "x": 1380,
+       "face": -1,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "idle",
+         "expr": "scared",
+         "look": [
+          -1,
+          0.3
+         ]
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "x": 1010,
+       "y": 520,
+       "zoom": 1.1
+      },
+      {
+       "at": 0,
+       "x": 880,
+       "y": 520,
+       "zoom": 1.22,
+       "dur": 3
+      }
+     ]
+    },
+    {
+     "cue": "Kardus yang datang",
+     "d": -0.2,
+     "trans": "zoom",
+     "actors": [],
+     "useLoc": false,
+     "fx": [
+      {
+       "type": "boxPhoto",
+       "stickerAt": {
+        "cue": "tipe mini",
+        "d": -0.2
+       },
+       "chip": "PESANAN: TIPE BESAR",
+       "chipAt": {
+        "cue": "Yang saya pesan",
+        "d": 0.2
+       },
+       "chipBg": "#3BA36B",
+       "chip2": "UNTUK KASIR YANG RAMAI",
+       "chip2At": {
+        "cue": "untuk kasir yang ramai",
+        "d": 0.0
+       },
+       "chip2Bg": "#13223D"
+      }
+     ]
+    },
+    {
+     "cue": "Toko saya buka Kamis",
+     "d": -0.15,
+     "trans": "flash",
+     "loc": "tokobaru",
+     "locOpt": {
+      "time": "pagi",
+      "fill": 0.15,
+      "counterX": 900
+     },
+     "actors": [
+      {
+       "who": "wijaya",
+       "x": 1320,
+       "face": -1,
+       "size": 600,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "shrug",
+         "expr": "angry",
+         "look": "cam"
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "x": 1150,
+       "y": 480,
+       "zoom": 1.05
+      },
+      {
+       "x": 1000,
+       "y": 480,
+       "zoom": 1.12,
+       "dur": 2.2,
+       "cue": "Toko saya buka Kamis",
+       "d": -0.15
+      }
+     ],
+     "fx": [
+      {
+       "type": "chip",
+       "text": "KILAS · TOKO KE-12",
+       "x": 560,
+       "y": 170,
+       "bg": "#5E5A62",
+       "cue": "Toko saya buka Kamis",
+       "d": -0.05
+      },
+      {
+       "type": "chip",
+       "text": "BUKA KAMIS!",
+       "x": 560,
+       "y": 290,
+       "bg": "#D9483B",
+       "cue": "Toko saya buka Kamis",
+       "d": 0.25
+      }
+     ]
+    },
+    {
+     "cue": "Rina mencoba menjelaskan",
+     "d": -0.2,
+     "trans": "flash",
+     "actors": [
+      {
+       "who": "resepsionis",
+       "x": 1080,
+       "y": 930,
+       "layer": "back",
+       "face": -1,
+       "size": 520,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "idle",
+         "expr": "scared",
+         "look": [
+          -1,
+          0
+         ]
+        }
+       ]
+      },
+      {
+       "who": "wijaya",
+       "x": 640,
+       "face": 1,
+       "size": 640,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "hips",
+         "expr": "angry"
+        },
+        {
+         "cue": "Mata Pak Wijaya",
+         "expr": "angry",
+         "look": [
+          1,
+          0.1
+         ]
+        },
+        {
+         "cue": "Saya tidak peduli bagian",
+         "pose": "shrug",
+         "expr": "angry",
+         "emote": "anger"
+        },
+        {
+         "cue": "Saya peduli toko",
+         "pose": "hips"
+        }
+       ]
+      },
+      {
+       "who": "rina",
+       "x": 1380,
+       "face": -1,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "talk",
+         "expr": "neutral"
+        },
+        {
+         "cue": "Pengiriman itu diurus",
+         "pose": "point",
+         "face": 1,
+         "expr": "neutral"
+        },
+        {
+         "cue": "Saya hanya layanan",
+         "pose": "shrug",
+         "face": -1,
+         "expr": "happy"
+        },
+        {
+         "cue": "Saya tidak peduli bagian",
+         "pose": "scared",
+         "expr": "shock",
+         "emote": "!"
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "x": 1010,
+       "y": 520,
+       "zoom": 1.1
+      },
+      {
+       "x": 1100,
+       "y": 520,
+       "zoom": 1.16,
+       "dur": 3,
+       "cue": "Rina mencoba menjelaskan",
+       "d": -0.2
+      },
+      {
+       "cue": "Mata Pak Wijaya",
+       "on": "wijaya",
+       "fit": 0.26,
+       "sx": 820,
+       "dur": 0.8
+      },
+      {
+       "cue": "Saya peduli toko",
+       "x": 1010,
+       "y": 520,
+       "zoom": 1.12,
+       "dur": 1.2
+      }
+     ],
+     "fx": [
+      {
+       "type": "chip",
+       "text": "GUDANG →",
+       "x": 1650,
+       "y": 330,
+       "bg": "#5E5A62",
+       "cue": "Pengiriman itu diurus",
+       "d": 0.4,
+       "out": {
+        "cue": "Mata Pak Wijaya",
+        "d": -0.2
+       }
+      }
+     ]
+    },
+    {
+     "cue": "Rina menambahkan",
+     "d": -0.2,
+     "trans": "cut",
+     "actors": [
+      {
+       "who": "resepsionis",
+       "x": 1080,
+       "y": 930,
+       "layer": "back",
+       "face": -1,
+       "size": 520,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "idle",
+         "expr": "scared",
+         "look": [
+          1,
+          0
+         ]
+        }
+       ]
+      },
+      {
+       "who": "wijaya",
+       "x": 640,
+       "face": 1,
+       "size": 640,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "hips",
+         "expr": "angry"
+        },
+        {
+         "cue": "Nanti itu kapan",
+         "d": -0.1,
+         "pose": "shrug",
+         "expr": "angry",
+         "emote": "anger"
+        }
+       ]
+      },
+      {
+       "who": "rina",
+       "x": 1380,
+       "face": -1,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "talk",
+         "expr": "scared",
+         "emote": "sweat"
+        },
+        {
+         "cue": "Nanti itu kapan",
+         "pose": "scared",
+         "expr": "shock",
+         "emote": "!"
+        },
+        {
+         "cue": "Rina tidak punya",
+         "pose": "sad",
+         "expr": "sad",
+         "look": "down"
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "on": "rina",
+       "fit": 0.24,
+       "sx": 1150
+      },
+      {
+       "on": "rina",
+       "fit": 0.27,
+       "sx": 1150,
+       "dur": 2.5,
+       "cue": "Rina menambahkan",
+       "d": -0.2
+      },
+      {
+       "cue": "Nanti itu kapan",
+       "d": -0.2,
+       "x": 1010,
+       "y": 520,
+       "zoom": 1.14,
+       "dur": 0.5,
+       "ease": "back",
+       "shake": 6
+      },
+      {
+       "cue": "Rina tidak punya",
+       "on": "rina",
+       "fit": 0.28,
+       "sx": 1100,
+       "dur": 1.2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "name": "Saya kira kalian beda",
+   "loc": "lobi",
+   "music": "sad",
+   "trans": "cut",
+   "locOpt": {
+    "time": "pagi",
+    "deskX": 1100,
+    "deskFront": true,
+    "stairs": 1600,
+    "slamX": -230
+   },
+   "lines": [
+    {
+     "who": "wijaya",
+     "from": "Saya kira kalian",
+     "to": "penyedia lain",
+     "text": "Saya kira kalian beda.",
+     "maxW": 560,
+     "size": 44
+    },
+    {
+     "who": "rina",
+     "from": "Apa yang sedang Sinta",
+     "to": "Kesalahannya barusan",
+     "text": "Kesalahanku barusan?",
+     "kind": "think",
+     "maxW": 520,
+     "size": 42
+    }
+   ],
+   "shots": [
+    {
+     "at": 0,
+     "actors": [
+      {
+       "who": "resepsionis",
+       "x": 1300,
+       "y": 930,
+       "layer": "back",
+       "face": -1,
+       "size": 520,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "idle",
+         "expr": "scared",
+         "look": [
+          -1,
+          0
+         ]
+        }
+       ]
+      },
+      {
+       "who": "wijaya",
+       "x": 640,
+       "face": 1,
+       "size": 640,
+       "item": "keys",
+       "keys": [
+        {
+         "at": 0,
+         "pose": "hold",
+         "expr": "angry",
+         "look": [
+          1,
+          -0.2
+         ]
+        },
+        {
+         "at": 1.4,
+         "x": 380,
+         "dur": 1.4,
+         "face": -1,
+         "pose": "idle"
+        },
+        {
+         "cue": "Di depan pintu kaca",
+         "d": 0.4,
+         "face": 1,
+         "pose": "hips",
+         "expr": "angry"
+        },
+        {
+         "cue": "Saya kira kalian",
+         "pose": "shrug",
+         "expr": "sad"
+        },
+        {
+         "cue": "Lalu ia pergi",
+         "d": 0.1,
+         "x": -420,
+         "dur": 1.5,
+         "face": -1,
+         "pose": "idle",
+         "expr": "angry"
+        }
+       ]
+      },
+      {
+       "who": "rina",
+       "x": 1150,
+       "face": -1,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "idle",
+         "expr": "scared",
+         "look": [
+          -1,
+          0
+         ]
+        },
+        {
+         "cue": "Saya kira kalian",
+         "expr": "sad"
+        },
+        {
+         "cue": "Lalu ia pergi",
+         "d": 0.6,
+         "pose": "sad",
+         "expr": "sad",
+         "look": "down"
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "x": 820,
+       "y": 520,
+       "zoom": 1.08
+      },
+      {
+       "at": 0.8,
+       "x": 700,
+       "y": 520,
+       "zoom": 1.16,
+       "dur": 2.5
+      },
+      {
+       "cue": "Saya kira kalian",
+       "d": -0.2,
+       "on": "wijaya",
+       "fit": 0.24,
+       "sx": 700,
+       "dur": 0.8
+      },
+      {
+       "cue": "Lalu ia pergi",
+       "x": 860,
+       "y": 520,
+       "zoom": 1.06,
+       "dur": 1.6
+      }
+     ],
+     "fx": [
+      {
+       "type": "chip",
+       "text": "KUNCI MOBIL · PINTU KACA",
+       "x": 1480,
+       "y": 170,
+       "bg": "#13223D",
+       "col": "#F6C343",
+       "at": 0.4,
+       "out": {
+        "cue": "Di depan pintu kaca",
+        "d": 0.3
+       }
+      }
+     ]
+    },
+    {
+     "cue": "Rina berdiri di tengah",
+     "d": -0.2,
+     "trans": "cut",
+     "actors": [
+      {
+       "who": "resepsionis",
+       "x": 1000,
+       "y": 930,
+       "layer": "back",
+       "face": -1,
+       "size": 520,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "idle",
+         "expr": "sad",
+         "look": [
+          1,
+          0
+         ]
+        }
+       ]
+      },
+      {
+       "who": "rina",
+       "x": 1150,
+       "face": 1,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "sad",
+         "expr": "sad",
+         "look": "down"
+        },
+        {
+         "cue": "Dan dari ujung",
+         "d": 0.4,
+         "look": [
+          1,
+          -0.5
+         ],
+         "expr": "scared"
+        },
+        {
+         "cue": "Sinta membuka buku",
+         "d": 0.3,
+         "expr": "shock",
+         "emote": "!",
+         "look": [
+          1,
+          -0.5
+         ]
+        },
+        {
+         "cue": "Rina menunduk",
+         "pose": "sad",
+         "expr": "sad",
+         "look": "down",
+         "emote": "sweat"
+        }
+       ]
+      },
+      {
+       "who": "sinta",
+       "x": 2260,
+       "y": 650,
+       "face": -1,
+       "keys": [
+        {
+         "at": 0,
+         "x": 2260,
+         "y": 650,
+         "face": -1
+        },
+        {
+         "x": 2055,
+         "dur": 0.52,
+         "cue": "Dan dari ujung",
+         "d": -0.3
+        },
+        {
+         "x": 1985,
+         "dur": 0.26,
+         "cue": "Dan dari ujung",
+         "d": 0.22
+        },
+        {
+         "y": 700,
+         "cue": "Dan dari ujung",
+         "d": 0.35
+        },
+        {
+         "x": 1915,
+         "dur": 0.26,
+         "cue": "Dan dari ujung",
+         "d": 0.48
+        },
+        {
+         "y": 750,
+         "cue": "Dan dari ujung",
+         "d": 0.61
+        },
+        {
+         "cue": "Sinta membuka buku",
+         "d": -0.2,
+         "pose": "hold",
+         "item": "notebook",
+         "expr": "neutral",
+         "look": [
+          -1,
+          0.5
+         ]
+        },
+        {
+         "cue": "lalu menulis sesuatu",
+         "pose": "think",
+         "expr": "neutral",
+         "look": [
+          0,
+          0.6
+         ]
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "x": 1150,
+       "y": 520,
+       "zoom": 1.0
+      },
+      {
+       "x": 1150,
+       "y": 520,
+       "zoom": 1.08,
+       "dur": 2,
+       "cue": "Rina berdiri di tengah",
+       "d": -0.2
+      },
+      {
+       "cue": "Dan dari ujung",
+       "x": 1300,
+       "y": 500,
+       "zoom": 1.1,
+       "dur": 1.4
+      }
+     ],
+     "fx": [
+      {
+       "type": "nameTag",
+       "cue": "koordinator timnya",
+       "d": 0.2,
+       "name": "Sinta",
+       "role": "Koordinator tim",
+       "x": 110,
+       "y": 800,
+       "out": {
+        "cue": "Rina menunduk",
+        "d": -0.2
+       }
+      },
+      {
+       "type": "chip",
+       "text": "BUKU CATATAN KUNING",
+       "x": 1500,
+       "y": 170,
+       "bg": "#F6C343",
+       "col": "#13223D",
+       "cue": "lalu menulis sesuatu",
+       "d": 0.0,
+       "out": {
+        "cue": "Rina menunduk",
+        "d": -0.1
+       }
+      }
+     ]
+    },
+    {
+     "cue": "Rina menunduk",
+     "d": -0.2,
+     "trans": "cut",
+     "actors": [
+      {
+       "who": "rina",
+       "x": 1150,
+       "face": 1,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "sad",
+         "expr": "sad",
+         "look": "down",
+         "emote": "sweat"
+        },
+        {
+         "pose": "think",
+         "look": [
+          1,
+          -0.4
+         ],
+         "cue": "Rina menunduk",
+         "d": 1.4
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "on": "rina",
+       "fit": 0.22,
+       "sx": 820
+      },
+      {
+       "on": "rina",
+       "fit": 0.25,
+       "sx": 820,
+       "dur": 4,
+       "cue": "Rina menunduk",
+       "d": -0.2
+      }
+     ],
+     "grade": {
+      "tint": "rgba(200,60,40,.10)"
+     }
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "name": "Intinya apa, Rin?",
+   "loc": "bos",
+   "music": "tense",
+   "trans": "iris",
+   "locOpt": {
+    "time": "pagi",
+    "deskX": 1300,
+    "folder": true
+   },
+   "lines": [
+    {
+     "who": "hendra",
+     "from": "Intinya apa",
+     "to": "Intinya apa, Rin",
+     "text": "Intinya apa, Rin?",
+     "label": "Pak Hendra",
+     "min": 2.2,
+     "size": 46
+    },
+    {
+     "who": "hendra",
+     "from": "Pak Wijaya tidak butuh",
+     "to": "siapa yang salah",
+     "text": "",
+     "bubble": "none"
+    },
+    {
+     "who": "hendra",
+     "from": "Ia butuh tokonya",
+     "to": "Selesaikan hari ini",
+     "text": "",
+     "bubble": "none"
+    }
+   ],
+   "shots": [
+    {
+     "at": 0,
+     "actors": [
+      {
+       "who": "hendra",
+       "x": 1400,
+       "y": 950,
+       "layer": "back",
+       "face": -1,
+       "size": 600,
+       "item": "phone",
+       "keys": [
+        {
+         "at": 0,
+         "pose": "phone",
+         "expr": "angry"
+        },
+        {
+         "at": 1.3,
+         "pose": "sit",
+         "item": null,
+         "expr": "neutral",
+         "look": [
+          -1,
+          0
+         ]
+        },
+        {
+         "cue": "Katanya, staf",
+         "pose": "point",
+         "expr": "angry"
+        },
+        {
+         "cue": "Rina mulai menjelaskan",
+         "pose": "sit",
+         "expr": "neutral"
+        },
+        {
+         "cue": "Pak Hendra mengangkat",
+         "pose": "wave",
+         "expr": "neutral"
+        },
+        {
+         "cue": "Rina terdiam",
+         "pose": "sit",
+         "expr": "neutral"
+        }
+       ]
+      },
+      {
+       "who": "rina",
+       "x": -260,
+       "face": 1,
+       "keys": [
+        {
+         "at": 0.1,
+         "x": 620,
+         "dur": 1.6,
+         "expr": "scared"
+        },
+        {
+         "at": 1.8,
+         "pose": "idle",
+         "expr": "scared"
+        },
+        {
+         "cue": "Rina mulai menjelaskan",
+         "pose": "point",
+         "face": -1,
+         "expr": "neutral"
+        },
+        {
+         "cue": "soal pengiriman",
+         "pose": "talk",
+         "face": 1
+        },
+        {
+         "cue": "soal siapa",
+         "pose": "shrug",
+         "expr": "neutral"
+        },
+        {
+         "cue": "Intinya apa",
+         "pose": "scared",
+         "expr": "shock",
+         "emote": "!"
+        },
+        {
+         "cue": "Rina terdiam",
+         "pose": "sad",
+         "expr": "sad",
+         "look": "down"
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "x": 1000,
+       "y": 520,
+       "zoom": 1.05
+      },
+      {
+       "at": 1.0,
+       "x": 1050,
+       "y": 520,
+       "zoom": 1.12,
+       "dur": 3
+      },
+      {
+       "cue": "Ternyata Pak Wijaya",
+       "on": "hendra",
+       "fit": 0.23,
+       "sx": 1150,
+       "dur": 1.2
+      },
+      {
+       "cue": "Rina mulai menjelaskan",
+       "x": 1000,
+       "y": 520,
+       "zoom": 1.1,
+       "dur": 1.0
+      },
+      {
+       "cue": "Intinya apa",
+       "d": -0.3,
+       "on": "hendra",
+       "fit": 0.27,
+       "sx": 1150,
+       "dur": 0.6,
+       "ease": "back"
+      },
+      {
+       "cue": "Rina terdiam",
+       "on": "rina",
+       "fit": 0.26,
+       "sx": 760,
+       "dur": 1.0
+      }
+     ],
+     "fx": [
+      {
+       "type": "chip",
+       "text": "10 MENIT KEMUDIAN · RUANG PAK HENDRA",
+       "x": 560,
+       "y": 160,
+       "bg": "#3B2418",
+       "at": 0.3,
+       "out": {
+        "cue": "Ternyata Pak Wijaya",
+        "d": -0.2
+       }
+      },
+      {
+       "type": "chip",
+       "text": "PAK WIJAYA MENELEPON DARI MOBIL",
+       "x": 560,
+       "y": 160,
+       "bg": "#D9483B",
+       "cue": "Ternyata Pak Wijaya",
+       "d": 0.2,
+       "out": {
+        "cue": "Rina mulai menjelaskan",
+        "d": -0.2
+       }
+      },
+      {
+       "type": "card",
+       "cue": "Katanya, staf",
+       "d": 0.1,
+       "style": "small",
+       "text": "\"Katanya: itu bukan urusan saya.\"",
+       "x": 560,
+       "y": 310,
+       "size": 42,
+       "maxW": 760,
+       "out": {
+        "cue": "Rina mulai menjelaskan",
+        "d": -0.2
+       }
+      },
+      {
+       "type": "chip",
+       "text": "GUDANG",
+       "x": 700,
+       "y": 150,
+       "bg": "#5E5A62",
+       "cue": "soal gudang",
+       "d": 0.0,
+       "out": {
+        "cue": "Intinya apa",
+        "d": -0.2
+       }
+      },
+      {
+       "type": "chip",
+       "text": "PENGIRIMAN",
+       "x": 1080,
+       "y": 240,
+       "bg": "#5E5A62",
+       "cue": "soal pengiriman",
+       "d": 0.0,
+       "out": {
+        "cue": "Intinya apa",
+        "d": -0.2
+       }
+      },
+      {
+       "type": "chip",
+       "text": "SIAPA INPUT PESANAN?",
+       "x": 760,
+       "y": 330,
+       "bg": "#5E5A62",
+       "cue": "soal siapa",
+       "d": 0.0,
+       "out": {
+        "cue": "Intinya apa",
+        "d": -0.2
+       }
+      }
+     ]
+    },
+    {
+     "cue": "Pak Wijaya tidak butuh",
+     "d": -0.2,
+     "trans": "cut",
+     "actors": [
+      {
+       "who": "hendra",
+       "x": 1400,
+       "y": 950,
+       "layer": "back",
+       "face": -1,
+       "size": 600,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "talk",
+         "expr": "neutral",
+         "look": [
+          -1,
+          0
+         ]
+        },
+        {
+         "cue": "Ia butuh tokonya",
+         "pose": "shrug",
+         "expr": "neutral"
+        },
+        {
+         "cue": "Selesaikan hari ini",
+         "pose": "point",
+         "expr": "angry"
+        }
+       ]
+      },
+      {
+       "who": "rina",
+       "x": 620,
+       "face": 1,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "sad",
+         "expr": "sad"
+        },
+        {
+         "cue": "Selesaikan hari ini",
+         "d": 0.3,
+         "pose": "idle",
+         "expr": "scared",
+         "emote": "!"
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "on": "hendra",
+       "fit": 0.22,
+       "sx": 1150
+      },
+      {
+       "on": "hendra",
+       "fit": 0.25,
+       "sx": 1150,
+       "dur": 4,
+       "cue": "Pak Wijaya tidak butuh",
+       "d": -0.2
+      },
+      {
+       "cue": "Selesaikan hari ini",
+       "x": 1000,
+       "y": 520,
+       "zoom": 1.12,
+       "dur": 1.0
+      }
+     ],
+     "fx": [
+      {
+       "type": "card",
+       "cue": "Pak Wijaya tidak butuh",
+       "d": 0.2,
+       "style": "small",
+       "text": "Bukan soal siapa yang salah.",
+       "x": 520,
+       "y": 200,
+       "size": 46,
+       "out": {
+        "cue": "Ia butuh tokonya",
+        "d": -0.2
+       }
+      },
+      {
+       "type": "card",
+       "cue": "Ia butuh tokonya",
+       "d": 0.1,
+       "style": "small",
+       "text": "Toko buka Kamis. Selesaikan hari ini.",
+       "x": 560,
+       "y": 200,
+       "size": 44,
+       "maxW": 760
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "name": "Apa yang ia dengar?",
+   "loc": "kaca",
+   "music": "warm",
+   "trans": "iris",
+   "locOpt": {
+    "view": "dalam",
+    "time": "pagi",
+    "deskX": 1240
+   },
+   "lines": [
+    {
+     "who": "ratna",
+     "from": "Tadi kamu bilang",
+     "to": "ke Pak Wijaya",
+     "text": "Tadi kamu bilang apa?",
+     "label": "Bu Ratna",
+     "side": -0.3,
+     "size": 44
+    },
+    {
+     "who": "rina",
+     "from": "Rina mengulang",
+     "to": "kalimatnya",
+     "text": "\"Itu bukan bagian saya.\"",
+     "maxW": 560,
+     "size": 42,
+     "min": 1.8
+    },
+    {
+     "who": "ratna",
+     "from": "Menurutmu, apa",
+     "to": "dari kalimat itu",
+     "text": "Apa yang dia dengar dari kalimatmu?",
+     "side": -0.3,
+     "maxW": 620,
+     "size": 42
+    },
+    {
+     "who": "rina",
+     "from": "Bahwa saya tidak",
+     "to": "tidak peduli",
+     "text": "Bahwa saya tidak peduli.",
+     "maxW": 560,
+     "size": 42
+    }
+   ],
+   "shots": [
+    {
+     "at": 0,
+     "actors": [
+      {
+       "who": "ratna",
+       "x": 1330,
+       "y": 950,
+       "layer": "back",
+       "face": -1,
+       "size": 580,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "sit",
+         "expr": "neutral"
+        },
+        {
+         "cue": "Bu Ratna sempat meraih",
+         "pose": "phone",
+         "item": "phone",
+         "expr": "neutral"
+        },
+        {
+         "cue": "Lalu ia menaruhnya",
+         "pose": "sit",
+         "item": null,
+         "expr": "neutral"
+        },
+        {
+         "cue": "Ini klien Rina",
+         "expr": "happy"
+        },
+        {
+         "cue": "Tadi kamu bilang",
+         "pose": "talk",
+         "expr": "neutral"
+        },
+        {
+         "cue": "Rina mengulang",
+         "pose": "sit",
+         "expr": "neutral"
+        },
+        {
+         "cue": "Menurutmu, apa",
+         "pose": "think",
+         "expr": "neutral"
+        },
+        {
+         "cue": "Bu Ratna mengangguk",
+         "pose": "sit",
+         "expr": "happy"
+        }
+       ]
+      },
+      {
+       "who": "rina",
+       "x": -260,
+       "face": 1,
+       "keys": [
+        {
+         "at": 0.1,
+         "x": 700,
+         "dur": 1.8,
+         "expr": "scared"
+        },
+        {
+         "at": 2.0,
+         "pose": "idle",
+         "expr": "scared"
+        },
+        {
+         "cue": "Rina mengulang",
+         "pose": "talk",
+         "expr": "sad"
+        },
+        {
+         "cue": "Rina menelan ludah",
+         "pose": "idle",
+         "expr": "scared",
+         "emote": "sweat"
+        },
+        {
+         "cue": "Bahwa saya tidak",
+         "pose": "sad",
+         "expr": "sad",
+         "look": "down"
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "x": 1000,
+       "y": 520,
+       "zoom": 1.05
+      },
+      {
+       "at": 2.0,
+       "x": 1000,
+       "y": 520,
+       "zoom": 1.12,
+       "dur": 3
+      },
+      {
+       "cue": "Bu Ratna sempat meraih",
+       "on": "ratna",
+       "fit": 0.23,
+       "sx": 1150,
+       "dur": 1.0
+      },
+      {
+       "cue": "Ini klien Rina",
+       "x": 1000,
+       "y": 520,
+       "zoom": 1.1,
+       "dur": 1.0
+      },
+      {
+       "cue": "Menurutmu, apa",
+       "on": "ratna",
+       "fit": 0.24,
+       "sx": 1150,
+       "dur": 1.0
+      },
+      {
+       "cue": "Rina menelan ludah",
+       "on": "rina",
+       "fit": 0.24,
+       "sx": 760,
+       "dur": 1.0
+      },
+      {
+       "cue": "Bu Ratna mengangguk",
+       "x": 1000,
+       "y": 520,
+       "zoom": 1.1,
+       "dur": 1.0
+      }
+     ],
+     "fx": [
+      {
+       "type": "taps",
+       "x": 1000,
+       "y": 720,
+       "word": "tok",
+       "sound": "knock",
+       "times": [
+        {
+         "at": 2.3
+        },
+        {
+         "at": 2.6
+        }
+       ]
+      },
+      {
+       "type": "chip",
+       "text": "RUANG BU RATNA · 08.40",
+       "x": 1520,
+       "y": 160,
+       "bg": "#13223D",
+       "at": 0.3,
+       "out": {
+        "cue": "Bu Ratna sempat meraih",
+        "d": -0.2
+       }
+      },
+      {
+       "type": "card",
+       "cue": "Ini klien Rina",
+       "d": 0.0,
+       "style": "small",
+       "text": "Ini klien Rina.",
+       "x": 520,
+       "y": 200,
+       "size": 50,
+       "out": {
+        "cue": "Tadi kamu bilang",
+        "d": -0.2
+       }
+      }
+     ]
+    },
+    {
+     "cue": "Orang yang marah",
+     "d": -0.2,
+     "trans": "zoom",
+     "actors": [],
+     "useLoc": false,
+     "fx": [
+      {
+       "type": "boardWrite",
+       "title": "Orang yang marah butuh:",
+       "skin": "#C98B62",
+       "marker": "#C2691F",
+       "lines": [
+        {
+         "text": "DENGAR",
+         "at": {
+          "cue": "Didengar sampai",
+          "d": -0.2
+         },
+         "x": 300,
+         "y": 470,
+         "size": 130,
+         "col": "#C2691F",
+         "dur": 0.7
+        },
+        {
+         "text": "sampai habis",
+         "at": {
+          "cue": "Didengar sampai",
+          "d": 0.5
+         },
+         "x": 1000,
+         "y": 450,
+         "size": 56,
+         "col": "#6B7280",
+         "dur": 0.6
+        },
+        {
+         "text": "AKUI",
+         "at": {
+          "cue": "Masalahnya diakui",
+          "d": -0.2
+         },
+         "x": 300,
+         "y": 660,
+         "size": 130,
+         "col": "#C2691F",
+         "dur": 0.6
+        },
+        {
+         "text": "masalahnya",
+         "at": {
+          "cue": "Masalahnya diakui",
+          "d": 0.5
+         },
+         "x": 1000,
+         "y": 640,
+         "size": 56,
+         "col": "#6B7280",
+         "dur": 0.6
+        },
+        {
+         "text": "JAM",
+         "at": {
+          "cue": "Dan tahu jam",
+          "d": -0.1
+         },
+         "x": 300,
+         "y": 850,
+         "size": 130,
+         "col": "#D9483B",
+         "dur": 0.5,
+         "box": true
+        },
+        {
+         "text": "kapan beres",
+         "at": {
+          "cue": "masalahnya beres",
+          "d": 0.0
+         },
+         "x": 1000,
+         "y": 830,
+         "size": 56,
+         "col": "#6B7280",
+         "dur": 0.6
+        }
+       ]
+      },
+      {
+       "type": "card",
+       "cue": "Penjelasan bisa",
+       "d": 0.1,
+       "style": "small",
+       "text": "Penjelasan bisa menunggu.",
+       "x": 1350,
+       "y": 180,
+       "size": 44
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "name": "Bicara.",
+   "loc": "kerja",
+   "music": "tense",
+   "musicCut": 2.0,
+   "trans": "fade",
+   "post": 0.4,
+   "hold": 1.6,
+   "locOpt": {
+    "time": "pagi",
+    "clock": "09:05"
+   },
+   "shots": [
+    {
+     "at": 0,
+     "actors": [
+      {
+       "who": "rina",
+       "x": 850,
+       "face": 1,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "sit",
+         "expr": "sad",
+         "look": [
+          1,
+          0.4
+         ]
+        },
+        {
+         "cue": "Ia memutar ulang",
+         "pose": "think",
+         "expr": "sad",
+         "look": [
+          0.4,
+          -0.6
+         ]
+        }
+       ]
+      }
+     ],
+     "props": [
+      {
+       "type": "chair16",
+       "x": 830,
+       "y": 1000
+      },
+      {
+       "type": "deskR",
+       "x": 1210,
+       "y": 1000,
+       "cups": 1,
+       "laptop": 1
+      }
+     ],
+     "cam": [
+      {
+       "x": 950,
+       "y": 520,
+       "zoom": 1.06
+      },
+      {
+       "at": 0,
+       "on": "rina",
+       "fit": 0.22,
+       "sx": 800,
+       "dur": 4
+      }
+     ],
+     "fx": [
+      {
+       "type": "chip",
+       "text": "MEJA RINA · 09.05",
+       "x": 1500,
+       "y": 170,
+       "bg": "#13223D",
+       "col": "#F6C343",
+       "at": 0.3
+      }
+     ]
+    },
+    {
+     "cue": "Setiap kali ia menjelaskan",
+     "d": -0.2,
+     "trans": "flash",
+     "loc": "lobi",
+     "locOpt": {
+      "time": "pagi",
+      "deskX": 1100,
+      "deskFront": true,
+      "stairs": 1600,
+      "slamX": -230
+     },
+     "actors": [
+      {
+       "who": "wijaya",
+       "x": 640,
+       "face": 1,
+       "size": 640,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "shrug",
+         "expr": "angry"
+        },
+        {
+         "pose": "hips",
+         "expr": "angry",
+         "emote": "anger",
+         "cue": "Setiap kali ia menjelaskan",
+         "d": 1.0
+        },
+        {
+         "pose": "shrug",
+         "cue": "Setiap kali ia menjelaskan",
+         "d": 2.2
+        }
+       ]
+      },
+      {
+       "who": "rina",
+       "x": 1380,
+       "face": -1,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "point",
+         "face": 1,
+         "expr": "neutral"
+        },
+        {
+         "pose": "talk",
+         "face": -1,
+         "expr": "scared",
+         "cue": "Setiap kali ia menjelaskan",
+         "d": 1.2
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "on": "wijaya",
+       "fit": 0.24,
+       "sx": 860
+      },
+      {
+       "on": "wijaya",
+       "fit": 0.31,
+       "sx": 860,
+       "dur": 3.2,
+       "cue": "Setiap kali ia menjelaskan",
+       "d": -0.2
+      },
+      {
+       "cue": "makin marah",
+       "d": 0.0,
+       "shake": 10
+      }
+     ],
+     "fx": [
+      {
+       "type": "flashback"
+      },
+      {
+       "type": "chip",
+       "text": "MAKIN MARAH",
+       "x": 1460,
+       "y": 300,
+       "bg": "#D9483B",
+       "cue": "makin marah",
+       "d": 0.0
+      }
+     ]
+    },
+    {
+     "cue": "Bu Ratna di catatan",
+     "d": -0.2,
+     "trans": "zoom",
+     "actors": [],
+     "useLoc": false,
+     "fx": [
+      {
+       "type": "stickyMove",
+       "lines": [
+        "DENGAR",
+        "AKUI",
+        "JAM"
+       ],
+       "writeAt": 2.1,
+       "circleAt": 99
+      }
+     ]
+    },
+    {
+     "cue": "Lalu ia menekan",
+     "d": -0.2,
+     "trans": "whip",
+     "actors": [],
+     "useLoc": false,
+     "fx": [
+      {
+       "type": "callScreen",
+       "rings": [
+        {
+         "cue": "sekali",
+         "d": -0.1
+        },
+        {
+         "cue": "dua kali",
+         "d": -0.1
+        },
+        {
+         "cue": "tiga kali",
+         "d": -0.1
+        }
+       ],
+       "connectAt": {
+        "cue": "Lalu suara berat",
+        "d": 0.0
+       },
+       "voiceAt": {
+        "cue": "Bicara",
+        "d": -0.05
+       },
+       "voice": "\"Bicara.\"",
+       "chip": "PANGGILAN KEDUA",
+       "chipAt": 0.4
+      }
+     ]
+    },
+    {
+     "cue": "Hanya satu kata",
+     "d": -0.3,
+     "trans": "cut",
+     "actors": [
+      {
+       "who": "rina",
+       "x": 850,
+       "face": 1,
+       "item": "phone",
+       "keys": [
+        {
+         "at": 0,
+         "pose": "phone",
+         "expr": "scared",
+         "look": [
+          1,
+          -0.1
+         ]
+        },
+        {
+         "cue": "Tangan Rina dingin",
+         "emote": "sweat"
+        },
+        {
+         "cue": "Ini kesempatan",
+         "expr": "neutral",
+         "look": "cam"
+        }
+       ]
+      }
+     ],
+     "props": [
+      {
+       "type": "chair16",
+       "x": 830,
+       "y": 1000
+      },
+      {
+       "type": "deskR",
+       "x": 1210,
+       "y": 1000,
+       "cups": 1,
+       "laptop": 1,
+       "sticky": 1
+      }
+     ],
+     "cam": [
+      {
+       "on": "rina",
+       "fit": 0.25,
+       "sx": 860
+      },
+      {
+       "on": "rina",
+       "fit": 0.36,
+       "sx": 880,
+       "dur": 6.5,
+       "ease": "lin",
+       "cue": "Hanya satu kata",
+       "d": -0.3
+      }
+     ],
+     "grade": {
+      "tint": "rgba(20,20,60,.22)"
+     },
+     "fx": [
+      {
+       "type": "card",
+       "cue": "Ini kesempatan",
+       "d": 0.1,
+       "style": "small",
+       "text": "Kesempatan kedua.",
+       "x": 1400,
+       "y": 220,
+       "size": 48
+      },
+      {
+       "type": "card",
+       "cue": "Dan mungkin yang terakhir",
+       "d": 0.1,
+       "style": "small",
+       "text": "Mungkin yang terakhir.",
+       "x": 1400,
+       "y": 380,
+       "size": 44
+      }
+     ]
+    },
+    {
+     "atE": 1.6,
+     "trans": "cut",
+     "actors": [],
+     "useLoc": false,
+     "loc": "hitam",
+     "noHeader": true
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "name": "Telepon kedua",
+   "loc": "kerja",
+   "music": "hope",
+   "trans": "fade",
+   "pre": 0.8,
+   "locOpt": {
+    "time": "pagi",
+    "clock": "09:07"
+   },
+   "lines": [
+    {
+     "who": "wijaya",
+     "from": "Pak Wijaya menumpahkan",
+     "to": "sudah disebar",
+     "text": "",
+     "bubble": "none"
+    },
+    {
+     "who": "rina",
+     "from": "Iya, Pak",
+     "to": "Iya, Pak",
+     "text": "Iya, Pak.",
+     "min": 1.8,
+     "size": 44
+    },
+    {
+     "who": "rina",
+     "from": "Jadi, toko kedua",
+     "to": "Saya minta maaf",
+     "text": "",
+     "bubble": "none"
+    },
+    {
+     "who": "rina",
+     "from": "Jam tiga sore ini",
+     "to": "siap buka",
+     "text": "",
+     "bubble": "none"
+    },
+    {
+     "who": "wijaya",
+     "from": "Oke",
+     "to": "Jam tiga",
+     "n2": 2,
+     "text": "Oke. Jam tiga.",
+     "label": "Pak Wijaya",
+     "min": 2.2,
+     "size": 44
+    }
+   ],
+   "shots": [
+    {
+     "at": 0,
+     "split": [
+      {
+       "loc": "kerja",
+       "locOpt": {
+        "time": "pagi",
+        "clock": "09:07"
+       },
+       "props": [
+        {
+         "type": "chair16",
+         "x": 830,
+         "y": 1000
+        },
+        {
+         "type": "deskR",
+         "x": 1210,
+         "y": 1000,
+         "cups": 1,
+         "laptop": 1,
+         "sticky": 1
+        }
+       ],
+       "actors": [
+        {
+         "who": "rina",
+         "x": 850,
+         "face": 1,
+         "item": "phone",
+         "keys": [
+          {
+           "at": 0,
+           "pose": "phone",
+           "expr": "scared"
+          },
+          {
+           "cue": "Ia mendengarkan",
+           "expr": "neutral",
+           "look": [
+            1,
+            0.2
+           ]
+          },
+          {
+           "cue": "Pak Wijaya menumpahkan",
+           "expr": "sad"
+          },
+          {
+           "cue": "Rina hanya berkata",
+           "pose": "phone",
+           "expr": "neutral"
+          },
+          {
+           "cue": "dan mencatat",
+           "item": "notebook",
+           "pose": "sit",
+           "expr": "neutral",
+           "look": [
+            1,
+            0.5
+           ]
+          }
+         ]
+        }
+       ],
+       "cam": [
+        {
+         "x": 900,
+         "y": 540,
+         "zoom": 1.15
+        },
+        {
+         "cue": "Satu menit",
+         "x": 880,
+         "y": 540,
+         "zoom": 1.28,
+         "dur": 8
+        }
+       ]
+      },
+      {
+       "loc": "tokobaru",
+       "locOpt": {
+        "time": "pagi",
+        "fill": 0.6,
+        "counterX": 900
+       },
+       "actors": [
+        {
+         "who": "wijaya",
+         "x": 880,
+         "y": 950,
+         "layer": "back",
+         "face": -1,
+         "size": 600,
+         "item": "phone",
+         "keys": [
+          {
+           "at": 0,
+           "pose": "phone",
+           "expr": "angry"
+          },
+          {
+           "cue": "karyawan yang sudah",
+           "pose": "shrug",
+           "expr": "angry"
+          },
+          {
+           "cue": "rak yang sudah",
+           "pose": "point",
+           "face": 1,
+           "expr": "angry"
+          },
+          {
+           "cue": "undangan peresmian",
+           "pose": "hips",
+           "face": -1,
+           "expr": "angry",
+           "emote": "anger"
+          },
+          {
+           "cue": "Rina hanya berkata",
+           "pose": "phone",
+           "expr": "angry"
+          },
+          {
+           "cue": "Setelah Pak Wijaya berhenti",
+           "pose": "phone",
+           "expr": "neutral"
+          }
+         ]
+        }
+       ],
+       "cam": [
+        {
+         "x": 1000,
+         "y": 520,
+         "zoom": 1.0
+        },
+        {
+         "cue": "Pak Wijaya menumpahkan",
+         "x": 980,
+         "y": 500,
+         "zoom": 1.12,
+         "dur": 6
+        }
+       ]
+      }
+     ],
+     "fx": [
+      {
+       "type": "listenTimer",
+       "cue": "Ia mendengarkan",
+       "d": 0.0,
+       "t1": {
+        "cue": "Rina hanya berkata",
+        "d": 0.0
+       },
+       "from": 30,
+       "to": 185,
+       "x": 960,
+       "y": 110,
+       "label": "DENGAR"
+      },
+      {
+       "type": "chip",
+       "text": "KARYAWAN SUDAH DIREKRUT",
+       "x": 1700,
+       "y": 240,
+       "bg": "#6E2430",
+       "size": 28,
+       "cue": "karyawan yang sudah",
+       "d": 0.0
+      },
+      {
+       "type": "chip",
+       "text": "RAK SUDAH DIISI",
+       "x": 1700,
+       "y": 340,
+       "bg": "#6E2430",
+       "size": 28,
+       "cue": "rak yang sudah diisi",
+       "d": 0.0
+      },
+      {
+       "type": "chip",
+       "text": "UNDANGAN SUDAH DISEBAR",
+       "x": 1700,
+       "y": 440,
+       "bg": "#6E2430",
+       "size": 28,
+       "cue": "undangan peresmian",
+       "d": 0.0
+      },
+      {
+       "type": "nameTag",
+       "at": 0.6,
+       "name": "Pak Wijaya",
+       "role": "Toko ke-12 · rak masih kosong",
+       "x": 1010,
+       "y": 800,
+       "out": {
+        "cue": "Satu menit",
+        "d": 0.5
+       }
+      }
+     ]
+    },
+    {
+     "cue": "Setelah Pak Wijaya berhenti",
+     "d": -0.2,
+     "trans": "whip",
+     "actors": [
+      {
+       "who": "rina",
+       "x": 850,
+       "face": 1,
+       "item": "phone",
+       "keys": [
+        {
+         "at": 0,
+         "pose": "phone",
+         "expr": "neutral",
+         "look": [
+          1,
+          0.1
+         ]
+        },
+        {
+         "cue": "Bapak benar",
+         "expr": "sad"
+        },
+        {
+         "cue": "Lalu ia menyebut",
+         "expr": "proud"
+        }
+       ]
+      }
+     ],
+     "props": [
+      {
+       "type": "chair16",
+       "x": 830,
+       "y": 1000
+      },
+      {
+       "type": "deskR",
+       "x": 1210,
+       "y": 1000,
+       "cups": 1,
+       "laptop": 1,
+       "sticky": 1
+      }
+     ],
+     "cam": [
+      {
+       "on": "rina",
+       "fit": 0.19,
+       "sx": 430
+      },
+      {
+       "on": "rina",
+       "fit": 0.21,
+       "sx": 430,
+       "dur": 12,
+       "ease": "lin",
+       "cue": "Setelah Pak Wijaya berhenti",
+       "d": -0.2
+      }
+     ],
+     "fx": [
+      {
+       "type": "steps",
+       "x": 1300,
+       "y": 300,
+       "gap": 220,
+       "w": 1000,
+       "title": "TELEPON KEDUA",
+       "items": [
+        {
+         "cue": "Rina mengulang intinya",
+         "text": "Ulang intinya"
+        },
+        {
+         "cue": "Bapak benar",
+         "text": "Akui dampaknya"
+        },
+        {
+         "cue": "Lalu ia menyebut",
+         "text": "Langkah + jam pasti"
+        }
+       ]
+      },
+      {
+       "type": "chip",
+       "text": "KAMIS 08.00 · KASIR TAK BISA DIPAKAI",
+       "x": 430,
+       "y": 160,
+       "bg": "#13223D",
+       "size": 28,
+       "cue": "Jadi, toko kedua",
+       "d": 0.2,
+       "out": {
+        "cue": "Bapak benar",
+        "d": -0.2
+       }
+      }
+     ]
+    },
+    {
+     "cue": "Jam tiga sore ini",
+     "d": -0.2,
+     "trans": "whip",
+     "split": [
+      {
+       "loc": "kerja",
+       "locOpt": {
+        "time": "pagi",
+        "clock": "09:07"
+       },
+       "props": [
+        {
+         "type": "chair16",
+         "x": 830,
+         "y": 1000
+        },
+        {
+         "type": "deskR",
+         "x": 1210,
+         "y": 1000,
+         "cups": 1,
+         "laptop": 1,
+         "sticky": 1
+        }
+       ],
+       "actors": [
+        {
+         "who": "rina",
+         "x": 850,
+         "face": 1,
+         "item": "phone",
+         "keys": [
+          {
+           "at": 0,
+           "pose": "phone",
+           "expr": "proud",
+           "look": [
+            1,
+            0.1
+           ]
+          },
+          {
+           "cue": "Hening",
+           "expr": "scared",
+           "look": [
+            1,
+            0
+           ]
+          },
+          {
+           "cue": "Oke",
+           "d": 0.4,
+           "expr": "laugh",
+           "emote": "sparkle"
+          }
+         ]
+        }
+       ],
+       "cam": [
+        {
+         "x": 1030,
+         "y": 540,
+         "zoom": 1.2
+        },
+        {
+         "cue": "Hening",
+         "x": 1000,
+         "y": 540,
+         "zoom": 1.3,
+         "dur": 3
+        }
+       ]
+      },
+      {
+       "loc": "tokobaru",
+       "locOpt": {
+        "time": "pagi",
+        "fill": 0.6,
+        "counterX": 900
+       },
+       "actors": [
+        {
+         "who": "wijaya",
+         "x": 880,
+         "y": 950,
+         "layer": "back",
+         "face": -1,
+         "size": 600,
+         "item": "phone",
+         "keys": [
+          {
+           "at": 0,
+           "pose": "phone",
+           "expr": "angry"
+          },
+          {
+           "cue": "Hari Rabu teknisi",
+           "expr": "neutral"
+          },
+          {
+           "cue": "Kamis pagi, toko",
+           "expr": "neutral",
+           "look": [
+            1,
+            0
+           ]
+          },
+          {
+           "cue": "Hening",
+           "pose": "think",
+           "expr": "neutral"
+          },
+          {
+           "cue": "Oke",
+           "pose": "phone",
+           "expr": "neutral"
+          }
+         ]
+        }
+       ],
+       "cam": [
+        {
+         "x": 960,
+         "y": 500,
+         "zoom": 1.1
+        },
+        {
+         "cue": "Hening",
+         "x": 920,
+         "y": 500,
+         "zoom": 1.22,
+         "dur": 3
+        }
+       ]
+      }
+     ],
+     "fx": [
+      {
+       "type": "chip",
+       "text": "15.00 · KABAR PENGIRIMAN",
+       "x": 640,
+       "y": 150,
+       "bg": "#C2691F",
+       "size": 30,
+       "cue": "Jam tiga sore ini",
+       "d": 0.3
+      },
+      {
+       "type": "chip",
+       "text": "RABU · TEKNISI PASANG",
+       "x": 640,
+       "y": 250,
+       "bg": "#C2691F",
+       "size": 30,
+       "cue": "Hari Rabu teknisi",
+       "d": 0.0
+      },
+      {
+       "type": "chip",
+       "text": "KAMIS · SIAP BUKA",
+       "x": 640,
+       "y": 350,
+       "bg": "#3BA36B",
+       "size": 30,
+       "cue": "Kamis pagi, toko",
+       "d": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "name": "Formulir pesanan",
+   "loc": "kerja",
+   "music": "light",
+   "trans": "iris",
+   "locOpt": {
+    "time": "siang",
+    "clock": "11:20"
+   },
+   "shots": [
+    {
+     "at": 0,
+     "actors": [
+      {
+       "who": "rina",
+       "x": 850,
+       "face": 1,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "type",
+         "expr": "neutral",
+         "look": [
+          1,
+          0.3
+         ]
+        }
+       ]
+      }
+     ],
+     "props": [
+      {
+       "type": "chair16",
+       "x": 830,
+       "y": 1000
+      },
+      {
+       "type": "deskR",
+       "x": 1210,
+       "y": 1000,
+       "cups": 2,
+       "laptop": 1,
+       "sticky": 1
+      }
+     ],
+     "cam": [
+      {
+       "x": 960,
+       "y": 520,
+       "zoom": 1.06
+      },
+      {
+       "at": 0,
+       "on": "rina",
+       "fit": 0.22,
+       "sx": 820,
+       "dur": 4
+      }
+     ],
+     "fx": [
+      {
+       "type": "chip",
+       "text": "SAMBIL MENUNGGU · 11.20",
+       "x": 1480,
+       "y": 170,
+       "bg": "#13223D",
+       "col": "#F6C343",
+       "at": 0.3
+      }
+     ]
+    },
+    {
+     "cue": "membuka formulir",
+     "d": 0.2,
+     "trans": "zoom",
+     "actors": [],
+     "useLoc": false,
+     "fx": [
+      {
+       "type": "orderForm",
+       "hlAt": 99,
+       "whoAt": 99
+      }
+     ]
+    },
+    {
+     "cue": "Dan ia tertegun",
+     "d": -0.2,
+     "trans": "cut",
+     "actors": [
+      {
+       "who": "rina",
+       "x": 850,
+       "face": 1,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "sit",
+         "expr": "shock",
+         "emote": "!",
+         "look": [
+          1,
+          0.3
+         ]
+        }
+       ]
+      }
+     ],
+     "props": [
+      {
+       "type": "chair16",
+       "x": 830,
+       "y": 1000
+      },
+      {
+       "type": "deskR",
+       "x": 1210,
+       "y": 1000,
+       "cups": 2,
+       "laptop": 1,
+       "sticky": 1
+      }
+     ],
+     "cam": [
+      {
+       "on": "rina",
+       "fit": 0.27,
+       "sx": 900,
+       "shake": 6
+      },
+      {
+       "on": "rina",
+       "fit": 0.31,
+       "sx": 900,
+       "dur": 1.6,
+       "cue": "Dan ia tertegun",
+       "d": -0.2
+      }
+     ]
+    },
+    {
+     "cue": "Di kolom tipe",
+     "d": -0.3,
+     "trans": "cut",
+     "actors": [],
+     "useLoc": false,
+     "fx": [
+      {
+       "type": "orderForm",
+       "hlAt": {
+        "cue": "mini.",
+        "d": -0.3
+       },
+       "whoAt": {
+        "cue": "Yang mengisinya Fitri",
+        "d": 0.4
+       },
+       "verdict": "TANGANI TIDAK SALAH KIRIM",
+       "verdictAt": {
+        "cue": "Jadi, Tangani tidak",
+        "d": 0.1
+       }
+      }
+     ]
+    },
+    {
+     "cue": "Jarinya langsung",
+     "d": -0.2,
+     "trans": "whip",
+     "actors": [],
+     "useLoc": false,
+     "fx": [
+      {
+       "type": "draftChat",
+       "dragAt": {
+        "cue": "Jarinya langsung",
+        "d": 0.2
+       },
+       "typeAt": {
+        "cue": "Ia mengetik pesan",
+        "d": 0.4
+       },
+       "cps": 13,
+       "holdAt": {
+        "cue": "Lalu ia berhenti",
+        "d": 0.0
+       }
+      }
+     ]
+    },
+    {
+     "cue": "Kalau pesan itu",
+     "d": -0.2,
+     "trans": "cut",
+     "actors": [
+      {
+       "who": "rina",
+       "x": 850,
+       "face": 1,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "think",
+         "expr": "neutral",
+         "look": [
+          1,
+          0.2
+         ]
+        },
+        {
+         "expr": "sad",
+         "look": [
+          0.3,
+          -0.6
+         ],
+         "cue": "Kalau pesan itu",
+         "d": 1.6
+        }
+       ]
+      }
+     ],
+     "props": [
+      {
+       "type": "chair16",
+       "x": 830,
+       "y": 1000
+      },
+      {
+       "type": "deskR",
+       "x": 1210,
+       "y": 1000,
+       "cups": 2,
+       "laptop": 1,
+       "sticky": 1
+      }
+     ],
+     "cam": [
+      {
+       "on": "rina",
+       "fit": 0.23,
+       "sx": 820
+      },
+      {
+       "on": "rina",
+       "fit": 0.27,
+       "sx": 820,
+       "dur": 4,
+       "cue": "Kalau pesan itu",
+       "d": -0.2
+      }
+     ],
+     "fx": [
+      {
+       "type": "card",
+       "cue": "Kalau pesan itu",
+       "d": 0.2,
+       "style": "small",
+       "text": "Apa yang akan Pak Wijaya dengar?",
+       "x": 1380,
+       "y": 200,
+       "size": 44,
+       "maxW": 700
+      }
+     ]
+    },
+    {
+     "cue": "Ia menghapusnya",
+     "d": -0.3,
+     "trans": "cut",
+     "actors": [],
+     "useLoc": false,
+     "fx": [
+      {
+       "type": "draftChat",
+       "dragAt": -9,
+       "typeAt": -9,
+       "delAt": {
+        "cue": "Ia menghapusnya",
+        "d": 0.1
+       },
+       "delCps": 50,
+       "saveAt": {
+        "cue": "Benar belum tentu",
+        "d": -0.1
+       },
+       "saveChip": "SIMPAN DULU"
+      }
+     ]
+    },
+    {
+     "cue": "Benar belum tentu",
+     "d": 0.6,
+     "trans": "fade",
+     "actors": [
+      {
+       "who": "rina",
+       "x": 850,
+       "face": 1,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "sit",
+         "expr": "neutral",
+         "look": [
+          1,
+          0.3
+         ]
+        },
+        {
+         "cue": "Bereskan dulu",
+         "pose": "type",
+         "expr": "proud"
+        }
+       ]
+      }
+     ],
+     "props": [
+      {
+       "type": "chair16",
+       "x": 830,
+       "y": 1000
+      },
+      {
+       "type": "deskR",
+       "x": 1210,
+       "y": 1000,
+       "cups": 2,
+       "laptop": 1,
+       "sticky": 1
+      }
+     ],
+     "cam": [
+      {
+       "x": 960,
+       "y": 520,
+       "zoom": 1.06
+      },
+      {
+       "x": 920,
+       "y": 520,
+       "zoom": 1.14,
+       "dur": 4,
+       "cue": "Benar belum tentu",
+       "d": 0.6
+      }
+     ],
+     "fx": [
+      {
+       "type": "card",
+       "cue": "Benar belum tentu",
+       "d": 0.7,
+       "text": "Benar belum tentu tepat waktunya.",
+       "size": 66,
+       "maxW": 1200,
+       "y": 330,
+       "out": {
+        "cue": "Bereskan dulu",
+        "d": 1.2
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "name": "Jam tiga tepat",
+   "loc": "kerja",
+   "music": "hope",
+   "trans": "whip",
+   "locOpt": {
+    "time": "siang",
+    "clock": "13:40"
+   },
+   "lines": [
+    {
+     "who": "bayu",
+     "from": "Santai, Rin",
+     "to": "pagi berangkat",
+     "text": "Santai, Rin! Besok jam tujuh berangkat.",
+     "label": "Bayu",
+     "maxW": 560,
+     "size": 40
+    }
+   ],
+   "shots": [
+    {
+     "at": 0,
+     "split": [
+      {
+       "loc": "kerja",
+       "locOpt": {
+        "time": "siang",
+        "clock": "13:40"
+       },
+       "props": [
+        {
+         "type": "chair16",
+         "x": 830,
+         "y": 1000
+        },
+        {
+         "type": "deskR",
+         "x": 1210,
+         "y": 1000,
+         "cups": 2,
+         "laptop": 1,
+         "sticky": 1
+        }
+       ],
+       "actors": [
+        {
+         "who": "rina",
+         "x": 850,
+         "face": 1,
+         "item": "phone",
+         "keys": [
+          {
+           "at": 0,
+           "pose": "phone",
+           "expr": "scared",
+           "look": [
+            1,
+            0.1
+           ]
+          },
+          {
+           "cue": "Unit tipe besar sudah",
+           "expr": "happy"
+          },
+          {
+           "cue": "pagi berangkat",
+           "expr": "laugh",
+           "emote": "sparkle"
+          }
+         ]
+        }
+       ],
+       "cam": [
+        {
+         "x": 900,
+         "y": 540,
+         "zoom": 1.18
+        },
+        {
+         "cue": "Santai, Rin",
+         "x": 880,
+         "y": 540,
+         "zoom": 1.26,
+         "dur": 5
+        }
+       ]
+      },
+      {
+       "loc": "kerja",
+       "locOpt": {
+        "time": "siang",
+        "clock": "13:40",
+        "clockWall": false
+       },
+       "props": [
+        {
+         "type": "chair16",
+         "x": 830,
+         "y": 1000,
+         "col": "#2F6F73"
+        },
+        {
+         "type": "deskR",
+         "x": 1210,
+         "y": 1000,
+         "cups": 3,
+         "laptop": 1,
+         "photo": false
+        }
+       ],
+       "actors": [
+        {
+         "who": "bayu",
+         "x": 850,
+         "face": 1,
+         "item": "phone",
+         "keys": [
+          {
+           "at": 0,
+           "pose": "phone",
+           "expr": "happy"
+          },
+          {
+           "cue": "Santai, Rin",
+           "pose": "pointUp",
+           "item": "thumb",
+           "expr": "laugh"
+          },
+          {
+           "cue": "pagi berangkat",
+           "d": 0.3,
+           "pose": "phone",
+           "item": "phone",
+           "expr": "happy"
+          }
+         ]
+        }
+       ],
+       "cam": [
+        {
+         "x": 950,
+         "y": 520,
+         "zoom": 1.1
+        },
+        {
+         "cue": "Santai, Rin",
+         "x": 930,
+         "y": 520,
+         "zoom": 1.2,
+         "dur": 4
+        }
+       ]
+      }
+     ],
+     "fx": [
+      {
+       "type": "nameTag",
+       "cue": "sahabatnya",
+       "d": 0.0,
+       "name": "Bayu",
+       "role": "Tim operasional",
+       "x": 1000,
+       "y": 800,
+       "out": {
+        "cue": "Santai, Rin",
+        "d": -0.2
+       }
+      },
+      {
+       "type": "chip",
+       "text": "UNIT TIPE BESAR: SIAP",
+       "x": 1440,
+       "y": 170,
+       "bg": "#3BA36B",
+       "size": 32,
+       "cue": "Unit tipe besar sudah",
+       "d": 0.3
+      }
+     ]
+    },
+    {
+     "cue": "Tepat jam tiga",
+     "d": -0.2,
+     "trans": "whip",
+     "actors": [],
+     "useLoc": false,
+     "fx": [
+      {
+       "type": "clockClose",
+       "time": "15:00",
+       "label": "15.00",
+       "sub": "Tepat seperti janji"
+      }
+     ]
+    },
+    {
+     "cue": "Unit berangkat besok",
+     "d": -0.6,
+     "trans": "zoom",
+     "actors": [],
+     "useLoc": false,
+     "fx": [
+      {
+       "type": "chat16",
+       "name": "Pak Wijaya",
+       "sub": "Toko Wijaya · online",
+       "ch": "W",
+       "msgs": [
+        {
+         "t": 0.3,
+         "me": true,
+         "text": "Pak, unit tipe besar berangkat besok jam 07.00. Teknisi pasang Rabu jam 10.00. Saya kabari lagi besok sore.",
+         "time": "15.00",
+         "read": {
+          "cue": "Ia akan mengabari",
+          "d": 0.6
+         }
+        },
+        {
+         "t": {
+          "cue": "satu jempol",
+          "d": 0.0
+         },
+         "thumb": true,
+         "time": "15.02"
+        }
+       ],
+       "chip": "GENCATAN SENJATA",
+       "chipAt": {
+        "cue": "gencatan senjata",
+        "d": -0.2
+       },
+       "chipBg": "#13223D"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "name": "Fakta, setelah tenang",
+   "loc": "kerja",
+   "music": "warm",
+   "trans": "iris",
+   "locOpt": {
+    "time": "sore",
+    "clock": "16:30"
+   },
+   "lines": [
+    {
+     "who": "rina",
+     "from": "Pak, supaya toko",
+     "to": "formulir pesanannya",
+     "text": "Supaya toko berikutnya aman, Pak.",
+     "maxW": 520,
+     "size": 40
+    },
+    {
+     "who": "wijaya",
+     "from": "Fitri salah pilih",
+     "to": "Pantas",
+     "text": "Fitri salah pilih. Pantas.",
+     "label": "Pak Wijaya",
+     "maxW": 560,
+     "size": 42
+    },
+    {
+     "who": "wijaya",
+     "from": "Mbak Rina, lain kali",
+     "to": "ke saya, ya",
+     "text": "Lain kali cek ulang ke saya, ya.",
+     "maxW": 600,
+     "size": 42
+    },
+    {
+     "who": "wijaya",
+     "from": "Dan terima kasih",
+     "to": "mau mendengar",
+     "text": "Terima kasih sudah mendengar.",
+     "maxW": 600,
+     "size": 42
+    }
+   ],
+   "shots": [
+    {
+     "at": 0,
+     "actors": [
+      {
+       "who": "rina",
+       "x": 850,
+       "face": 1,
+       "item": "phone",
+       "keys": [
+        {
+         "at": 0,
+         "pose": "sit",
+         "expr": "neutral",
+         "look": [
+          1,
+          0.3
+         ]
+        },
+        {
+         "cue": "Bukan untuk membela",
+         "pose": "phone",
+         "expr": "neutral"
+        }
+       ]
+      }
+     ],
+     "props": [
+      {
+       "type": "chair16",
+       "x": 830,
+       "y": 1000
+      },
+      {
+       "type": "deskR",
+       "x": 1210,
+       "y": 1000,
+       "cups": 2,
+       "laptop": 1,
+       "sticky": 1
+      }
+     ],
+     "cam": [
+      {
+       "x": 960,
+       "y": 520,
+       "zoom": 1.05
+      },
+      {
+       "at": 0,
+       "on": "rina",
+       "fit": 0.22,
+       "sx": 800,
+       "dur": 6
+      }
+     ],
+     "fx": [
+      {
+       "type": "chip",
+       "text": "SORE · 16.30",
+       "x": 1480,
+       "y": 170,
+       "bg": "#13223D",
+       "col": "#F6C343",
+       "at": 0.3
+      },
+      {
+       "type": "card",
+       "cue": "Bukan untuk membela",
+       "d": 0.2,
+       "style": "small",
+       "text": "Bukan untuk membela diri.",
+       "x": 1400,
+       "y": 320,
+       "size": 46
+      }
+     ]
+    },
+    {
+     "cue": "Pak, supaya toko",
+     "d": -0.2,
+     "trans": "whip",
+     "split": [
+      {
+       "loc": "kerja",
+       "locOpt": {
+        "time": "sore",
+        "clock": "16:31"
+       },
+       "props": [
+        {
+         "type": "chair16",
+         "x": 830,
+         "y": 1000
+        },
+        {
+         "type": "deskR",
+         "x": 1210,
+         "y": 1000,
+         "cups": 2,
+         "laptop": 1,
+         "sticky": 1
+        }
+       ],
+       "actors": [
+        {
+         "who": "rina",
+         "x": 850,
+         "face": 1,
+         "item": "phone",
+         "keys": [
+          {
+           "at": 0,
+           "pose": "phone",
+           "expr": "neutral",
+           "look": [
+            1,
+            0.1
+           ]
+          }
+         ]
+        }
+       ],
+       "cam": [
+        {
+         "x": 900,
+         "y": 540,
+         "zoom": 1.18
+        },
+        {
+         "cue": "formulir pesanannya",
+         "x": 880,
+         "y": 540,
+         "zoom": 1.24,
+         "dur": 3
+        }
+       ]
+      },
+      {
+       "loc": "tokobaru",
+       "locOpt": {
+        "time": "sore",
+        "fill": 0.8,
+        "counterX": 900
+       },
+       "actors": [
+        {
+         "who": "wijaya",
+         "x": 880,
+         "y": 950,
+         "layer": "back",
+         "face": -1,
+         "size": 600,
+         "item": "phone",
+         "keys": [
+          {
+           "at": 0,
+           "pose": "phone",
+           "expr": "neutral"
+          },
+          {
+           "cue": "formulir pesanannya",
+           "pose": "hold",
+           "expr": "neutral",
+           "look": "down"
+          }
+         ]
+        }
+       ],
+       "cam": [
+        {
+         "x": 960,
+         "y": 500,
+         "zoom": 1.1
+        },
+        {
+         "cue": "formulir pesanannya",
+         "x": 930,
+         "y": 500,
+         "zoom": 1.18,
+         "dur": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "cue": "Pak Wijaya membaca",
+     "d": -0.2,
+     "trans": "zoom",
+     "actors": [],
+     "useLoc": false,
+     "fx": [
+      {
+       "type": "chat16",
+       "name": "Rina · Tangani",
+       "sub": "online",
+       "ch": "R",
+       "col": "#D9483B",
+       "msgs": [
+        {
+         "t": -2.5,
+         "img": "form",
+         "text": "Pak, supaya toko berikutnya aman, ini formulir pesanannya.",
+         "time": "16.31"
+        }
+       ],
+       "chip": "DIPESAN: FITRI",
+       "chipAt": 1.4,
+       "chipBg": "#6E2430"
+      }
+     ]
+    },
+    {
+     "cue": "Lalu ia menghela",
+     "d": -0.2,
+     "trans": "cut",
+     "loc": "tokobaru",
+     "locOpt": {
+      "time": "sore",
+      "fill": 0.8,
+      "counterX": 900
+     },
+     "actors": [
+      {
+       "who": "wijaya",
+       "x": 880,
+       "y": 950,
+       "layer": "back",
+       "face": -1,
+       "size": 600,
+       "item": "phone",
+       "keys": [
+        {
+         "at": 0,
+         "pose": "hold",
+         "expr": "neutral",
+         "look": "down"
+        },
+        {
+         "pose": "facepalm",
+         "item": null,
+         "expr": "sad",
+         "cue": "Lalu ia menghela",
+         "d": 0.3
+        },
+        {
+         "cue": "Fitri salah pilih",
+         "pose": "shrug",
+         "expr": "sad"
+        },
+        {
+         "cue": "Ia diam sebentar",
+         "pose": "think",
+         "expr": "neutral"
+        },
+        {
+         "cue": "Mbak Rina, lain kali",
+         "pose": "phone",
+         "item": "phone",
+         "expr": "neutral"
+        },
+        {
+         "cue": "Dan terima kasih",
+         "expr": "happy"
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "on": "wijaya",
+       "fit": 0.22,
+       "sx": 1000
+      },
+      {
+       "on": "wijaya",
+       "fit": 0.24,
+       "sx": 1000,
+       "dur": 5,
+       "cue": "Lalu ia menghela",
+       "d": -0.2
+      },
+      {
+       "cue": "Ia diam sebentar",
+       "x": 960,
+       "y": 480,
+       "zoom": 1.12,
+       "dur": 1.4
+      }
+     ],
+     "fx": [
+      {
+       "type": "chip",
+       "text": "TOKO KE-12 · SORE",
+       "x": 560,
+       "y": 170,
+       "bg": "#5E5A62",
+       "out": {
+        "cue": "Fitri salah pilih",
+        "d": -0.2
+       },
+       "cue": "Lalu ia menghela",
+       "d": 0.1
+      }
+     ]
+    },
+    {
+     "cue": "Di seberang ruangan",
+     "d": -0.2,
+     "trans": "whip",
+     "loc": "kerja",
+     "locOpt": {
+      "time": "sore",
+      "clock": "16:40"
+     },
+     "actors": [
+      {
+       "who": "rina",
+       "x": 1250,
+       "face": 1,
+       "item": "phone",
+       "keys": [
+        {
+         "at": 0,
+         "pose": "phone",
+         "expr": "happy",
+         "look": [
+          1,
+          0.2
+         ]
+        },
+        {
+         "cue": "Rina masih belum tahu",
+         "d": 0.2,
+         "pose": "sit",
+         "item": null,
+         "expr": "confused",
+         "emote": "?",
+         "look": [
+          -1,
+          -0.1
+         ]
+        }
+       ]
+      },
+      {
+       "who": "sinta",
+       "x": 480,
+       "face": 1,
+       "item": "notebook",
+       "keys": [
+        {
+         "at": 0,
+         "pose": "hold",
+         "expr": "neutral",
+         "look": [
+          1,
+          0.3
+         ]
+        },
+        {
+         "cue": "menutup buku",
+         "item": null,
+         "pose": "idle",
+         "expr": "proud",
+         "look": [
+          1,
+          0
+         ]
+        }
+       ]
+      }
+     ],
+     "props": [
+      {
+       "type": "chair16",
+       "x": 1230,
+       "y": 1000
+      },
+      {
+       "type": "deskR",
+       "x": 1610,
+       "y": 1000,
+       "cups": 2,
+       "laptop": 1,
+       "sticky": 1
+      }
+     ],
+     "cam": [
+      {
+       "x": 950,
+       "y": 520,
+       "zoom": 1.06
+      },
+      {
+       "x": 900,
+       "y": 520,
+       "zoom": 1.14,
+       "dur": 3,
+       "cue": "Di seberang ruangan",
+       "d": -0.2
+      },
+      {
+       "cue": "Rina masih belum tahu",
+       "on": "rina",
+       "fit": 0.22,
+       "sx": 1100,
+       "dur": 1.4
+      }
+     ],
+     "fx": [
+      {
+       "type": "chip",
+       "text": "BUKU KUNING DITUTUP",
+       "x": 560,
+       "y": 170,
+       "bg": "#F6C343",
+       "col": "#13223D",
+       "cue": "menutup buku",
+       "d": 0.2,
+       "out": {
+        "cue": "Rina masih belum tahu",
+        "d": -0.2
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "name": "Kartu pelajaran",
+   "loc": "lobi",
+   "music": "warm",
+   "trans": "iris",
+   "post": 1.2,
+   "locOpt": {
+    "time": "pagi",
+    "deskX": 1250
+   },
+   "shots": [
+    {
+     "at": 0,
+     "blur": 9,
+     "actors": [
+      {
+       "who": "rina",
+       "x": 300,
+       "size": 600,
+       "face": 1,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "wave",
+         "expr": "happy",
+         "look": "cam"
+        },
+        {
+         "cue": "Satu: dengarkan",
+         "pose": "pointUp"
+        },
+        {
+         "cue": "Dua: akui",
+         "pose": "hips",
+         "expr": "proud"
+        },
+        {
+         "cue": "Tiga: fakta",
+         "pose": "pointUp",
+         "expr": "laugh",
+         "item": "thumb",
+         "jump": 30
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "x": 960,
+       "y": 520,
+       "zoom": 1.0
+      },
+      {
+       "at": 0,
+       "x": 960,
+       "y": 540,
+       "zoom": 1.06,
+       "dur": 18
+      }
+     ],
+     "fx": [
+      {
+       "type": "lesson",
+       "cue": "Satu: dengarkan",
+       "d": -0.6,
+       "items": [
+        {
+         "cue": "Satu: dengarkan",
+         "text": "Dengarkan sampai tuntas, tanpa membela diri"
+        },
+        {
+         "cue": "Dua: akui",
+         "text": "Akui dampaknya, lalu janjikan langkah dan jam pasti"
+        },
+        {
+         "cue": "Tiga: fakta",
+         "text": "Sampaikan fakta setelah suasana tenang"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "cue": "Klien yang marah",
+     "d": -0.3,
+     "trans": "fade",
+     "actors": [],
+     "useLoc": false,
+     "fx": [
+      {
+       "type": "sticky",
+       "lines": [
+        "DENGAR",
+        "AKUI",
+        "JAM"
+       ],
+       "writeAt": -5,
+       "circleAt": 99
+      },
+      {
+       "type": "card",
+       "cue": "Klien yang marah",
+       "d": 0.2,
+       "style": "small",
+       "text": "Klien yang marah bukan musuh.",
+       "x": 1430,
+       "y": 170,
+       "size": 42,
+       "maxW": 700
+      }
+     ]
+    },
+    {
+     "cue": "Ia sedang takut",
+     "d": -0.2,
+     "trans": "fade",
+     "loc": "tokobaru",
+     "locOpt": {
+      "time": "sore",
+      "fill": 0.15,
+      "counterX": 900,
+      "banner": true
+     },
+     "actors": [
+      {
+       "who": "wijaya",
+       "x": 1350,
+       "face": -1,
+       "size": 600,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "hips",
+         "expr": "sad",
+         "look": [
+          -1,
+          -0.4
+         ]
+        },
+        {
+         "pose": "think",
+         "expr": "sad",
+         "cue": "Ia sedang takut",
+         "d": 1.2
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "x": 1150,
+       "y": 500,
+       "zoom": 1.08
+      },
+      {
+       "x": 1220,
+       "y": 500,
+       "zoom": 1.18,
+       "dur": 4,
+       "cue": "Ia sedang takut",
+       "d": -0.2
+      }
+     ],
+     "fx": [
+      {
+       "type": "card",
+       "cue": "Ia sedang takut",
+       "d": 0.2,
+       "style": "small",
+       "text": "Ia sedang takut kehilangan sesuatu.",
+       "x": 620,
+       "y": 200,
+       "size": 46,
+       "maxW": 820
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "name": "Halte: hanya ada satu Tangani",
+   "loc": "halte",
+   "music": "night",
+   "trans": "fade",
+   "locOpt": {
+    "time": "senja"
+   },
+   "lines": [
+    {
+     "who": "rina",
+     "from": "itu bukan bagian saya",
+     "to": "itu bukan bagian saya",
+     "text": "Itu bukan bagian saya.",
+     "min": 2.4,
+     "size": 42,
+     "maxW": 520
+    },
+    {
+     "who": "bayu",
+     "from": "Tuh kan",
+     "to": "aman!",
+     "text": "Tuh kan. Aman!",
+     "label": "Bayu",
+     "min": 2.0,
+     "size": 44
+    }
+   ],
+   "shots": [
+    {
+     "at": 0,
+     "actors": [
+      {
+       "who": "rina",
+       "x": 880,
+       "face": 1,
+       "item": "phone",
+       "keys": [
+        {
+         "at": 0,
+         "pose": "sit",
+         "expr": "happy",
+         "look": [
+          0.4,
+          0.6
+         ]
+        }
+       ]
+      },
+      {
+       "who": "bayu",
+       "x": 1200,
+       "face": -1,
+       "item": "phone",
+       "keys": [
+        {
+         "at": 0,
+         "pose": "sit",
+         "expr": "happy",
+         "look": [
+          -0.3,
+          0.6
+         ]
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "x": 1040,
+       "y": 520,
+       "zoom": 1.08
+      },
+      {
+       "at": 0,
+       "x": 980,
+       "y": 540,
+       "zoom": 1.18,
+       "dur": 3
+      }
+     ],
+     "fx": [
+      {
+       "type": "chip",
+       "text": "MALAM · HALTE",
+       "x": 1480,
+       "y": 170,
+       "bg": "#13223D",
+       "col": "#F6C343",
+       "at": 0.3
+      }
+     ]
+    },
+    {
+     "cue": "memandangi jempol",
+     "d": -0.3,
+     "trans": "zoom",
+     "actors": [],
+     "useLoc": false,
+     "fx": [
+      {
+       "type": "chat16",
+       "night": true,
+       "name": "Pak Wijaya",
+       "sub": "Toko Wijaya",
+       "ch": "W",
+       "msgs": [
+        {
+         "t": -5,
+         "me": true,
+         "text": "Pak, unit tipe besar berangkat besok jam 07.00. …",
+         "time": "15.00",
+         "read": -4
+        },
+        {
+         "t": -4,
+         "thumb": true,
+         "time": "15.02"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "cue": "Pagi tadi",
+     "d": -0.2,
+     "trans": "flash",
+     "loc": "lobi",
+     "locOpt": {
+      "time": "pagi",
+      "deskX": 1100,
+      "deskFront": true,
+      "stairs": 1600,
+      "slamX": -230
+     },
+     "actors": [
+      {
+       "who": "wijaya",
+       "x": 640,
+       "face": 1,
+       "size": 640,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "hips",
+         "expr": "angry"
+        }
+       ]
+      },
+      {
+       "who": "rina",
+       "x": 1380,
+       "face": -1,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "shrug",
+         "expr": "happy",
+         "emote": "sweat"
+        },
+        {
+         "cue": "Memang benar",
+         "pose": "idle",
+         "expr": "neutral"
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "x": 1010,
+       "y": 520,
+       "zoom": 1.12
+      },
+      {
+       "x": 1150,
+       "y": 520,
+       "zoom": 1.22,
+       "dur": 6,
+       "cue": "Pagi tadi",
+       "d": -0.2
+      }
+     ],
+     "fx": [
+      {
+       "type": "flashback"
+      },
+      {
+       "type": "card",
+       "cue": "Memang benar",
+       "d": 0.1,
+       "style": "small",
+       "text": "Benar: pengiriman bukan tugasnya.",
+       "x": 1350,
+       "y": 200,
+       "size": 42,
+       "maxW": 760
+      }
+     ]
+    },
+    {
+     "cue": "Tapi bagi klien",
+     "d": -0.2,
+     "trans": "fade",
+     "loc": "lobi",
+     "locOpt": {
+      "time": "pagi",
+      "deskX": 99999
+     },
+     "actors": [
+      {
+       "who": "rina",
+       "x": 1290,
+       "face": 1,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "idle",
+         "expr": "neutral",
+         "look": [
+          0.3,
+          -0.2
+         ]
+        },
+        {
+         "cue": "adalah Tangani",
+         "d": -0.3,
+         "pose": "hips",
+         "expr": "proud",
+         "look": "cam"
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "x": 1290,
+       "y": 470,
+       "zoom": 1.05
+      },
+      {
+       "x": 1290,
+       "y": 470,
+       "zoom": 1.1,
+       "dur": 3,
+       "cue": "Tapi bagi klien",
+       "d": -0.2
+      },
+      {
+       "cue": "Dan orang yang berdiri",
+       "on": "rina",
+       "fit": 0.2,
+       "sx": 960,
+       "sy": 520,
+       "dur": 3
+      }
+     ],
+     "fx": [
+      {
+       "type": "card",
+       "cue": "hanya ada satu Tangani",
+       "d": 0.0,
+       "style": "small",
+       "text": "Bagi klien, hanya ada satu Tangani.",
+       "x": 520,
+       "y": 860,
+       "size": 40,
+       "maxW": 760,
+       "out": {
+        "cue": "Dan orang yang berdiri",
+        "d": 0.3
+       }
+      },
+      {
+       "type": "chip",
+       "text": "SAAT ITU: RINA = TANGANI",
+       "x": 1500,
+       "y": 860,
+       "bg": "#C2691F",
+       "cue": "adalah Tangani",
+       "d": 0.0
+      }
+     ]
+    },
+    {
+     "cue": "Bayu menyenggol",
+     "d": -0.2,
+     "trans": "fade",
+     "actors": [
+      {
+       "who": "rina",
+       "x": 800,
+       "face": 1,
+       "item": "phone",
+       "keys": [
+        {
+         "at": 0,
+         "pose": "sit",
+         "expr": "neutral",
+         "look": [
+          0.4,
+          0.6
+         ]
+        },
+        {
+         "jump": 12,
+         "expr": "shock",
+         "look": [
+          1,
+          -0.1
+         ],
+         "cue": "Bayu menyenggol",
+         "d": 0.2
+        },
+        {
+         "cue": "Rina tersenyum",
+         "expr": "happy",
+         "look": [
+          1,
+          -0.1
+         ]
+        },
+        {
+         "cue": "Ia mengetuk bangku",
+         "expr": "laugh",
+         "look": "cam"
+        },
+        {
+         "cue": "Satu hari yang berat",
+         "expr": "happy",
+         "look": [
+          0.4,
+          -0.4
+         ]
+        },
+        {
+         "cue": "Setidaknya",
+         "expr": "neutral",
+         "look": [
+          1,
+          -0.3
+         ]
+        }
+       ]
+      },
+      {
+       "who": "bayu",
+       "x": 1180,
+       "face": -1,
+       "item": "phone",
+       "keys": [
+        {
+         "at": 0,
+         "pose": "sit",
+         "expr": "laugh"
+        },
+        {
+         "jump": 16,
+         "cue": "Bayu menyenggol",
+         "d": 0.1
+        },
+        {
+         "cue": "Ia mengetuk bangku",
+         "expr": "happy",
+         "look": [
+          0,
+          0.6
+         ]
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "x": 990,
+       "y": 540,
+       "zoom": 1.12
+      },
+      {
+       "x": 990,
+       "y": 540,
+       "zoom": 1.18,
+       "dur": 5,
+       "cue": "Bayu menyenggol",
+       "d": -0.2
+      },
+      {
+       "cue": "Satu hari yang berat",
+       "on": "rina",
+       "fit": 0.2,
+       "sx": 900,
+       "dur": 3
+      },
+      {
+       "cue": "Setidaknya",
+       "on": "rina",
+       "fit": 0.26,
+       "sx": 900,
+       "dur": 2.5
+      }
+     ],
+     "sfx": [
+      {
+       "cue": "Setidaknya",
+       "d": 0.0,
+       "type": "dun",
+       "vol": 0.7
+      }
+     ],
+     "fx": [
+      {
+       "type": "taps",
+       "x": 700,
+       "y": 880,
+       "word": "tok",
+       "sound": "knock",
+       "times": [
+        {
+         "cue": "Ia mengetuk bangku",
+         "d": 0.4
+        },
+        {
+         "cue": "Ia mengetuk bangku",
+         "d": 0.75
+        }
+       ]
+      },
+      {
+       "type": "chip",
+       "text": "BUKAN KARENA GUGUP",
+       "x": 1450,
+       "y": 170,
+       "bg": "#3BA36B",
+       "cue": "bukan karena gugup",
+       "d": 0.0,
+       "out": {
+        "cue": "Satu hari yang berat",
+        "d": 0.3
+       }
+      },
+      {
+       "type": "chip",
+       "text": "TOKO KE-12 BUKA TEPAT WAKTU?",
+       "x": 1450,
+       "y": 170,
+       "bg": "#6E2430",
+       "cue": "Toko kedua belas",
+       "d": 0.2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "name": "Cuplikan Klien Terbesar Eps 2 + layar akhir",
+   "loc": "kerja",
+   "music": "tense",
+   "trans": "flash",
+   "post": 6.5,
+   "locOpt": {
+    "time": "pagi",
+    "clock": "07:10",
+    "empty": true
+   },
+   "lines": [
+    {
+     "who": "bayu",
+     "from": "Rin, kardus untuk",
+     "to": "tidak ada di gudang",
+     "text": "Rin… kardusnya nggak ada.",
+     "label": "Bayu",
+     "maxW": 520,
+     "size": 42
+    },
+    {
+     "who": "dodi",
+     "from": "seorang pria bertopi",
+     "to": "tangan terlipat",
+     "text": "Pasti gudang lagi yang salah, ya?",
+     "label": "Dodi",
+     "maxW": 560,
+     "size": 40
+    }
+   ],
+   "shots": [
+    {
+     "at": 0,
+     "actors": [
+      {
+       "who": "rina",
+       "x": 850,
+       "face": 1,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "type",
+         "expr": "happy",
+         "look": [
+          1,
+          0.3
+         ]
+        },
+        {
+         "cue": "telepon Rina berdering",
+         "pose": "phone",
+         "item": "phoneBuzz",
+         "expr": "shock",
+         "emote": "!"
+        }
+       ]
+      }
+     ],
+     "props": [
+      {
+       "type": "chair16",
+       "x": 830,
+       "y": 1000
+      },
+      {
+       "type": "deskR",
+       "x": 1210,
+       "y": 1000,
+       "cups": 1,
+       "laptop": 1,
+       "sticky": 1
+      }
+     ],
+     "cam": [
+      {
+       "x": 960,
+       "y": 520,
+       "zoom": 1.05
+      },
+      {
+       "at": 0,
+       "on": "rina",
+       "fit": 0.22,
+       "sx": 820,
+       "dur": 3
+      },
+      {
+       "cue": "telepon Rina berdering",
+       "on": "rina",
+       "fit": 0.26,
+       "sx": 820,
+       "dur": 0.5,
+       "ease": "back"
+      }
+     ],
+     "sfx": [
+      {
+       "cue": "telepon Rina berdering",
+       "d": -0.2,
+       "type": "ring",
+       "vol": 0.8,
+       "dur": 2.2
+      }
+     ],
+     "fx": [
+      {
+       "type": "month",
+       "at": 0.2,
+       "hold": 3.0,
+       "day": "9",
+       "text": "JUNI"
+      },
+      {
+       "type": "chip",
+       "text": "SELASA · 07.10",
+       "x": 1480,
+       "y": 190,
+       "bg": "#13223D",
+       "col": "#F6C343",
+       "at": 0.5
+      }
+     ]
+    },
+    {
+     "cue": "Suara Bayu",
+     "d": -0.2,
+     "trans": "whip",
+     "split": [
+      {
+       "loc": "kerja",
+       "locOpt": {
+        "time": "pagi",
+        "clock": "07:11",
+        "empty": true
+       },
+       "props": [
+        {
+         "type": "chair16",
+         "x": 830,
+         "y": 1000
+        },
+        {
+         "type": "deskR",
+         "x": 1210,
+         "y": 1000,
+         "cups": 1,
+         "laptop": 1,
+         "sticky": 1
+        }
+       ],
+       "actors": [
+        {
+         "who": "rina",
+         "x": 850,
+         "face": 1,
+         "item": "phone",
+         "keys": [
+          {
+           "at": 0,
+           "pose": "phone",
+           "expr": "neutral",
+           "look": [
+            1,
+            0.1
+           ]
+          },
+          {
+           "cue": "tidak ada di gudang",
+           "expr": "shock",
+           "emote": "!"
+          }
+         ]
+        }
+       ],
+       "cam": [
+        {
+         "x": 900,
+         "y": 540,
+         "zoom": 1.2
+        },
+        {
+         "cue": "Rin, kardus untuk",
+         "x": 880,
+         "y": 540,
+         "zoom": 1.3,
+         "dur": 4
+        }
+       ]
+      },
+      {
+       "loc": "gudang",
+       "locOpt": {
+        "emptyRack": {
+         "x": 260,
+         "w": 700,
+         "label": "WIJAYA · TK-12"
+        },
+        "boxes": [
+         [
+          1500,
+          2
+         ],
+         [
+          1760,
+          1
+         ]
+        ]
+       },
+       "actors": [
+        {
+         "who": "bayu",
+         "x": 1100,
+         "face": -1,
+         "item": "phone",
+         "keys": [
+          {
+           "at": 0,
+           "pose": "phone",
+           "expr": "scared",
+           "look": [
+            -1,
+            -0.2
+           ]
+          },
+          {
+           "cue": "tidak ada di gudang",
+           "expr": "sad",
+           "emote": "sweat"
+          }
+         ]
+        }
+       ],
+       "cam": [
+        {
+         "x": 820,
+         "y": 500,
+         "zoom": 0.95
+        },
+        {
+         "cue": "Rin, kardus untuk",
+         "x": 860,
+         "y": 500,
+         "zoom": 1.02,
+         "dur": 4
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "cue": "Toko buka lusa",
+     "d": -0.2,
+     "trans": "zoom",
+     "actors": [],
+     "useLoc": false,
+     "fx": [
+      {
+       "type": "calendar",
+       "title": "JUNI",
+       "days": [
+        [
+         "SEN",
+         8
+        ],
+        [
+         "SEL",
+         9
+        ],
+        [
+         "RAB",
+         10
+        ],
+        [
+         "KAM",
+         11
+        ],
+        [
+         "JUM",
+         12
+        ],
+        [
+         "SAB",
+         13
+        ],
+        [
+         "MIN",
+         14
+        ]
+       ],
+       "today": 9,
+       "todayLabel": "HARI INI",
+       "dead": 11,
+       "deadLabel": "TOKO BUKA",
+       "deadSub": "KAMIS",
+       "circleAt": 0.3
+      }
+     ]
+    },
+    {
+     "cue": "Dan di gudang",
+     "d": -0.2,
+     "trans": "whip",
+     "loc": "gudang",
+     "locOpt": {
+      "emptyRack": {
+       "x": -40,
+       "w": 600,
+       "label": "WIJAYA · TK-12"
+      },
+      "boxes": [
+       [
+        1700,
+        2
+       ]
+      ]
+     },
+     "actors": [
+      {
+       "who": "dodi",
+       "x": 1330,
+       "face": -1,
+       "keys": [
+        {
+         "at": 0,
+         "pose": "cross",
+         "expr": "neutral",
+         "look": [
+          -1,
+          0
+         ]
+        },
+        {
+         "cue": "tangan terlipat",
+         "d": -0.4,
+         "pose": "cross",
+         "expr": "angry",
+         "look": "cam"
+        }
+       ]
+      },
+      {
+       "who": "rina",
+       "x": -300,
+       "face": 1,
+       "keys": [
+        {
+         "x": 760,
+         "dur": 1.8,
+         "expr": "scared",
+         "cue": "Dan di gudang",
+         "d": 0.0
+        },
+        {
+         "pose": "idle",
+         "expr": "scared",
+         "emote": "sweat",
+         "cue": "Dan di gudang",
+         "d": 1.9
+        }
+       ]
+      }
+     ],
+     "cam": [
+      {
+       "x": 900,
+       "y": 520,
+       "zoom": 1.05
+      },
+      {
+       "x": 950,
+       "y": 520,
+       "zoom": 1.14,
+       "dur": 3,
+       "cue": "Dan di gudang",
+       "d": -0.2
+      }
+     ],
+     "fx": [
+      {
+       "type": "nameTag",
+       "name": "Dodi",
+       "role": "Gudang & lapangan",
+       "x": 1380,
+       "y": 800,
+       "cue": "Dan di gudang",
+       "d": 0.4
+      }
+     ]
+    },
+    {
+     "cue": "Saksikan kelanjutannya",
+     "d": -0.2,
+     "trans": "fade",
+     "actors": [],
+     "useLoc": false,
+     "noHeader": true,
+     "fx": [
+      {
+       "type": "endscreen",
+       "clickAt": {
+        "cue": "subscribe Tangani"
+       },
+       "askAt": {
+        "cue": "Dan tulis"
+       },
+       "nextQuote": "\"Pasti gudang lagi?\"",
+       "nextSub": "kardus hilang",
+       "nextTitle": "Klien Terbesar · Eps 2",
+       "nextWho": "dodi",
+       "nextKey": {
+        "pose": "cross",
+        "expr": "angry"
+       },
+       "nextThumb": false,
+       "playlist": "Klien Terbesar",
+       "playlistEps": "Eps 1 · 2 · 3 · 4",
+       "ask": "Pernahkah kamu refleks membela diri saat dimarahi? Tulis di komentar!"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

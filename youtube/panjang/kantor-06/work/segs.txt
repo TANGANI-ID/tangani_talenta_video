@@ -1,0 +1,4 @@
+file '/var/www/tangani_talenta/tangani_talenta_video/youtube/panjang/kantor-06/work/seg00.mp4'
+file '/var/www/tangani_talenta/tangani_talenta_video/youtube/panjang/kantor-06/work/seg01.mp4'
+file '/var/www/tangani_talenta/tangani_talenta_video/youtube/panjang/kantor-06/work/seg02.mp4'
+file '/var/www/tangani_talenta/tangani_talenta_video/youtube/panjang/kantor-06/work/seg03.mp4'

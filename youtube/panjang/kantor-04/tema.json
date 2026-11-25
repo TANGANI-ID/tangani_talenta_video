@@ -1,0 +1,42 @@
+{
+ "slug": "kantor-04",
+ "title": "Nilai Kinerja Jelek, 3 Bulan Kemudian Jadi yang Terbaik | Kantor Tangani: Tak Terlihat Eps 4",
+ "kicker": "Kantor Tangani: Tak Terlihat · Eps 4/4 · animasi 16:9",
+ "kind": "cerita16",
+ "parts": [
+  {
+   "name": "Pembuka & masalah",
+   "chapters": [
+    "Sebelumnya",
+    "Nilai cukup",
+    "Resign aja?",
+    "Sembilan hal sekaligus"
+   ]
+  },
+  {
+   "name": "Memburuk",
+   "chapters": [
+    "Pilih dua",
+    "Tiga bulan"
+   ]
+  },
+  {
+   "name": "Berubah & hasil",
+   "chapters": [
+    "Penilaian berikutnya",
+    "Cerita baru"
+   ]
+  },
+  {
+   "name": "Cerita baru",
+   "chapters": []
+  }
+ ],
+ "lessons": [
+  "Nilai yang jelek adalah peta, bukan vonis.",
+  "Pilih dua hal saja untuk diperbaiki, kerjakan setiap hari.",
+  "Minta umpan balik secara rutin, jangan menunggu penilaian datang."
+ ],
+ "duration": 495.6,
+ "voice": "Citra (ElevenLabs)"
+}

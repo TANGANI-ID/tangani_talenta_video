@@ -1,0 +1,1533 @@
+{
+ "slug": "kelas-02",
+ "title": "Susah Fokus Kerja? Coba Teknik 25 Menit Ini (Pomodoro) | Kelas Produktif Eps 2",
+ "series": "Kelas Produktif",
+ "story": "Waktu & Prioritas",
+ "eps": "2",
+ "naskah": "youtube/kelas/kp02b-naskah.md",
+ "minDur": 480,
+ "chapters": [
+  [
+   1,
+   "Tiga jam, dua puluh persen"
+  ],
+  [
+   3,
+   "Pindah-pindah itu ada harganya"
+  ],
+  [
+   4,
+   "Poin 1: Pilih satu tugas"
+  ],
+  [
+   5,
+   "Poin 2: Timer 25 menit"
+  ],
+  [
+   6,
+   "Poin 3: Tulis di kertas"
+  ],
+  [
+   7,
+   "Poin 4: Berhenti 5 menit"
+  ],
+  [
+   8,
+   "Poin 5: Empat sesi"
+  ],
+  [
+   9,
+   "Poin 6: Sesuaikan dan latih"
+  ],
+  [
+   10,
+   "Rangkuman"
+  ],
+  [
+   11,
+   "Coba besok pagi"
+  ],
+  [
+   12,
+   "Episode berikutnya"
+  ]
+ ],
+ "parts": [
+  [
+   "Masalah",
+   0,
+   2
+  ],
+  [
+   "6 Langkah",
+   2,
+   8
+  ],
+  [
+   "Penutup",
+   8,
+   11
+  ]
+ ],
+ "lessons": [
+  "Pilih satu tugas, fokus 25 menit.",
+  "Ada gangguan? Tulis di kertas, lalu lanjutkan.",
+  "Istirahat 5 menit jauh dari layar, lalu ulangi."
+ ],
+ "youtube": {
+  "lessonHead": "Coba besok pagi:",
+  "about": "Kelas Produktif adalah serial belajar kerja dari Tangani Talenta: penjelasan singkat, cara praktis yang bisa dicoba besok.",
+  "desc": "Susah fokus kerja? Tiga jam di depan layar tapi progres baru 20%? Di video ini ada enam langkah teknik Pomodoro: pilih satu tugas dan targetnya, pasang timer 25 menit, tulis gangguan di kertas, istirahat 5 menit jauh dari layar, ambil istirahat panjang setelah empat sesi, lalu sesuaikan dengan pekerjaanmu dan latih terus.",
+  "ask": "Di menit keberapa kamu biasanya tergoda membuka ponsel? Tulis di kolom komentar.",
+  "next": "Kelas Produktif Eps 3: To-Do List-mu Tidak Pernah Selesai? Ini Kesalahannya.",
+  "tags": "kelas produktif, pomodoro, teknik pomodoro, susah fokus kerja, cara fokus kerja, produktivitas kerja, manajemen waktu, tips kerja, dunia kerja, Tangani Talenta",
+  "hashtags": "#KelasProduktif #pomodoro #produktivitas",
+  "adAfter": 6
+ },
+ "thumb": {
+  "kind": "kp2b",
+  "lines": [
+   "SUSAH",
+   "FOKUS KERJA?"
+  ],
+  "hl": "COBA 25 MENIT",
+  "lineSize": 96,
+  "hlSize": 78,
+  "badge": "6 LANGKAH",
+  "tag": "KELAS PRODUKTIF · EPS 2"
+ },
+ "extras": {},
+ "adegan": [
+  {
+   "n": 1,
+   "name": "Tiga jam, dua puluh persen",
+   "loc": "kerja",
+   "music": "light",
+   "trans": "fade",
+   "noHeader": true,
+   "shots": [
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "fade",
+     "fx": [
+      {
+       "type": "tabsLaptop",
+       "at": 0,
+       "from": 660,
+       "to": 840,
+       "dur": 9.0,
+       "pct": 0.2,
+       "chip": "3 JAM · BARU 20%",
+       "chipAt": {
+        "cue": "Dua puluh persen",
+        "d": -0.6
+       }
+      }
+     ],
+     "at": 0
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "zoom",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 3,
+       "top": "PADAHAL TIDAK BERMALAS-MALASAN",
+       "big": "14 TAB",
+       "size": 300,
+       "lines": [
+        "Chat berbunyi terus,",
+        "video tutorial jalan di pojok layar."
+       ]
+      }
+     ],
+     "cue": "Tab terbuka empat belas",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "leakBucket",
+       "at": 0,
+       "drain": 16,
+       "chip": "KE MANA PERGINYA?",
+       "chipAt": 0.6
+      }
+     ],
+     "cue": "Lalu ke mana perginya tiga jam itu",
+     "d": -0.3
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "zoom",
+     "fx": [
+      {
+       "type": "tomatoBig",
+       "at": 0,
+       "runAt": 1.4,
+       "chip": "25 MENIT · SATU TUGAS",
+       "chipAt": 0.8
+      }
+     ],
+     "cue": "Di video ini, aku bahas teknik fokus",
+     "d": -0.2
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "name": "Kartu judul",
+   "vo": false,
+   "dur": 8.2,
+   "noHeader": true,
+   "noCaption": true,
+   "music": "none",
+   "trans": "flash",
+   "loc": "kerja",
+   "shots": [
+    {
+     "at": 0,
+     "useLoc": false,
+     "actors": [],
+     "fx": [
+      {
+       "type": "titleKP",
+       "at": 0,
+       "disc": 0,
+       "deco": "tomato",
+       "eps": "EPS 2",
+       "topic": "WAKTU & PRIORITAS",
+       "hook": "Susah Fokus Kerja? Coba Teknik 25 Menit Ini (Pomodoro)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "name": "Pindah-pindah itu ada harganya",
+   "loc": "kerja",
+   "music": "light",
+   "trans": "flash",
+   "noHeader": true,
+   "shots": [
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "flash",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 4,
+       "top": "BANGGA BISA LIMA HAL SEKALIGUS?",
+       "big": "BANGGA?",
+       "size": 260,
+       "lines": [
+        "Banyak orang merasa",
+        "itu tanda produktif."
+       ]
+      }
+     ],
+     "at": 0
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 2,
+       "top": "DULU AKU JUGA BEGITU",
+       "big": "HEBAT?",
+       "size": 300,
+       "lines": [
+        "Terasa hebat, sampai sadar",
+        "hasilnya selalu setengah-setengah."
+       ]
+      }
+     ],
+     "cue": "Dulu aku juga begitu",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "zoom",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 4,
+       "top": "OTAK TIDAK MULTITASKING",
+       "big": "BERPINDAH",
+       "size": 210,
+       "lines": [
+        "Ia hanya berpindah dengan sangat cepat,",
+        "dan tiap pindah ada biayanya."
+       ]
+      }
+     ],
+     "cue": "Tapi otak tidak benar-benar",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "zoom",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 3,
+       "top": "SETIAP KALI BERPINDAH",
+       "big": "ADA BIAYANYA",
+       "size": 190,
+       "lines": [
+        "Biaya untuk masuk lagi",
+        "ke pekerjaan yang sama."
+       ]
+      }
+     ],
+     "cue": "Dan setiap kali berpindah, ada biayanya",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "lostCursor",
+       "at": 0,
+       "cycle": 4.6,
+       "chip": "KEMBALI KE PEKERJAAN, LUPA SAMPAI MANA",
+       "chipAt": 0.6
+      }
+     ],
+     "cue": "Coba ingat",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "focusGraph",
+       "at": 0,
+       "cmpAt": 4.8,
+       "chip": "BIAYA MASUK LAGI MENUMPUK",
+       "chipAt": 1.0
+      }
+     ],
+     "cue": "Setiap pindah terasa sebentar",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "leakBucket",
+       "at": 0,
+       "drain": 12,
+       "plugAt": {
+        "cue": "Tujuan kita, berhenti bocor",
+        "d": 0.2
+       },
+       "chip": "TIDAK TERLIHAT, TAPI BOCOR",
+       "chipAt": 0.8
+      }
+     ],
+     "cue": "Seperti air yang bocor dari ember kecil",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "zoom",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 5,
+       "top": "CARANYA ADA",
+       "big": "6",
+       "size": 420,
+       "lines": [
+        "Kita kerjakan satu per satu.",
+        "Mulai dari yang paling sederhana."
+       ]
+      }
+     ],
+     "cue": "Caranya ada enam langkah",
+     "d": -0.2
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "name": "Poin 1: Pilih satu tugas",
+   "loc": "kerja",
+   "music": "light",
+   "trans": "whip",
+   "noHeader": true,
+   "shots": [
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "pointCard",
+       "at": 0,
+       "n": 1,
+       "lines": [
+        "PILIH",
+        "SATU TUGAS"
+       ],
+       "sub": "Tulis juga targetnya untuk satu sesi."
+      }
+     ],
+     "at": 0
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "splitTask",
+       "at": 0,
+       "ex": 1,
+       "splitAt": {
+        "cue": "karena itu terlalu besar",
+        "d": 0.5
+       },
+       "lit": [
+        {
+         "at": {
+          "cue": "Tapi mengisi rekap baris satu sampai empat puluh",
+          "d": 0.2
+         },
+         "i": 0
+        }
+       ],
+       "chip": "BUKAN 'MENGERJAKAN REKAP'",
+       "chipAt": 0.6
+      }
+     ],
+     "cue": "Bukan mengerjakan rekap",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "zoom",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 0,
+       "top": "KENAPA SATU TUGAS?",
+       "big": "1",
+       "size": 430,
+       "lines": [
+        "Begitu ada dua, kamu mulai berpindah,",
+        "dan kembali ke ember bocor."
+       ]
+      }
+     ],
+     "cue": "Kenapa harus satu tugas",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "splitTask",
+       "at": 0,
+       "ex": 2,
+       "splitAt": {
+        "cue": "pecah dulu jadi potongan",
+        "d": 0.2
+       },
+       "lit": [
+        {
+         "at": {
+          "cue": "mengumpulkan data",
+          "d": 0.0
+         },
+         "i": 0
+        },
+        {
+         "at": {
+          "cue": "membuat kerangka",
+          "d": 0.0
+         },
+         "i": 1
+        },
+        {
+         "at": {
+          "cue": "lalu menulis bagian pertama",
+          "d": 0.0
+         },
+         "i": 2
+        }
+       ]
+      }
+     ],
+     "cue": "Kalau tugasnya besar",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 0,
+       "top": "POTONGAN KECIL",
+       "big": "MULAI",
+       "size": 300,
+       "lines": [
+        "Mulai itu bagian tersulitnya,",
+        "jadi buat potongannya kecil."
+       ]
+      }
+     ],
+     "cue": "Potongan kecil terasa ringan untuk dimulai",
+     "d": -0.2
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "name": "Poin 2: Pasang timer 25 menit",
+   "loc": "kerja",
+   "music": "tense",
+   "trans": "whip",
+   "noHeader": true,
+   "shots": [
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "pointCard",
+       "at": 0,
+       "n": 2,
+       "lines": [
+        "PASANG TIMER",
+        "25 MENIT"
+       ],
+       "sub": "Singkirkan semua yang bisa menggoda."
+      }
+     ],
+     "at": 0
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "closeTabs",
+       "at": 0,
+       "closeAt": {
+        "cue": "Tutup tab lain",
+        "d": 0.2
+       },
+       "per": 0.55,
+       "flipAt": {
+        "cue": "Balik ponselmu menghadap meja",
+        "d": 0.4
+       },
+       "muteAt": {
+        "cue": "Matikan notifikasi di komputer",
+        "d": 0.9
+       },
+       "chip": "SINGKIRKAN GODAAN",
+       "chipAt": 0.6
+      }
+     ],
+     "cue": "Tutup tab lain",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "zoom",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 1,
+       "top": "KENAPA 25 MENIT?",
+       "big": "25",
+       "size": 440,
+       "lines": [
+        "Cukup pendek, tidak menakutkan.",
+        "Cukup panjang, untuk masuk ke pekerjaan."
+       ]
+      }
+     ],
+     "cue": "Kenapa dua puluh lima menit",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "tomatoBig",
+       "at": 0,
+       "runAt": 1.5,
+       "chip": "BERDETAK = ADA GARIS AKHIR",
+       "chipAt": 1.0
+      }
+     ],
+     "cue": "Dan pengatur waktu itu penting",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "zoom",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 4,
+       "top": "POMODORO",
+       "big": "TOMAT",
+       "size": 330,
+       "lines": [
+        "Bahasa Italia untuk tomat,",
+        "dari pengatur waktu dapur milik penemunya."
+       ]
+      }
+     ],
+     "cue": "Pomodoro memang bahasa Italia",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 1,
+       "top": "PAKAI PONSEL?",
+       "big": "OKE",
+       "size": 330,
+       "lines": [
+        "Asal mode jangan ganggu menyala."
+       ]
+      }
+     ],
+     "cue": "Pengatur waktu di ponsel pun bisa",
+     "d": -0.2
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "name": "Poin 3: Tulis di kertas",
+   "loc": "kerja",
+   "music": "warm",
+   "trans": "whip",
+   "noHeader": true,
+   "shots": [
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "pointCard",
+       "at": 0,
+       "n": 3,
+       "lines": [
+        "TULIS",
+        "DI KERTAS"
+       ],
+       "sub": "Ada gangguan? Catat, lalu lanjutkan."
+      }
+     ],
+     "at": 0
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "zoom",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 2,
+       "top": "LANGKAH INI",
+       "big": "PENYELAMAT",
+       "size": 210,
+       "lines": [
+        "Langkah yang paling menyelamatkan",
+        "sesi fokusmu."
+       ]
+      }
+     ],
+     "cue": "Ini langkah yang paling menyelamatkan",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "noteDistract",
+       "at": 0,
+       "mode": "main",
+       "thoughts": [
+        {
+         "at": {
+          "cue": "Harus balas pesan itu",
+          "d": -0.2
+         },
+         "text": "Balas pesan Kak Rina?"
+        },
+        {
+         "at": {
+          "cue": "Harus cek harga",
+          "d": -0.2
+         },
+         "text": "Cek harga tiket"
+        },
+        {
+         "at": {
+          "cue": "Harus tanya teman soal satu kode",
+          "d": -0.2
+         },
+         "text": "Tanya kode K-07"
+        }
+       ]
+      }
+     ],
+     "cue": "Di tengah sesi, hampir pasti",
+     "d": -0.3
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "zoom",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 2,
+       "top": "KERTAS ITU BERJANJI",
+       "big": "TENANG",
+       "size": 310,
+       "lines": [
+        "Kamu tidak akan lupa,",
+        "jadi otakmu boleh tenang."
+       ]
+      }
+     ],
+     "cue": "Kertas itu berjanji",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 5,
+       "top": "BONUSNYA",
+       "big": "SATU GARIS",
+       "size": 200,
+       "lines": [
+        "Melatih diri melihat dorongan,",
+        "tanpa menurutinya."
+       ]
+      }
+     ],
+     "cue": "Dan ada bonusnya",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "urgeWave",
+       "at": 0,
+       "cmpAt": 5.2
+      }
+     ],
+     "cue": "Gangguan biasanya naik sebentar",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "zoom",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 2,
+       "top": "SAAT ISTIRAHAT",
+       "big": "NANTI",
+       "size": 320,
+       "lines": [
+        "Semua catatan diurus sekaligus.",
+        "Tidak ada yang terlupa."
+       ]
+      }
+     ],
+     "cue": "Nanti saat istirahat",
+     "d": -0.2
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "name": "Poin 4: Berhenti 5 menit",
+   "loc": "kerja",
+   "music": "warm",
+   "trans": "whip",
+   "noHeader": true,
+   "shots": [
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "pointCard",
+       "at": 0,
+       "n": 4,
+       "lines": [
+        "BERHENTI",
+        "5 MENIT"
+       ],
+       "sub": "Saat timer berbunyi, benar-benar berhenti."
+      }
+     ],
+     "at": 0
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "zoom",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 4,
+       "top": "TIMER BERBUNYI",
+       "big": "BERHENTI",
+       "size": 260,
+       "lines": [
+        "Walau sedang asyik,",
+        "walau tinggal sedikit lagi."
+       ]
+      }
+     ],
+     "cue": "Sungguh-sungguh berhenti",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "breakTimeline",
+       "at": 0,
+       "restDur": 15,
+       "stages": [
+        {
+         "at": {
+          "cue": "Berdiri",
+          "d": -0.1
+         },
+         "label": "BERDIRI",
+         "pose": 1
+        },
+        {
+         "at": {
+          "cue": "minum air",
+          "d": -0.1
+         },
+         "label": "MINUM AIR",
+         "pose": 2
+        },
+        {
+         "at": {
+          "cue": "regangkan bahu",
+          "d": -0.1
+         },
+         "label": "REGANGKAN BAHU",
+         "pose": 3
+        },
+        {
+         "at": {
+          "cue": "lihat jendela",
+          "d": -0.1
+         },
+         "label": "LIHAT JENDELA",
+         "pose": 4
+        }
+       ],
+       "crossAt": {
+        "cue": "Bukan pindah ke media sosial",
+        "d": 0.9
+       }
+      }
+     ],
+     "cue": "Istirahat lima menit, dan jauh dari layar",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "zoom",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 0,
+       "top": "TIMER BUKAN MUSUH",
+       "big": "BOLEH",
+       "size": 330,
+       "lines": [
+        "Kamu boleh berhenti",
+        "tanpa rasa bersalah."
+       ]
+      }
+     ],
+     "cue": "Aku tahu ini terasa berat",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 3,
+       "top": "ISTIRAHAT TERJADWAL",
+       "big": "SEGAR",
+       "size": 300,
+       "lines": [
+        "Sesi berikutnya tetap segar,",
+        "bukan makin lelah dan makin lambat."
+       ]
+      }
+     ],
+     "cue": "Kenapa harus berhenti walau masih semangat",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "zoom",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 4,
+       "top": "KALAU DIPAKSA TERUS",
+       "big": "TURUN",
+       "size": 330,
+       "lines": [
+        "Di jam kedua sudah lelah,",
+        "dan mutunya turun."
+       ]
+      }
+     ],
+     "cue": "Kalau terus dipaksa",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "noteDistract",
+       "at": 0,
+       "mode": "check",
+       "checks": [
+        {
+         "cue": "Balas pesan yang menunggu",
+         "d": 0.2
+        },
+        {
+         "cue": "tanyakan hal yang kamu catat",
+         "d": 0.4
+        },
+        {
+         "cue": "Semuanya jadi rapi",
+         "d": 0.0
+        }
+       ]
+      }
+     ],
+     "cue": "Pada lima menit ini juga",
+     "d": -0.2
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "name": "Poin 5: Empat sesi, istirahat panjang",
+   "loc": "kerja",
+   "music": "warm",
+   "trans": "whip",
+   "noHeader": true,
+   "shots": [
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "pointCard",
+       "at": 0,
+       "n": 5,
+       "lines": [
+        "EMPAT SESI,",
+        "ISTIRAHAT PANJANG"
+       ],
+       "sub": "Sekitar dua jam fokus, lalu rehat 15–30 menit."
+      }
+     ],
+     "at": 0
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "cycleRing",
+       "at": 0,
+       "mode": "ring",
+       "arcAt": [
+        0.0,
+        0.7,
+        1.4,
+        2.1
+       ],
+       "longAt": {
+        "cue": "lima belas sampai tiga puluh menit",
+        "d": 0.1
+       },
+       "labelAt": {
+        "cue": "dua jam kerja fokus",
+        "d": 0.3
+       }
+      }
+     ],
+     "cue": "ambil istirahat yang lebih panjang",
+     "d": -0.3
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "zoom",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 5,
+       "top": "EMPAT SESI",
+       "big": "2 JAM",
+       "size": 340,
+       "lines": [
+        "Fokus sungguhan,",
+        "itu sebenarnya banyak sekali."
+       ]
+      }
+     ],
+     "cue": "Itu sebenarnya banyak sekali",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "cycleRing",
+       "at": 0,
+       "mode": "cmp",
+       "laneBAt": {
+        "cue": "dua atau tiga jam fokus sungguhan",
+        "d": 0.0
+       }
+      }
+     ],
+     "cue": "Banyak orang mengira harus fokus delapan jam penuh",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "zoom",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 3,
+       "top": "ISTIRAHAT PANJANG",
+       "big": "TANPA LAYAR",
+       "size": 190,
+       "lines": [
+        "Makan, berjalan sebentar,",
+        "atau sekadar duduk."
+       ]
+      }
+     ],
+     "cue": "Gunakan istirahat panjang",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 1,
+       "top": "HANYA SEMPAT DUA SESI?",
+       "big": "2 SESI",
+       "size": 330,
+       "lines": [
+        "Dua sesi yang utuh",
+        "lebih berharga daripada seharian setengah hati."
+       ]
+      }
+     ],
+     "cue": "Dan kalau hari ini kamu hanya sempat dua sesi",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "zoom",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 4,
+       "top": "YANG PENTING",
+       "big": "MULAI",
+       "size": 330,
+       "lines": [
+        "Mulai, dan sesinya utuh."
+       ]
+      }
+     ],
+     "cue": "Yang penting kamu mulai",
+     "d": -0.2
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "name": "Poin 6: Sesuaikan dan latih",
+   "loc": "kerja",
+   "music": "warm",
+   "trans": "whip",
+   "noHeader": true,
+   "shots": [
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "pointCard",
+       "at": 0,
+       "n": 6,
+       "lines": [
+        "SESUAIKAN",
+        "DAN LATIH"
+       ],
+       "sub": "Fokus bukan bakat. Fokus bisa dilatih."
+      }
+     ],
+     "at": 0
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "adaptDay",
+       "at": 0,
+       "mode": "queue"
+      }
+     ],
+     "cue": "Kalau kamu sering dipanggil",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "adaptDay",
+       "at": 0,
+       "mode": "status",
+       "statusAt": 0.6,
+       "calAt": {
+        "cue": "Blok jam fokusmu di kalender",
+        "d": 0.2
+       },
+       "chip": "BERI TAHU TIM"
+      }
+     ],
+     "cue": "Pasang status di aplikasi chat",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "zoom",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 4,
+       "top": "ADA YANG DARURAT?",
+       "big": "STOP",
+       "size": 330,
+       "lines": [
+        "Hentikan sesinya, tidak apa-apa.",
+        "Selesai urusan, mulai sesi baru."
+       ]
+      }
+     ],
+     "cue": "Dan kalau ada yang benar-benar darurat",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 2,
+       "top": "DI MENIT KETUJUH BUKA PONSEL?",
+       "big": "WAJAR",
+       "size": 290,
+       "lines": [
+        "Aku dulu begitu,",
+        "bahkan di menit keempat."
+       ]
+      }
+     ],
+     "cue": "Terakhir, jangan kecil hati",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "zoom",
+     "fx": [
+      {
+       "type": "bigStat",
+       "at": 0,
+       "c": 5,
+       "top": "FOKUS BUKAN BAKAT",
+       "big": "OTOT",
+       "size": 340,
+       "lines": [
+        "Tumbuh lewat latihan."
+       ]
+      }
+     ],
+     "cue": "Fokus bukan bakat",
+     "d": -0.2
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "adaptDay",
+       "at": 0,
+       "mode": "tally",
+       "oldAt": 0.6,
+       "newAt": 4.0,
+       "chip": "FOKUS = OTOT"
+      }
+     ],
+     "cue": "Orang yang tadinya punya satu halaman penuh",
+     "d": -0.2
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "name": "Rangkuman enam poin",
+   "loc": "kerja",
+   "music": "warm",
+   "trans": "fade",
+   "noHeader": true,
+   "shots": [
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "fade",
+     "fx": [
+      {
+       "type": "recapList",
+       "at": 0,
+       "title": "POMODORO · 6 LANGKAH",
+       "rows": [
+        {
+         "text": "Pilih satu tugas + target sesi",
+         "icon": "star",
+         "at": {
+          "cue": "Satu, pilih satu tugas",
+          "d": -0.1
+         }
+        },
+        {
+         "text": "Timer 25 menit, singkirkan godaan",
+         "icon": "tomato",
+         "at": {
+          "cue": "Dua, pasang pengatur waktu",
+          "d": -0.1
+         }
+        },
+        {
+         "text": "Ada gangguan? Tulis di kertas",
+         "icon": "paper",
+         "at": {
+          "cue": "Tiga, ada gangguan",
+          "d": -0.1
+         }
+        },
+        {
+         "text": "Timer bunyi: istirahat 5 menit",
+         "icon": "cup",
+         "at": {
+          "cue": "Empat, saat berbunyi",
+          "d": -0.1
+         }
+        },
+        {
+         "text": "Empat sesi, istirahat panjang",
+         "icon": "boxes",
+         "at": {
+          "cue": "Lima, setelah empat sesi",
+          "d": -0.1
+         }
+        },
+        {
+         "text": "Sesuaikan pekerjaanmu, latih terus",
+         "icon": "cal",
+         "at": {
+          "cue": "Dan enam, sesuaikan",
+          "d": -0.1
+         }
+        }
+       ]
+      }
+     ],
+     "at": 0
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "name": "Coba besok pagi",
+   "loc": "kerja",
+   "music": "warm",
+   "trans": "iris",
+   "post": 3.0,
+   "noHeader": true,
+   "locOpt": {
+    "time": "pagi",
+    "clock": "08:00"
+   },
+   "props": [
+    {
+     "type": "chair16",
+     "x": 830,
+     "y": 1000
+    },
+    {
+     "type": "deskR",
+     "x": 1210,
+     "y": 1000,
+     "photo": false,
+     "laptop": 1
+    }
+   ],
+   "shots": [
+    {
+     "at": 0,
+     "blur": 9,
+     "actors": [],
+     "cam": [
+      {
+       "x": 960,
+       "y": 520,
+       "zoom": 1.0
+      },
+      {
+       "at": 0,
+       "x": 960,
+       "y": 540,
+       "zoom": 1.06,
+       "dur": 18
+      }
+     ],
+     "fx": [
+      {
+       "type": "tomatoMini",
+       "at": 0.6,
+       "x": 250,
+       "y": 330,
+       "s": 0.9
+      },
+      {
+       "type": "lesson",
+       "cue": "Satu, pilih satu tugas, fokus",
+       "d": -0.6,
+       "tag": "COBA BESOK PAGI",
+       "items": [
+        {
+         "cue": "Satu, pilih satu tugas, fokus",
+         "text": "Pilih satu tugas, fokus 25 menit"
+        },
+        {
+         "cue": "Dua, kalau ada gangguan",
+         "text": "Ada gangguan? Tulis di kertas, lalu lanjutkan"
+        },
+        {
+         "cue": "Tiga, istirahat lima menit",
+         "text": "Istirahat 5 menit jauh dari layar, lalu ulangi"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "name": "Cuplikan Eps 3 + layar akhir",
+   "loc": "kerja",
+   "music": "tense",
+   "trans": "flash",
+   "noHeader": true,
+   "shots": [
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "flash",
+     "fx": [
+      {
+       "type": "longList",
+       "at": 0,
+       "mode": "list",
+       "dur": 6.0,
+       "chip": "TIDAK PERNAH HABIS",
+       "chipAt": 1.4
+      }
+     ],
+     "at": 0
+    },
+    {
+     "actors": [],
+     "useLoc": false,
+     "trans": "whip",
+     "fx": [
+      {
+       "type": "longList",
+       "at": 0,
+       "mode": "vs",
+       "chip": "23 BUTIR vs 3 BARIS",
+       "chipAt": 2.0
+      }
+     ],
+     "cue": "Di episode berikutnya",
+     "d": -0.2
+    },
+    {
+     "cue": "Kalau video ini bermanfaat",
+     "d": -0.2,
+     "trans": "fade",
+     "actors": [],
+     "useLoc": false,
+     "noHeader": true,
+     "fx": [
+      {
+       "type": "endscreen",
+       "clickAt": {
+        "cue": "subscribe Tangani"
+       },
+       "askAt": {
+        "cue": "Dan tulis di kolom komentar"
+       },
+       "nextQuote": "\"23 butir.\"",
+       "nextSub": "Tak pernah habis.",
+       "nextTitle": "Kelas Produktif · Eps 3",
+       "nextWho": "sinta",
+       "nextKey": {
+        "pose": "pointUp",
+        "expr": "happy"
+       },
+       "nextThumb": false,
+       "playlistHead": "Kelas Produktif:",
+       "playlist": "Waktu & Prioritas",
+       "playlistEps": "Eps 1 · 2 · 3",
+       "ask": "Di menit keberapa kamu biasanya tergoda membuka ponsel? Tulis di komentar!"
+      }
+     ]
+    }
+   ],
+   "post": 6.5
+  }
+ ]
+}
